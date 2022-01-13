@@ -1,0 +1,130 @@
+﻿[
+    {
+        "name": "TopShot",
+        "address": "0x0b2a3299cc857e29",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/TopShot/topshot%20logo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/TopShot/topshot%20banner.png",
+        "official_website": "https://nbatopshot.com",
+        "marketplace": "https://nbatopshot.com/marketplace"
+    },
+    {
+        "name": "NyatheesOVO",
+        "address": "0x75e0b6de94eb05d0",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/NyatheesOVO/OVO%20logo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/NyatheesOVO/OVO%20banner.png",
+        "official_website": "https://www.ovo.space/#/",
+        "marketplace": "https://www.ovo.space/#/Market"
+    },
+    {
+        "name": "RaceDay_NFT",
+        "address": "0x329feb3ab062d289",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/RaceDay_NFT/Raceday%20logo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/RaceDay_NFT/Raceday%20banner.jpeg",
+        "official_website": "https://racedaynft.com/",
+        "marketplace": "https://racedaynft.com/marketplace"
+    },
+    {
+        "name": "EternalShard",
+        "address": "0x82b54037a8f180cf",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/EternalShard/EternalShard%20logo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/EternalShard/EternalShard%20banner.png",
+        "official_website": "https://eternal.gg",
+        "marketplace": "https://eternal.gg/listings"
+    },
+    {
+        "name": "StarlyCard",
+        "address": "0x5b82f21c0edf76e3",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/StarlyCard/StarlyCard%20logo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/StarlyCard/StarlyCard%20banner.png",
+        "official_website": "https://starly.io",
+        "marketplace": "https://starly.io/marketplace"
+    },
+    {
+        "name": "Vouchers",
+        "address": "0x444f5ea22c6ea12c",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/Vouchers/Voucher%20logo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/Vouchers/Vouchers%20banner.png",
+        "official_website": "https://schmoes.io",
+        "marketplace": ""
+    },
+    {
+        "name": "Mynft",
+        "address": "0xf6fcbef550d97aa5",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/Mynft/mynft%20logo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/Mynft/mynft%20banner.png",
+        "official_website": "https://mynft.io",
+        "marketplace": "https://mynft.io/market"
+    },
+    {
+        "name": "MatrixWorldFlowFestNFT",
+        "address": "0x2d2750f240198f91",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/MatrixWorldFlowFestNFT/MatrixWorld%20logo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/MatrixWorldFlowFestNFT/MatrixWorld%20banner.png",
+        "official_website": "https://matrixworld.org/home",
+        "marketplace": ""
+    },
+    {
+        "name": "MusicBlock",
+        "address": "0x5634aefcb76e7d8c",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/MusicBlock/MusicBlock%20logo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/MusicBlock/MusicBlock%20banner.png",
+        "official_website": "https://www.melos.studio",
+        "marketplace": "https://www.melos.studio/marketplace/gallery"
+    },
+    {
+        "name": "Gaia",
+        "address": "0x8b148183c28ff88f",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/Gaia/gaia%20logo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/Gaia/gaia%20banner.png",
+        "official_website": "https://ongaia.com",
+        "marketplace": "https://ongaia.com/browse"
+    },
+    {
+        "name": "FantastecNFT",
+        "address": "0x2e1ee1e7a96826ce",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/FantastecNFT/FantastecNFT%20logo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/FantastecNFT/FantastecNFT%20banner.png",
+        "official_website": "https://www.swap-fantastec.com",
+        "marketplace": "https://www.swap-fantastec.com/shop"
+    },
+    {
+        "name": "Domains",
+        "address": "0x233eb012d34b0070",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/Domains/domain%20logo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/Domains/domains%20banner.png",
+        "official_website": "https://www.flowns.org/?utm_source=Flowverse&utm_medium=Website&utm_campaign=Dapp",
+        "marketplace": ""
+    },
+    {
+        "name": "TFCItems",
+        "address": "0x81e95660ab5308e1",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/TFCItems/TFC%20logo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/TFCItems/TFC%20banner.png",
+        "official_website": "https://www.thefootballclub.com",
+        "marketplace": ""
+    },
+    {
+        "name": "Gooberz",
+        "address": "0x34f2bf4a80bb0f69",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/Gooberz/Gooberz%20logo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/Gooberz/Gooberz%20banner.jpeg",
+        "official_website": "https://partymansion.io",
+        "marketplace": "https://partymansion.io/marketplace"
+    },
+    {
+        "name": "BiscuitsNGroovy",
+        "address": "0x7859c48816bfea3c",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/BiscuitsNGroovy/BiscuitsNGroovy%20logo.jpeg",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/BiscuitsNGroovy/BiscuitNGroovy%20banner.jpeg",
+        "official_website": "https://www.bngroovy.com/home",
+        "marketplace": ""
+    },
+    {
+        "name": "GeniaceNFT",
+        "address": "0xabda6627c70c7f52",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/GeniaceNFT/Geniace%20logo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft%20logo/GeniaceNFT/Geniace%20banner.png",
+        "official_website": "https://www.geniace.com",
+        "marketplace": ""
+    }
+]
