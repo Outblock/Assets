@@ -8,7 +8,7 @@
         "marketplace": "https://nbatopshot.com/marketplace"
     },
     {
-        "name": "NyatheesOVO",
+        "name": "OVO",
         "address": "0x75e0b6de94eb05d0",
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/nyatheesovo/ovologo.jpeg",
         "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/nyatheesovo/ovobanner.png",
@@ -16,7 +16,7 @@
         "marketplace": "https://www.ovo.space/#/Market"
     },
     {
-        "name": "RaceDay_NFT",
+        "name": "RaceDay",
         "address": "0x329feb3ab062d289",
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/raceday_nft/racedaylogo.png",
         "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/raceday_nft/racedaybanner.jpeg",
@@ -56,7 +56,7 @@
         "marketplace": "https://mynft.io/market"
     },
     {
-        "name": "MatrixWorldFlowFestNFT",
+        "name": "MatrixWorld",
         "address": "0x2d2750f240198f91",
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldlogo.png",
         "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldbanner.png",
@@ -80,7 +80,7 @@
         "marketplace": "https://ongaia.com/browse"
     },
     {
-        "name": "FantastecNFT",
+        "name": "Fantastec",
         "address": "0x2e1ee1e7a96826ce",
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/fantastecnft/fantastecnftlogo.png",
         "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/fantastecnft/fantastecnftbanner.png",
@@ -96,7 +96,7 @@
         "marketplace": null
     },
     {
-        "name": "TFCItems",
+        "name": "TFC",
         "address": "0x81e95660ab5308e1",
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfclogo.jpg",
         "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfcbanner.png",
@@ -120,7 +120,7 @@
         "marketplace": null
     },
     {
-        "name": "GeniaceNFT",
+        "name": "Geniace",
         "address": "0xabda6627c70c7f52",
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/geniacenft/geniacelogo.png",
         "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/geniacenft/geniacebanner.png",
