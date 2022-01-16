@@ -45,7 +45,7 @@
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/vouchers/voucherslogo.png",
         "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/vouchers/vouchersbanner.png",
         "official_website": "https://schmoes.io",
-        "marketplace": ""
+        "marketplace": null
     },
     {
         "name": "Mynft",
@@ -61,7 +61,7 @@
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldlogo.png",
         "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldbanner.png",
         "official_website": "https://matrixworld.org/home",
-        "marketplace": ""
+        "marketplace": null
     },
     {
         "name": "MusicBlock",
@@ -93,7 +93,7 @@
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainlogo.png",
         "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainsbanner.png",
         "official_website": "https://www.flowns.org/?utm_source=Flowverse&utm_medium=Website&utm_campaign=Dapp",
-        "marketplace": ""
+        "marketplace": null
     },
     {
         "name": "TFCItems",
@@ -101,7 +101,7 @@
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfclogo.jpg",
         "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfcbanner.png",
         "official_website": "https://www.thefootballclub.com",
-        "marketplace": ""
+        "marketplace": null
     },
     {
         "name": "Gooberz",
@@ -117,7 +117,7 @@
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/biscuitsngroovy/biscuitsngroovylogo.jpeg",
         "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/biscuitsngroovy/biscuitngroovybanner.jpeg",
         "official_website": "https://www.bngroovy.com/home",
-        "marketplace": ""
+        "marketplace": null
     },
     {
         "name": "GeniaceNFT",
@@ -125,6 +125,6 @@
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/geniacenft/geniacelogo.png",
         "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/geniacenft/geniacebanner.png",
         "official_website": "https://www.geniace.com",
-        "marketplace": ""
+        "marketplace": null
     }
 ]
