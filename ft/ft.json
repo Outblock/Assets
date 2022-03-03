@@ -1,17 +1,17 @@
- [
+[
     {
         "name": "Flow",
         "address": {
             "mainnet": "0x1654653399040a61",
             "testnet": "0x7e60df042a9c0868"
-        } ,
+        },
         "storage_path": {
             "balance": "/public/flowTokenBalance",
             "vault": "/storage/flowTokenVault",
             "receiver": "/public/flowTokenReceiver"
         },
         "decimal": 8,
-        "icon":  "https://raw.githubusercontent.com/Outblock/Assets/41edfed07a4e9534b113a48367fc27943946d13f/ft/flow/icon.svg",
+        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/flow/icon.png",
         "symbol": "flow",
         "website": "https://www.onflow.org"
     },
@@ -20,46 +20,46 @@
         "address": {
             "mainnet": "0x3c5959b568896393",
             "testnet": "0xe223d8a629e49c68"
-        } ,
+        },
         "storage_path": {
             "balance": "/public/fusdBalance",
             "vault": "/storage/fusdVault",
             "receiver": "/public/fusdReceiver"
         },
         "decimal": 8,
-        "icon":  "https://raw.githubusercontent.com/Outblock/Assets/41edfed07a4e9534b113a48367fc27943946d13f/ft/fusd/icon.svg",
+        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/fusd/icon.png",
         "symbol": "fusd",
         "website": "https://docs.onflow.org/fusd/"
     },
     {
-        "name": "blocto token",
+        "name": "Blocto token",
         "address": {
             "mainnet": "0x0f9df91c9121c460",
             "testnet": "0x6e0797ac987005f5"
-        } ,
+        },
         "storage_path": {
             "balance": "/public/bloctoTokenBalance",
             "vault": "/storage/bloctoTokenVault",
             "receiver": "/public/bloctoTokenReceiver"
         },
         "decimal": 8,
-        "icon":  "https://raw.githubusercontent.com/Outblock/Assets/main/ft/blt/icon.png",
+        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/blt/icon.png",
         "symbol": "blt",
         "website": "https://blocto.portto.io/en/"
     },
     {
         "name": "USD coin",
         "address": {
-            "mainnet": "",
-            "testnet": ""
-        } ,
+            "mainnet": null,
+            "testnet": null
+        },
         "storage_path": {
-            "balance": "",
-            "vault": "",
-            "receiver": ""
+            "balance": null,
+            "vault": null,
+            "receiver": null
         },
         "decimal": 8,
-        "icon":  "https://raw.githubusercontent.com/Outblock/Assets/41edfed07a4e9534b113a48367fc27943946d13f/ft/usdc/icon.svg",
+        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/usdc/icon.png",
         "symbol": "usdc",
         "website": "https://www.circle.com/en/"
     }
