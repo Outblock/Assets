@@ -50,13 +50,13 @@
   {
     "name": "USD Coin",
     "address": {
-      "mainnet": null,
-      "testnet": null
+      "mainnet": "0xb19436aae4d94622",
+      "testnet": "0xa983fecbed621163"
     },
     "storage_path": {
-      "balance": null,
-      "vault": null,
-      "receiver": null
+      "balance": "/public/USDCVaultBalance",
+      "vault": "/storage/USDCVault",
+      "receiver": "/public/USDCVaultReceiver"
     },
     "decimal": 8,
     "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/usdc/logo.png",
