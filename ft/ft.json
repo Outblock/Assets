@@ -62,5 +62,22 @@
     "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/usdc/logo.png",
     "symbol": "usdc",
     "website": "https://www.circle.com/en/"
+  },
+  {
+    "name":"My",
+    "address":{
+      "mainnet":"0x348fe2042c8a70d8",
+      "testnet":"0x40212f3e288efd03"
+    },
+    "contract_name":"MyToken",
+    "storage_path":{
+      "balance":"/public/mytokenBalance",
+      "vault":"/storage/mytokenVault",
+      "receiver":"/public/mytokenReceiver"
+    },
+    "decimal":8,
+    "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/my/logo.png",
+    "symbol":"my",
+    "website":"https://mynft.io/"
   }
 ]
