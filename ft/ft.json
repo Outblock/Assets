@@ -1,69 +1,73 @@
 [
-  {
-    "name": "Flow",
-    "address": {
-      "mainnet": "0x1654653399040a61",
-      "testnet": "0x7e60df042a9c0868"
-    },
-    "storage_path": {
-      "balance": "/public/flowTokenBalance",
-      "vault": "/storage/flowTokenVault",
-      "receiver": "/public/flowTokenReceiver"
-    },
-    "decimal": 8,
-    "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/flow/logo.png",
-    "symbol": "flow",
-    "website": "https://www.onflow.org"
-  },
-  {
-    "name": "Flow USD",
-    "address": {
-      "mainnet": "0x3c5959b568896393",
-      "testnet": "0xe223d8a629e49c68"
-    },
-    "storage_path": {
-      "balance": "/public/fusdBalance",
-      "vault": "/storage/fusdVault",
-      "receiver": "/public/fusdReceiver"
-    },
-    "decimal": 8,
-    "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/fusd/logo.png",
-    "symbol": "fusd",
-    "website": "https://docs.onflow.org/fusd/"
-  },
-  {
-    "name": "Blocto Token",
-    "address": {
-      "mainnet": "0x0f9df91c9121c460",
-      "testnet": "0x6e0797ac987005f5"
-    },
-    "storage_path": {
-      "balance": "/public/bloctoTokenBalance",
-      "vault": "/storage/bloctoTokenVault",
-      "receiver": "/public/bloctoTokenReceiver"
-    },
-    "decimal": 8,
-    "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/blt/logo.png",
-    "symbol": "blt",
-    "website": "https://blocto.portto.io/en/"
-  },
-  {
-    "name": "USD Coin",
-    "address": {
-      "mainnet": null,
-      "testnet": null
-    },
-    "storage_path": {
-      "balance": null,
-      "vault": null,
-      "receiver": null
-    },
-    "decimal": 8,
-    "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/usdc/logo.png",
-    "symbol": "usdc",
-    "website": "https://www.circle.com/en/"
-  },
-  {
+   {
+      "name":"Flow",
+      "address":{
+         "mainnet":"0x1654653399040a61",
+         "testnet":"0x7e60df042a9c0868"
+      },
+      "contract_name":"FlowToken",
+      "storage_path":{
+         "balance":"/public/flowTokenBalance",
+         "vault":"/storage/flowTokenVault",
+         "receiver":"/public/flowTokenReceiver"
+      },
+      "decimal":8,
+      "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/flow/logo.png",
+      "symbol":"flow",
+      "website":"https://www.onflow.org"
+   },
+   {
+      "name":"Flow USD",
+      "address":{
+         "mainnet":"0x3c5959b568896393",
+         "testnet":"0xe223d8a629e49c68"
+      },
+      "contract_name":"FUSD",
+      "storage_path":{
+         "balance":"/public/fusdBalance",
+         "vault":"/storage/fusdVault",
+         "receiver":"/public/fusdReceiver"
+      },
+      "decimal":8,
+      "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/fusd/logo.png",
+      "symbol":"fusd",
+      "website":"https://docs.onflow.org/fusd/"
+   },
+   {
+      "name":"Blocto Token",
+      "address":{
+         "mainnet":"0x0f9df91c9121c460",
+         "testnet":"0x6e0797ac987005f5"
+      },
+      "contract_name":"BloctoToken",
+      "storage_path":{
+         "balance":"/public/bloctoTokenBalance",
+         "vault":"/storage/bloctoTokenVault",
+         "receiver":"/public/bloctoTokenReceiver"
+      },
+      "decimal":8,
+      "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/blt/logo.png",
+      "symbol":"blt",
+      "website":"https://blocto.portto.io/en/"
+   },
+   {
+      "name":"USD Coin",
+      "address":{
+         "mainnet":"0xb19436aae4d94622",
+         "testnet":"0xa983fecbed621163"
+      },
+      "contract_name":"FiatToken",
+      "storage_path":{
+         "balance":"/public/USDCVaultBalance",
+         "vault":"/storage/USDCVault",
+         "receiver":"/public/USDCVaultReceiver"
+      },
+      "decimal":8,
+      "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/usdc/logo.png",
+      "symbol":"usdc",
+      "website":"https://www.circle.com/en/"
+   },
+   {
     "name":"My",
     "address":{
       "mainnet":"0x348fe2042c8a70d8",
