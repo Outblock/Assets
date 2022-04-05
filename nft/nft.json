@@ -1,9 +1,288 @@
 [
+<<<<<<< Updated upstream
+    {
+        "name": "TopShot",
+        "address": "0x0b2a3299cc857e29",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/topshot/topshotlogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/topshot/topshotbanner.png",
+        "official_website": "https://nbatopshot.com",
+        "marketplace": "https://nbatopshot.com/marketplace"
+    },
+    {
+        "name": "OVO",
+        "address": "0x75e0b6de94eb05d0",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/nyatheesovo/ovologo.jpeg",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/nyatheesovo/ovobanner.png",
+        "official_website": "https://www.ovo.space/#/",
+        "marketplace": "https://www.ovo.space/#/Market"
+    },
+    {
+        "name": "RaceDay",
+        "address": "0x329feb3ab062d289",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/raceday_nft/racedaylogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/raceday_nft/racedaybanner.jpeg",
+        "official_website": "https://racedaynft.com/",
+        "marketplace": "https://racedaynft.com/marketplace"
+    },
+    {
+        "name": "EternalShard",
+        "address": "0x82b54037a8f180cf",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/eternalshard/eternalshardlogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/eternalshard/eternalshardbanner.png",
+        "official_website": "https://eternal.gg",
+        "marketplace": "https://eternal.gg/listings"
+    },
+    {
+        "name": "StarlyCard",
+        "address": "0x5b82f21c0edf76e3",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/starlycard/starlycardlogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/starlycard/starlycardbanner.png",
+        "official_website": "https://starly.io",
+        "marketplace": "https://starly.io/marketplace"
+    },
+    {
+        "name": "Vouchers",
+        "address": "0x444f5ea22c6ea12c",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/vouchers/voucherslogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/vouchers/vouchersbanner.png",
+        "official_website": "https://schmoes.io",
+        "marketplace": null
+    },
+    {
+        "name": "Mynft",
+        "address": "0xf6fcbef550d97aa5",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/mynft/mynftlogo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/mynft/mynftbanner.png",
+        "official_website": "https://mynft.io",
+        "marketplace": "https://mynft.io/market"
+    },
+    {
+        "name": "MatrixWorld",
+        "address": "0x2d2750f240198f91",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldlogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldbanner.png",
+        "official_website": "https://matrixworld.org/home",
+        "marketplace": null
+    },
+    {
+        "name": "MusicBlock",
+        "address": "0x5634aefcb76e7d8c",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/musicblock/musicblocklogo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/musicblock/musicblockbanner.png",
+        "official_website": "https://www.melos.studio",
+        "marketplace": "https://www.melos.studio/marketplace/gallery"
+    },
+    {
+        "name": "Gaia",
+        "address": "0x8b148183c28ff88f",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/gaia/gaialogo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/gaia/gaiabanner.png",
+        "official_website": "https://ongaia.com",
+        "marketplace": "https://ongaia.com/browse"
+    },
+    {
+        "name": "Fantastec",
+        "address": "0x2e1ee1e7a96826ce",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/fantastecnft/fantastecnftlogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/fantastecnft/fantastecnftbanner.png",
+        "official_website": "https://www.swap-fantastec.com",
+        "marketplace": "https://www.swap-fantastec.com/shop"
+    },
+    {
+        "name": "Domains",
+        "address": "0x233eb012d34b0070",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainlogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainsbanner.png",
+        "official_website": "https://www.flowns.org/?utm_source=Flowverse&utm_medium=Website&utm_campaign=Dapp",
+        "marketplace": null
+    },
+    {
+        "name": "TFC",
+        "address": "0x81e95660ab5308e1",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfclogo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfcbanner.png",
+        "official_website": "https://www.thefootballclub.com",
+        "marketplace": null
+    },
+    {
+        "name": "Gooberz",
+        "address": "0x34f2bf4a80bb0f69",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/gooberz/gooberzlogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/gooberz/gooberzbanner.jpeg",
+        "official_website": "https://partymansion.io",
+        "marketplace": "https://partymansion.io/marketplace"
+    },
+    {
+        "name": "BiscuitsNGroovy",
+        "address": "0x7859c48816bfea3c",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/biscuitsngroovy/biscuitsngroovylogo.jpeg",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/biscuitsngroovy/biscuitngroovybanner.jpeg",
+        "official_website": "https://www.bngroovy.com/home",
+        "marketplace": null
+    },
+    {
+        "name": "Geniace",
+        "address": "0xabda6627c70c7f52",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/geniacenft/geniacelogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/geniacenft/geniacebanner.png",
+        "official_website": "https://www.geniace.com",
+        "marketplace": null
+    },
+       {
+        "Name": "CNN",
+        "Address": "0x329feb3ab062d289",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cnn/cnnlogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cnn/cnnbanner.png",
+        "official website": "https://vault.cnn.com/\"",
+        "marketplace": "https://vault.cnn.com/marketplace"
+    },
+    {
+        "Name": "Beam",
+        "Address": "0x86b4a0010a71cfc3",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/beam/beamlogo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/beam/beambanner.png",
+        "official website": "https://beamnft.art",
+        "marketplace": null
+    },
+    {
+        "Name": "BlockleteGames",
+        "Address": "0x329feb3ab062d289",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/blockletegames/blockletegameslogo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/blockletegames/blokletegamesbanner.png",
+        "official website": "https://www.blockletegames.com",
+        "marketplace": "https://www.blockletegames.com/playtoearn"
+    },
+    {
+        "Name": "Chainmonsters",
+        "Address": "0x93615d25d14fa337",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/chainmonstersrewards/chainmonsterlogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/chainmonstersrewards/chainmonsterbanner.png",
+        "official website": "https://chainmonsters.com/",
+        "marketplace": "https://chainmonsters.com/marketplace"
+    },
+    {
+        "Name": "Crave",
+        "Address": "0x6d008a788fc27265",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/crave/cravelogo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/crave/cravebanner.png",
+        "official website": "https://crave.niftory.com",
+        "marketplace": null
+    },
+    {
+        "Name": "CricketMoments",
+        "Address": "0xed398881d9bf40fb",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cricketmoments/cricketmomentlogo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cricketmoments/crickmomentbanner.png",
+        "official website": "https://www.fancraze.com",
+        "marketplace": null
+    },
+    {
+        "Name": "Everbloom",
+        "Address": "0xe703f7fee6400754",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/everbloom/everbloomlogo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/everbloom/everbloombanner.png",
+        "official website": "https://everbloom.app/",
+        "marketplace": null
+    },
+    {
+        "Name": "KOTD",
+        "Address": "0x23dddd854fcc8c6f",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kotd/kotdlogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kotd/kotdbanner.png",
+        "official website": "https://kotd.niftory.com",
+        "marketplace": null
+    },
+    {
+        "Name": "Klktn",
+        "Address": "0xabd6e80be7e9682c",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/klktn/klktnlogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/klktn/klktnbanner.jpg",
+        "official website": "https://klktn.com/",
+        "marketplace": "https://klktn.com/marketplace"
+    },
+    {
+        "Name": "RareRooms",
+        "Address": "0x329feb3ab062d289",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rarerooms/rareroomslogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rarerooms/rareroomsbanner.png",
+        "official website": "https://app.rarerooms.io/",
+        "marketplace": "https://rarerooms.io/marketplace"
+    },
+    {
+        "Name": "RCRDSHP",
+        "Address": "0x6c3ff40b90b928ab",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rcrdshp/rcrdshologo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rcrdshp/rcrdshpbanner.png",
+        "official website": "https://app.rcrdshp.com",
+        "marketplace": "https://app.rcrdshp.com/market"
+    },
+    {
+        "Name": "SportsIcon",
+        "Address": "0x8de96244f54db422",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/sportsicon/sporticonlogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/sportsicon/sporticonbanner.png",
+        "official website": "https://sportsicon.com/",
+        "marketplace": null
+    },
+    {
+        "Name": "TuneGO",
+        "Address": "0x0d9bc5af3fc0c2e3",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/tunego/tunegologo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/tunego/tunegobanner.png",
+        "official website": "https://www.tunegonft.com/",
+        "marketplace": null
+    },
+    {
+        "Name": "CryptoZoo",
+        "Address": "0x8ea44ab931cac762",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cryptozoo/cryptozoologo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cryptozoo/cryptozoobanner.png",
+        "official website": "https://cryptozoo.co",
+        "marketplace": null
+    },
+    {
+        "Name": "OneFootball",
+        "Address": "0x6831760534292098",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/onefootball/onefootballlogo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/onefootball/onefootballbanner.png",
+        "official website": "https://xmas.onefootball.com",
+        "marketplace": ""
+    },
+    {
+        "Name": "TheFabricant",
+        "Address": "0xa0cbe021821c0965",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thefabricantmysterybox/thefabricantlogo.jpg",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thefabricantmysterybox/thefabricantbanner.jpg",
+        "official website": "https://www.thefabricant.com",
+        "marketplace": "https://www.thefabricant.com/drops"
+    },
+    {
+        "Name": "Diesel",
+        "Address": "0x497153c597783bc3",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/diesel/diesellogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/diesel/dieselbanner.jpg",
+        "official website": "https://neuno.io",
+        "marketplace": null
+    },
+    {
+        "Name": "Miami",
+        "Address": "0x429a19abea586a3e",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/miami/miamilogo.png",
+        "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/miami/miamibanner.jpg",
+        "official website": "https://www.canesvault.com/",
+        "marketplace": "https://www.canesvault.com/marketplace"
+    }    
+=======
   {
     "name": "TopShot",
     "address": {
       "mainnet": "0x0b2a3299cc857e29",
       "testnet": "0x877931736ee77cff"
+    },
+    "path": {
+      "storage_path": "/storage/MomentCollection",
+      "public_path": "/public/MomentCollection",
+      "public_collection_name": "TopShot.MomentCollectionPublic"
     },
     "contract_name": "TopShot",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/topshot/topshotlogo.png",
@@ -18,6 +297,11 @@
       "mainnet": "0x75e0b6de94eb05d0",
       "testnet": "0xacf3dfa413e00f9f"
     },
+    "path": {
+      "storage_path": "NyatheesOVO.CollectionStoragePath",
+      "public_path": "NyatheesOVO.CollectionPublicPath",
+      "public_collection_name": "NyatheesOVO.NFTCollectionPublic"
+    },
     "contract_name": "NyatheesOVO",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/nyatheesovo/ovologo.jpeg",
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/nyatheesovo/ovobanner.png",
@@ -30,6 +314,11 @@
     "address": {
       "mainnet": "0x329feb3ab062d289",
       "testnet": null
+    },
+    "path": {
+      "storage_path": "RaceDay_NFT.CollectionStoragePath",
+      "public_path": "RaceDay_NFT.CollectionPublicPath",
+      "public_collection_name": "RaceDay_NFT.RaceDay_NFTCollectionPublic"
     },
     "contract_name": "RaceDay_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/raceday_nft/racedaylogo.png",
@@ -44,6 +333,11 @@
       "mainnet": "0x82b54037a8f180cf",
       "testnet": "0x7ff5f9ac593c3ee0"
     },
+    "path": {
+      "storage_path": "/storage/EternalShardCollection",
+      "public_path": "/public/EternalShardCollection",
+      "public_collection_name": "Shard.ShardCollectionPublic"
+    },
     "contract_name": "Shard",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/eternalshard/eternalshardlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/eternalshard/eternalshardbanner.png",
@@ -56,6 +350,11 @@
     "address": {
       "mainnet": "0x5b82f21c0edf76e3",
       "testnet": "0x697d72a988a77070"
+    },
+    "path": {
+      "storage_path": "StarlyCard.CollectionStoragePath",
+      "public_path": "StarlyCard.CollectionPublicPath",
+      "public_collection_name": "StarlyCard.StarlyCardCollectionPublic"
     },
     "contract_name": "StarlyCard",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/starlycard/starlycardlogo.png",
@@ -70,6 +369,11 @@
       "mainnet": "0x444f5ea22c6ea12c",
       "testnet": "0xe94a6e229293f196"
     },
+    "path": {
+      "storage_path": "Vouchers.CollectionStoragePath",
+      "public_path": "Vouchers.CollectionPublicPath",
+      "public_collection_name": "Vouchers.CollectionPublic"
+    },
     "contract_name": "Vouchers",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/vouchers/voucherslogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/vouchers/vouchersbanner.png",
@@ -82,6 +386,11 @@
     "address": {
       "mainnet": "0xf6fcbef550d97aa5",
       "testnet": "0x1eced429f2012ef0"
+    },
+    "path": {
+      "storage_path": "Mynft.CollectionStoragePath",
+      "public_path": "Mynft.CollectionPublicPath",
+      "public_collection_name": "Mynft.MynftCollectionPublic"
     },
     "contract_name": "Mynft",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/mynft/mynftlogo.jpg",
@@ -96,6 +405,11 @@
       "mainnet": "0x2d2750f240198f91",
       "testnet": "0xe2f1b000e0203c1d"
     },
+    "path": {
+      "storage_path": "MatrixWorldFlowFestNFT.CollectionStoragePath",
+      "public_path": "MatrixWorldFlowFestNFT.CollectionPublicPath",
+      "public_collection_name": "MatrixWorldFlowFestNFT.MatrixWorldFlowFestNFTCollectionPublic"
+    },
     "contract_name": "MatrixWorldFlowFestNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldbanner.png",
@@ -108,6 +422,11 @@
     "address": {
       "mainnet": "0x5634aefcb76e7d8c",
       "testnet": "0xeb3241ad7d7881db"
+    },
+    "path": {
+      "storage_path": "MusicBlock.CollectionStoragePath",
+      "public_path": "MusicBlock.CollectionPublicPath",
+      "public_collection_name": "MusicBlock.MusicBlockCollectionPublic"
     },
     "contract_name": "MusicBlock",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/musicblock/musicblocklogo.jpg",
@@ -122,6 +441,11 @@
       "mainnet": "0x8b148183c28ff88f",
       "testnet": "0xc523a8bbf10fc4a3"
     },
+    "path": {
+      "storage_path": "Gaia.CollectionStoragePath",
+      "public_path": "Gaia.CollectionPublicPath",
+      "public_collection_name": "Gaia.CollectionPublic"
+    },
     "contract_name": "Gaia",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/gaia/gaialogo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/gaia/gaiabanner.png",
@@ -134,6 +458,11 @@
     "address": {
       "mainnet": "0x2e1ee1e7a96826ce",
       "testnet": "0x7b4fab78fbddc57e"
+    },
+    "path": {
+      "storage_path": "FantastecNFT.CollectionStoragePath",
+      "public_path": "FantastecNFT.CollectionPublicPath",
+      "public_collection_name": "FantastecNFT.FantastecNFTCollectionPublic"
     },
     "contract_name": "FantastecNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/fantastecnft/fantastecnftlogo.png",
@@ -148,6 +477,11 @@
       "mainnet": "0x233eb012d34b0070",
       "testnet": "0xb05b2abb42335e88"
     },
+    "path": {
+      "storage_path": "Domains.CollectionStoragePath",
+      "public_path": "Domains.CollectionPublicPath",
+      "public_collection_name": "Domains.CollectionPublic"
+    },
     "contract_name": "Domains",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainsbanner.png",
@@ -160,6 +494,11 @@
     "address": {
       "mainnet": "0x81e95660ab5308e1",
       "testnet": "0x91a6217c3b70cae8"
+    },
+    "path": {
+      "storage_path": "/storage/TFCItemsCollection",
+      "public_path": "/public/TFCItemsCollection",
+      "public_collection_name": "TFCItem.TFCItemsCollectionPublic"
     },
     "contract_name": "TFCItems",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfclogo.jpg",
@@ -174,6 +513,11 @@
       "mainnet": "0x34f2bf4a80bb0f69",
       "testnet": "0x9be1ec5be8738e13"
     },
+    "path": {
+      "storage_path": "GooberXContract.CollectionStoragePath",
+      "public_path": "GooberXContract.CollectionPublicPath",
+      "public_collection_name": "GooberXContract.GooberCollectionPublic"
+    },
     "contract_name": "GooberXContract",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/gooberz/gooberzlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/gooberz/gooberzbanner.jpeg",
@@ -186,6 +530,11 @@
     "address": {
       "mainnet": "0x7859c48816bfea3c",
       "testnet": "0xf7ebe30e2e33b1f2"
+    },
+    "path": {
+      "storage_path": "BnGNFT.CollectionStoragePath",
+      "public_path": "BnGNFT.CollectionPublicPath",
+      "public_collection_name": "BnGNFT.BnGNFTCollectionPublic"
     },
     "contract_name": "BnGNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/biscuitsngroovy/biscuitsngroovylogo.jpeg",
@@ -200,6 +549,11 @@
       "mainnet": "0xabda6627c70c7f52",
       "testnet": "0x99eb28310626e56a"
     },
+    "path": {
+      "storage_path": "GeniaceNFT.CollectionStoragePath",
+      "public_path": "GeniaceNFT.CollectionPublicPath",
+      "public_collection_name": "GeniaceNFT.GeniaceNFTCollectionPublic"
+    },
     "contract_name": "GeniaceNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/geniacenft/geniacelogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/geniacenft/geniacebanner.png",
@@ -212,6 +566,11 @@
     "address": {
       "mainnet": "0x329feb3ab062d289",
       "testnet": null
+    },
+    "path": {
+      "storage_path": "CNN_NFT.CollectionStoragePath",
+      "public_path": "CNN_NFT.CollectionPublicPath",
+      "public_collection_name": "CNN_NFT.CNN_NFTCollectionPublic"
     },
     "contract_name": "CNN_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cnn/cnnlogo.png",
@@ -226,6 +585,11 @@
       "mainnet": "0x86b4a0010a71cfc3",
       "testnet": "0x6085ae87e78e1433"
     },
+    "path": {
+      "storage_path": "Beam.CollectionStoragePath",
+      "public_path": "Beam.CollectionPublicPath",
+      "public_collection_name": "Beam.BeamCollectionPublic"
+    },
     "contract_name": "Beam",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/beam/beamlogo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/beam/beambanner.png",
@@ -238,6 +602,11 @@
     "address": {
       "mainnet": "0x329feb3ab062d289",
       "testnet": null
+    },
+    "path": {
+      "storage_path": "BlockleteGames_NFT.CollectionStoragePath",
+      "public_path": "BlockleteGames_NFT.CollectionPublicPath",
+      "public_collection_name": "BlockleteGames_NFT.BlockleteGames_NFTCollectionPublic"
     },
     "contract_name": "BlockleteGames_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/blockletegames/blockletegameslogo.jpg",
@@ -252,6 +621,11 @@
       "mainnet": "0x93615d25d14fa337",
       "testnet": "0x75783e3c937304a8"
     },
+    "path": {
+      "storage_path": "/storage/ChainmonstersRewardCollection",
+      "public_path": "/public/ChainmonstersRewardCollection",
+      "public_collection_name": "ChainmonstersRewards.ChainmonstersRewardCollectionPublic"
+    },
     "contract_name": "ChainmonstersRewards",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/chainmonstersrewards/chainmonsterlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/chainmonstersrewards/chainmonsterbanner.png",
@@ -264,6 +638,11 @@
     "address": {
       "mainnet": "0x6d008a788fc27265",
       "testnet": "0x6085ae87e78e1433"
+    },
+    "path": {
+      "storage_path": "Crave.CollectionStoragePath",
+      "public_path": "Crave.CollectionPublicPath",
+      "public_collection_name": "Crave.CraveCollectionPublic"
     },
     "contract_name": "Crave",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/crave/cravelogo.jpg",
@@ -278,6 +657,11 @@
       "mainnet": "0xed398881d9bf40fb",
       "testnet": "0xb45e7992680a0f7f"
     },
+    "path": {
+      "storage_path": "CricketMoments.CollectionStoragePath",
+      "public_path": "CricketMoments.CollectionPublicPath",
+      "public_collection_name": "CricketMoments.CricketMomentsCollectionPublic"
+    },
     "contract_name": "CricketMoments",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cricketmoments/cricketmomentlogo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cricketmoments/crickmomentbanner.png",
@@ -290,6 +674,11 @@
     "address": {
       "mainnet": "0xe703f7fee6400754",
       "testnet": "0xf30d2f642de8c895"
+    },
+    "path": {
+      "storage_path": "Everbloom.CollectionStoragePath",
+      "public_path": "Everbloom.CollectionPublicPath",
+      "public_collection_name": "Everbloom.PrintCollectionPublic"
     },
     "contract_name": "Everbloom",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/everbloom/everbloomlogo.jpg",
@@ -304,6 +693,11 @@
       "mainnet": "0x23dddd854fcc8c6f",
       "testnet": "0x6085ae87e78e1433"
     },
+    "path": {
+      "storage_path": "KOTD.CollectionStoragePath",
+      "public_path": "KOTD.CollectionPublicPath",
+      "public_collection_name": "KOTD.NiftoryCollectibleCollectionPublic"
+    },
     "contract_name": "KOTD",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kotd/kotdlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kotd/kotdbanner.png",
@@ -316,6 +710,11 @@
     "address": {
       "mainnet": "0xabd6e80be7e9682c",
       "testnet": "0x336895dbe44c4b44"
+    },
+    "path": {
+      "storage_path": "KlktnNFT.CollectionStoragePath",
+      "public_path": "KlktnNFT.CollectionPublicPath",
+      "public_collection_name": "KlktnNFT.KlktnNFTCollectionPublic"
     },
     "contract_name": "KlktnNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/klktn/klktnlogo.png",
@@ -330,6 +729,11 @@
       "mainnet": "0xabd6e80be7e9682c",
       "testnet": null
     },
+    "path": {
+      "storage_path": "KlktnNFT2.CollectionStoragePath",
+      "public_path": "KlktnNFT2.CollectionPublicPath",
+      "public_collection_name": "KlktnNFT2.KlktnNFTCollectionPublic"
+    },
     "contract_name": "KlktnNFT2",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/klktn/klktnlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/klktn/klktnbanner.jpg",
@@ -342,6 +746,11 @@
     "address": {
       "mainnet": "0x329feb3ab062d289",
       "testnet": null
+    },
+    "path": {
+      "storage_path": "RareRooms_NFT.CollectionStoragePath",
+      "public_path": "RareRooms_NFT.CollectionPublicPath",
+      "public_collection_name": "RareRooms_NFT.RareRooms_NFTCollectionPublic"
     },
     "contract_name": "RareRooms_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rarerooms/rareroomslogo.png",
@@ -356,6 +765,11 @@
       "mainnet": "0x6c3ff40b90b928ab",
       "testnet": "0x95d41a94b49a1ed1"
     },
+    "path": {
+      "storage_path": "RCRDSHPNFT.collectionStoragePath",
+      "public_path": "RCRDSHPNFT.collectionPublicPath",
+      "public_collection_name": "NonFungibleToken.CollectionPublic"
+    },
     "contract_name": "RCRDSHPNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rcrdshp/rcrdshologo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rcrdshp/rcrdshpbanner.png",
@@ -368,6 +782,11 @@
     "address": {
       "mainnet": "0x8de96244f54db422",
       "testnet": "0xc2824327396d3a39"
+    },
+    "path": {
+      "storage_path": "SportsIconCollectible.CollectionStoragePath",
+      "public_path": "SportsIconCollectible.CollectionPublicPath",
+      "public_collection_name": "SportsIconCollectible.CollectibleCollectionPublic"
     },
     "contract_name": "SportsIconCollectible",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/sportsicon/sporticonlogo.png",
@@ -382,6 +801,11 @@
       "mainnet": "0x0d9bc5af3fc0c2e3",
       "testnet": "0x2b0150231c047a8c"
     },
+    "path": {
+      "storage_path": "TuneGO.CollectionStoragePath",
+      "public_path": "TuneGO.CollectionPublicPath",
+      "public_collection_name": "TuneGO.TuneGOCollectionPublic"
+    },
     "contract_name": "TuneGO",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/tunego/tunegologo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/tunego/tunegobanner.png",
@@ -394,6 +818,11 @@
     "address": {
       "mainnet": "0x8ea44ab931cac762",
       "testnet": "0xd60702f03bcafd46"
+    },
+    "path": {
+      "storage_path": "CryptoZooNFT.CollectionStoragePath",
+      "public_path": "CryptoZooNFT.CollectionPublicPath",
+      "public_collection_name": "CryptoZooNFT.CryptoZooNFTCollectionPublic"
     },
     "contract_name": "CryptoZooNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cryptozoo/cryptozoologo.jpg",
@@ -408,6 +837,11 @@
       "mainnet": "0x6831760534292098",
       "testnet": "0x01984fb4ca279d9a"
     },
+    "path": {
+      "storage_path": "OneFootballCollectible.CollectionStoragePath",
+      "public_path": "OneFootballCollectible.CollectionPublicPath",
+      "public_collection_name": "OneFootballCollectible.OneFootballCollectibleCollectionPublic"
+    },
     "contract_name": "OneFootballCollectible",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/onefootball/onefootballlogo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/onefootball/onefootballbanner.png",
@@ -420,6 +854,11 @@
     "address": {
       "mainnet": "0xa0cbe021821c0965",
       "testnet": "0x716db717f9240d8a"
+    },
+    "path": {
+      "storage_path": "/storage/FabricantCollection001",
+      "public_path": "/public/FabricantCollection001",
+      "public_collection_name": "TheFabricantMysteryBox_FF1.FabricantCollectionPublic"
     },
     "contract_name": "TheFabricantMysteryBox_FF1",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thefabricantmysterybox/thefabricantlogo.jpg",
@@ -434,6 +873,11 @@
       "mainnet": "0x497153c597783bc3",
       "testnet": "0x716db717f9240d8a"
     },
+    "path": {
+      "storage_path": "/storage/DieselCollection001",
+      "public_path": "/public/DieselCollection001",
+      "public_collection_name": "DieselNFT.DieselCollectionPublic"
+    },
     "contract_name": "DieselNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/diesel/diesellogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/diesel/dieselbanner.jpg",
@@ -446,6 +890,11 @@
     "address": {
       "mainnet": "0x429a19abea586a3e",
       "testnet": "0x716db717f9240d8a"
+    },
+    "path": {
+      "storage_path": "/storage/MiamiCollection001",
+      "public_path": "/public/MiamiCollection001",
+      "public_collection_name": "MiamiNFT.MiamiCollectionPublic"
     },
     "contract_name": "MiamiNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/miami/miamilogo.png",
@@ -460,6 +909,11 @@
       "mainnet": "0x98c9c2e548b84d31",
       "testnet": "0xa8b1239250f8d342"
     },
+    "path": {
+      "storage_path": "CaaPass.CollectionStoragePath",
+      "public_path": "CaaPass.CollectionPublicPath",
+      "public_collection_name": "CaaPass.CollectionPublic"
+    },
     "contract_name": "CaaPass",
     "logo": null,
     "banner": null,
@@ -472,6 +926,11 @@
     "address": {
       "mainnet": "0xc38aea683c0c4d38",
       "testnet": "0x8da9b78f32f3ef50"
+    },
+    "path": {
+      "storage_path": "/storage/EternalMomentCollection",
+      "public_path": "/public/EternalMomentCollection",
+      "public_collection_name": "Eternal.MomentCollectionPublic"
     },
     "contract_name": "Eternal",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/eternalshard/eternalshardlogo.png",
@@ -486,6 +945,11 @@
       "mainnet": "0x20187093790b9aef",
       "testnet": "0x985d410b577fd4a1"
     },
+    "path": {
+      "storage_path": "MintStoreItem.CollectionStoragePath",
+      "public_path": "MintStoreItem.CollectionPublicPath",
+      "public_collection_name": "MintStoreItem.MintStoreItemCollectionPublic"
+    },
     "contract_name": "MintStoreItem",
     "logo": null,
     "banner": null,
@@ -498,6 +962,11 @@
     "address": {
       "mainnet": "0xf5b0eb433389ac3f",
       "testnet": "0x85080f371da20cc1"
+    },
+    "path": {
+      "storage_path": "Collectible.CollectionStoragePath",
+      "public_path": "Collectible.CollectionPublicPath",
+      "public_collection_name": "Collectible.CollectionPublicPath"
     },
     "contract_name": "Collectible",
     "logo": null,
@@ -512,6 +981,11 @@
       "mainnet": "0xf61e40c19db2a9e2",
       "testnet": "0x824f612f78d34250"
     },
+    "path": {
+      "storage_path": "/storage/BitkuCollection",
+      "public_path": "/public/BitkuCollection",
+      "public_collection_name": "HaikuNFT.HaikuCollectionPublic"
+    },
     "contract_name": "HaikuNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/haikunft/logo.jpeg",
     "banner": null,
@@ -524,6 +998,11 @@
     "address": {
       "mainnet": "0x99fed1e8da4c3431",
       "testnet": "0xb83e682ece5c8a50"
+    },
+    "path": {
+      "storage_path": "/storage/FlowChinaBadgeCollection",
+      "public_path": "/public/FlowChinaBadgeCollection",
+      "public_collection_name": "FlowChinaBadge.FlowChinaBadgeCollectionPublic"
     },
     "contract_name": "FlowChinaBadge",
     "logo": null,
@@ -538,6 +1017,11 @@
       "mainnet": "0xe4cf4bdc1751c65d",
       "testnet": "0x4dfd62c88d1b6462"
     },
+    "path": {
+      "storage_path": "AllDay.CollectionStoragePath",
+      "public_path": "AllDay.CollectionPublicPath",
+      "public_collection_name": "AllDay.MomentNFTCollectionPublic"
+    },
     "contract_name": "AllDay",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/allday/logo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/allday/banner.jpg",
@@ -550,6 +1034,11 @@
     "address": {
       "mainnet": "0xe4cf4bdc1751c65d",
       "testnet": "0x4dfd62c88d1b6462"
+    },
+    "path": {
+      "storage_path": "PackNFT.CollectionStoragePath",
+      "public_path": "PackNFT.CollectionPublicPath",
+      "public_collection_name": "NonFungibleToken.CollectionPublic"
     },
     "contract_name": "PackNFT",
     "logo": null,
@@ -564,6 +1053,11 @@
       "mainnet": "0xfc91de5e6566cc7c",
       "testnet": "0x716db717f9240d8a"
     },
+    "path": {
+      "storage_path": "ItemNFT.CollectionStoragePath",
+      "public_path": "ItemNFT.CollectionPublicPath",
+      "public_collection_name": "ItemNFT.ItemCollectionPublic"
+    },
     "contract_name": "ItemNFT",
     "logo": null,
     "banner": null,
@@ -576,6 +1070,11 @@
     "address": {
       "mainnet": "0x9e03b1f871b3513",
       "testnet": "0x716db717f9240d8a"
+    },
+    "path": {
+      "storage_path": "TheFabricantS1ItemNFT.CollectionStoragePath",
+      "public_path": "TheFabricantS1ItemNFT.CollectionPublicPath",
+      "public_collection_name": "TheFabricantS1ItemNFT.ItemCollectionPublic"
     },
     "contract_name": "TheFabricantS1ItemNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thefabricantmysterybox/thefabricantlogo.jpg",
@@ -590,6 +1089,11 @@
       "mainnet": "0x329feb3ab062d289",
       "testnet": null
     },
+    "path": {
+      "storage_path": "Andbox_NFT.CollectionStoragePath",
+      "public_path": "Andbox_NFT.CollectionPublicPath",
+      "public_collection_name": "Andbox_NFT.Andbox_NFTCollectionPublic"
+    },
     "contract_name": "Andbox_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/andbox/logo.jpeg",
     "banner": null,
@@ -602,6 +1106,11 @@
     "address": {
       "mainnet": "0x62b3063fbe672fc8",
       "testnet": "0x2dda9145001182e0"
+    },
+    "path": {
+      "storage_path": "/storage/ZeedzINOCollection",
+      "public_path": "/public/ZeedzINOCollection",
+      "public_collection_name": "ZeedzINO.ZeedzCollectionPublic"
     },
     "contract_name": "ZeedzINO",
     "logo": null,
@@ -616,6 +1125,11 @@
       "mainnet": "0xf3cc54f4d91c2f6c",
       "testnet": "0xf3cc54f4d91c2f6c"
     },
+    "path": {
+      "storage_path": "Kicks.CollectionStoragePath",
+      "public_path": "Kicks.CollectionPublicPath",
+      "public_collection_name": "Kicks.KicksCollectionPublic"
+    },
     "contract_name": "Kicks",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kicks/logo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kicks/banner.jpg",
@@ -628,6 +1142,11 @@
     "address": {
       "mainnet": " 0xa95b021cf8a30d80",
       "testnet": "0x4300fc3a11778a9a"
+    },
+    "path": {
+      "storage_path": "BarterYardPackNFT.CollectionStoragePath",
+      "public_path": "BarterYardPackNFT.CollectionPublicPath",
+      "public_collection_name": "BarterYardPackNFT.BarterYardPackNFTCollectionPublic"
     },
     "contract_name": "BarterYardPackNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/barteryardpack/logo.jpg",
@@ -642,6 +1161,11 @@
       "mainnet": "0x1600b04bf033fb99",
       "testnet": "0x0b7f00d13cd033bd"
     },
+    "path": {
+      "storage_path": "DayNFT.CollectionStoragePath",
+      "public_path": "DayNFT.CollectionPublicPath",
+      "public_collection_name": "DayNFT.CollectionPublic"
+    },
     "contract_name": "DayNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/daynft/logo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/daynft/banner.jpg",
@@ -654,6 +1178,11 @@
     "address": {
       "mainnet": "0x329feb3ab062d289",
       "testnet": null
+    },
+    "path": {
+      "storage_path": "Costacos_NFT.CollectionStoragePath",
+      "public_path": "Costacos_NFT.CollectionPublicPath",
+      "public_collection_name": "Costacos_NFT.Costacos_NFT"
     },
     "contract_name": "Costacos_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/costacos/logo.jpg",
@@ -668,6 +1197,11 @@
       "mainnet": "0x329feb3ab062d289",
       "testnet": null
     },
+    "path": {
+      "storage_path": "Canes_Vault_NFT.CollectionStoragePath",
+      "public_path": "Canes_Vault_NFT.CollectionPublicPath",
+      "public_collection_name": "Canes_Vault_NFT.Canes_Vault_NFT"
+    },
     "contract_name": "Canes_Vault_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/canesvault/logo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/canesvault/banner.jpg",
@@ -680,6 +1214,11 @@
     "address": {
       "mainnet": "0x329feb3ab062d289",
       "testnet": null
+    },
+    "path": {
+      "storage_path": "AmericanAirlines_NFT.CollectionStoragePath",
+      "public_path": "AmericanAirlines_NFT.CollectionPublicPath",
+      "public_collection_name": "AmericanAirlines_NFT.AmericanAirlines_NFT"
     },
     "contract_name": "AmericanAirlines_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/americanairline/logo.jpeg",
@@ -694,6 +1233,11 @@
       "mainnet": "0x329feb3ab062d289",
       "testnet": null
     },
+    "path": {
+      "storage_path": "The_Next_Cartel_NFT.CollectionStoragePath",
+      "public_path": "The_Next_Cartel_NFT.CollectionPublicPath",
+      "public_collection_name": "The_Next_Cartel_NFT.The_Next_Cartel_NFT"
+    },
     "contract_name": "The_Next_Cartel_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thenextcartel/logo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thenextcartel/banner.jpg",
@@ -706,6 +1250,11 @@
     "address": {
       "mainnet": "0x329feb3ab062d289",
       "testnet": null
+    },
+    "path": {
+      "storage_path": "Atheletes_Unlimited_NFT.CollectionStoragePath",
+      "public_path": "Atheletes_Unlimited_NFT.CollectionPublicPath",
+      "public_collection_name": "Atheletes_Unlimited_NFT.Atheletes_Unlimited_NFT"
     },
     "contract_name": "Atheletes_Unlimited_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/atheletesunlimited/logo.png",
@@ -720,6 +1269,11 @@
       "mainnet": "0x329feb3ab062d289",
       "testnet": null
     },
+    "path": {
+      "storage_path": "Art_NFT.CollectionStoragePath",
+      "public_path": "Art_NFT.CollectionPublicPath",
+      "public_collection_name": "Art_NFT.Art_NFT"
+    },
     "contract_name": "Art_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/art/logo.png",
     "banner": null,
@@ -732,6 +1286,11 @@
     "address": {
       "mainnet": "0x329feb3ab062d289",
       "testnet": null
+    },
+    "path": {
+      "storage_path": "DGD_NFT.CollectionStoragePath",
+      "public_path": "DGD_NFT.CollectionPublicPath",
+      "public_collection_name": "DGD_NFT.DGD_NFT"
     },
     "contract_name": "DGD_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/dgd/logo.png",
@@ -746,6 +1305,11 @@
       "mainnet": "0x85b8bbf926dcddfa",
       "testnet": "0x1a3e64df3663edd3"
     },
+    "path": {
+      "storage_path": "NowggNFT.CollectionStoragePath",
+      "public_path": "NowggNFT.CollectionPublicPath",
+      "public_collection_name": "NowggNFT.NowggNFTCollectionPublic"
+    },
     "contract_name": "NowggNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/nowgg/logo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/nowgg/banner.jpg",
@@ -758,6 +1322,11 @@
     "address": {
       "mainnet": "0x8c9bbcdcd7514081",
       "testnet": "0x5fc35f03a6f33561"
+    },
+    "path": {
+      "storage_path": "GogoroCollectible.CollectionStoragePath",
+      "public_path": "GogoroCollectible.CollectionPublicPath",
+      "public_collection_name": "GogoroCollectible.CollectionPublic"
     },
     "contract_name": "GogoroCollectible",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/gogoro/logo.jpg",
@@ -772,6 +1341,11 @@
       "mainnet": "0x758252ab932a3416",
       "testnet": "0x5d50ce3fd080edce"
     },
+    "path": {
+      "storage_path": "YahooCollectible.CollectionStoragePath",
+      "public_path": "YahooCollectible.CollectionPublicPath",
+      "public_collection_name": "YahooCollectible.CollectionPublic"
+    },
     "contract_name": "YahooCollectible",
     "logo": null,
     "banner": null,
@@ -784,6 +1358,11 @@
     "address": {
       "mainnet": "0x667a16294a089ef8",
       "testnet": "0x0c153e28da9f988a"
+    },
+    "path": {
+      "storage_path": "SomePlaceCollectible.CollectionStoragePath",
+      "public_path": "SomePlaceCollectible.CollectionPublicPath",
+      "public_collection_name": "SomePlaceCollectible.CollectibleCollectionPublic"
     },
     "contract_name": "SomePlaceCollectible",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/someplace/logo.jpg",
@@ -798,6 +1377,11 @@
       "mainnet": "0x24de869c5e40b2eb",
       "testnet": "0xd6b5d6d271a2b544"
     },
+    "path": {
+      "storage_path": "ARTIFACTPack.collectionStoragePath",
+      "public_path": "ARTIFACTPack.collectionPublicPath",
+      "public_collection_name": "ARTIFACTPack.CollectionPublic"
+    },
     "contract_name": "ARTIFACTPack",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/artifact/logo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/artifact/banner.jpg",
@@ -810,6 +1394,11 @@
     "address": {
       "mainnet": "0x24de869c5e40b2eb",
       "testnet": "0xd6b5d6d271a2b544"
+    },
+    "path": {
+      "storage_path": "ARTIFACT.collectionStoragePath",
+      "public_path": "ARTIFACT.collectionPublicPath",
+      "public_collection_name": "ARTIFACT.CollectionPublic"
     },
     "contract_name": "ARTIFACT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/artifact/logo.png",
@@ -824,6 +1413,11 @@
       "mainnet": "0x5892036f9111fbb8",
       "testnet": "0xa3222e7505186595"
     },
+    "path": {
+      "storage_path": "NftReality.CollectionStoragePath",
+      "public_path": "NftReality.CollectionPublicPath",
+      "public_collection_name": "NftReality.NftRealityCollectionPublic"
+    },
     "contract_name": "NftReality",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/reality/logo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/reality/banner.jpg",
@@ -836,6 +1430,11 @@
     "address": {
       "mainnet": " 0xf20df769e658c257",
       "testnet": "0x95702b3642af3d0c"
+    },
+    "path": {
+      "storage_path": "MatrixWorldAssetsNFT.collectionStoragePath",
+      "public_path": "MatrixWorldAssetsNFT.collectionPublicPath",
+      "public_collection_name": "NonFungibleToken.CollectionPublic, NonFungibleToken.Receiver, MatrixWorldAssetsNFT.Metadata"
     },
     "contract_name": "MatrixWorldAssetsNFT",
     "logo": null,
@@ -850,6 +1449,11 @@
       "mainnet": "0x8d4fa88ffa2d9117",
       "testnet": "0xe0e251b47ff622ba"
     },
+    "path": {
+      "storage_path": "RacingTime.CollectionStoragePath",
+      "public_path": "RacingTime.CollectionPublicPath",
+      "public_collection_name": "RacingTime.CollectionPublic"
+    },
     "contract_name": "RacingTime",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/racingtime/logo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/racingtime/banner.jpg",
@@ -857,4 +1461,5 @@
     "marketplace": null,
     "description": "Next-generation RAC gaming experience"
   }
+>>>>>>> Stashed changes
 ]
