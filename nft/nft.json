@@ -18,6 +18,24 @@
     "description": "Rare NFTs of the NBA's best moments, possible in every pack."
   },
   {
+    "name": "FLOAT",
+    "address": {
+      "mainnet": "0x2d4c3caffbeab845",
+      "testnet": "0x0afe396ebc8eee65"
+    },
+    "path": {
+      "storage_path": "FLOAT.FLOATCollectionStoragePath",
+      "public_path": "FLOAT.FLOATCollectionPublicPath",
+      "public_collection_name": "FLOAT.CollectionPublic"
+    },
+    "contract_name": "FLOAT",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/float/logo.png",
+    "banner": null,
+    "official_website": "https://floats.city/",
+    "marketplace": null,
+    "description": "Claim a unique NFT to show that you attended an event."
+  },
+  {
     "name": "OVO",
     "address": {
       "mainnet": "0x75e0b6de94eb05d0",
