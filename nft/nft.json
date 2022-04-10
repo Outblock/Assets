@@ -273,7 +273,7 @@
     "name": "BiscuitsNGroovy",
     "address": {
       "mainnet": "0x7859c48816bfea3c",
-      "testnet": "0xf7ebe30e2e33b1f2"
+      "testnet": null
     },
     "path": {
       "storage_path": "BnGNFT.CollectionStoragePath",
@@ -659,11 +659,11 @@
       "public_collection_name": "CaaPass.CollectionPublic"
     },
     "contract_name": "CaaPass",
-    "logo": null,
-    "banner": null,
-    "official_website": null,
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/CaaPass/logo.png",
+    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/CaaPass/banner.png",
+    "official_website": "https://thing.fund",
     "marketplace": null,
-    "description": null
+    "description": "Makes crypto-art the new trend of the cyberspace"
   },
   {
     "name": "Eternal",
