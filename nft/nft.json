@@ -417,7 +417,7 @@
     "name": "Everbloom",
     "address": {
       "mainnet": "0xe703f7fee6400754",
-      "testnet": "0xf30d2f642de8c895"
+      "testnet": null
     },
     "path": {
       "storage_path": "Everbloom.CollectionStoragePath",
