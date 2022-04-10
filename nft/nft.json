@@ -319,7 +319,7 @@
     "contract_name": "CNN_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cnn/cnnlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cnn/cnnbanner.png",
-    "official website": "https://vault.cnn.com/\"",
+    "official_website": "https://vault.cnn.com/\"",
     "marketplace": "https://vault.cnn.com/marketplace",
     "description": "Vault by CNN allows anyone to purchase the historic moments from CNN's 40 year history"
   },
@@ -337,7 +337,7 @@
     "contract_name": "Beam",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/beam/beamlogo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/beam/beambanner.png",
-    "official website": "https://beamnft.art",
+    "official_website": "https://beamnft.art",
     "marketplace": null,
     "description": "BeamNFT is the first NFT marketplace on BEAM. Get quick and easy access to digital collectibles and explore, buy and sell NFTs from different collections"
   },
@@ -355,7 +355,7 @@
     "contract_name": "BlockleteGames_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/blockletegames/blockletegameslogo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/blockletegames/blokletegamesbanner.png",
-    "official website": "https://www.blockletegames.com",
+    "official_website": "https://www.blockletegames.com",
     "marketplace": "https://www.blockletegames.com/playtoearn",
     "description": " A first ever investment-style golf management NFT mobile app play to earn game, where your golf game skill determines your outcomes!"
   },
@@ -373,7 +373,7 @@
     "contract_name": "ChainmonstersRewards",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/chainmonstersrewards/chainmonsterlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/chainmonstersrewards/chainmonsterbanner.png",
-    "official website": "https://chainmonsters.com/",
+    "official_website": "https://chainmonsters.com/",
     "marketplace": "https://chainmonsters.com/marketplace",
     "description": "Cross-platform massively multiplayer RPG where you catch, battle, trade and compete with digital monsters"
   },
@@ -381,7 +381,7 @@
     "name": "Crave",
     "address": {
       "mainnet": "0x6d008a788fc27265",
-      "testnet": "0x6085ae87e78e1433"
+      "testnet": null
     },
     "path": {
       "storage_path": "Crave.CollectionStoragePath",
@@ -391,7 +391,7 @@
     "contract_name": "Crave",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/crave/cravelogo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/crave/cravebanner.png",
-    "official website": "https://crave.niftory.com",
+    "official_website": "https://crave.niftory.com",
     "marketplace": null,
     "description": "The dining club - reinvented featuring collectibles from iconic food brands and personalities"
   },
@@ -409,7 +409,7 @@
     "contract_name": "CricketMoments",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cricketmoments/cricketmomentlogo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cricketmoments/crickmomentbanner.png",
-    "official website": "https://www.fancraze.com",
+    "official_website": "https://www.fancraze.com",
     "marketplace": null,
     "description": "Collect and trade officially-licensed cricket NFTs from the ICC. Start building your roster of legends, current superstars, and emerging talents."
   },
@@ -427,7 +427,7 @@
     "contract_name": "Everbloom",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/everbloom/everbloomlogo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/everbloom/everbloombanner.png",
-    "official website": "https://everbloom.app/",
+    "official_website": "https://everbloom.app/",
     "marketplace": null,
     "description": "A mobile first, one-stop shop to express, connect, collect, create, and monetize with NFTs, designed for social-media natives and creatives"
   },
@@ -445,7 +445,7 @@
     "contract_name": "KOTD",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kotd/kotdlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kotd/kotdbanner.png",
-    "official website": "https://kotd.niftory.com",
+    "official_website": "https://kotd.niftory.com",
     "marketplace": null,
     "description": "King of the Dot Entertainment, also known as KOTD, is a North American rap battle league. Launching NFTs on Flow through Niftory."
   },
@@ -463,7 +463,7 @@
     "contract_name": "KlktnNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/klktn/klktnlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/klktn/klktnbanner.jpg",
-    "official website": "https://klktn.com/",
+    "official_website": "https://klktn.com/",
     "marketplace": "https://klktn.com/marketplace",
     "description": "Kollektion partners with select creators to produce high quality exclusive digital collectibles coming to Flow Blockchain"
   },
@@ -481,7 +481,7 @@
     "contract_name": "KlktnNFT2",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/klktn/klktnlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/klktn/klktnbanner.jpg",
-    "official website": "https://klktn.com/",
+    "official_website": "https://klktn.com/",
     "marketplace": "https://klktn.com/marketplace",
     "description": "Kollektion partners with select creators to produce high quality exclusive digital collectibles coming to Flow Blockchain"
   },
@@ -499,7 +499,7 @@
     "contract_name": "RareRooms_NFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rarerooms/rareroomslogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rarerooms/rareroomsbanner.png",
-    "official website": "https://app.rarerooms.io/",
+    "official_website": "https://app.rarerooms.io/",
     "marketplace": "https://rarerooms.io/marketplace",
     "description": "Immersive, virtual 3D environment for collectors, artists and admirers to experience their NFT collections"
   },
@@ -517,7 +517,7 @@
     "contract_name": "RCRDSHPNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rcrdshp/rcrdshologo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rcrdshp/rcrdshpbanner.png",
-    "official website": "https://app.rcrdshp.com",
+    "official_website": "https://app.rcrdshp.com",
     "marketplace": "https://app.rcrdshp.com/market",
     "description": "Community platform for securely trading music and related digital collectibles"
   },
@@ -535,7 +535,7 @@
     "contract_name": "SportsIconCollectible",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/sportsicon/sporticonlogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/sportsicon/sporticonbanner.png",
-    "official website": "https://sportsicon.com/",
+    "official_website": "https://sportsicon.com/",
     "marketplace": null,
     "description": "Partners with elite athletes to release NFT videos, art and moments to their fans. May come to Flow in the future"
   },
@@ -553,7 +553,7 @@
     "contract_name": "TuneGO",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/tunego/tunegologo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/tunego/tunegobanner.png",
-    "official website": "https://www.tunegonft.com/",
+    "official_website": "https://www.tunegonft.com/",
     "marketplace": null,
     "description": "TuneGO owns and operates a patented robust end-to-end technology platform built to securely store content and creative assets, protect metadata and creative rights, distribute digital media to global platforms, and mint NFTs on the blockchain."
   },
@@ -571,7 +571,7 @@
     "contract_name": "CryptoZooNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cryptozoo/cryptozoologo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cryptozoo/cryptozoobanner.png",
-    "official website": "https://cryptozoo.co",
+    "official_website": "https://cryptozoo.co",
     "marketplace": null,
     "description": "CryptoZoo is an autonomous ecosystem that allows ZooKeepers to buy, sell, and trade exotic animals and hybrids. "
   },
@@ -589,7 +589,7 @@
     "contract_name": "OneFootballCollectible",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/onefootball/onefootballlogo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/onefootball/onefootballbanner.png",
-    "official website": "https://xmas.onefootball.com",
+    "official_website": "https://xmas.onefootball.com",
     "marketplace": null,
     "description": "A football media platform highlighting news, scores, stats & more, are releasing NFTs exclusive to OneFootballers"
   },
@@ -607,7 +607,7 @@
     "contract_name": "TheFabricantMysteryBox_FF1",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thefabricantmysterybox/thefabricantlogo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thefabricantmysterybox/thefabricantbanner.jpg",
-    "official website": "https://www.thefabricant.com",
+    "official_website": "https://www.thefabricant.com",
     "marketplace": "https://www.thefabricant.com/drops",
     "description": "A digital fashion house leading the fashion industry towards a new sector of digital-only clothing. "
   },
@@ -625,7 +625,7 @@
     "contract_name": "DieselNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/diesel/diesellogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/diesel/dieselbanner.jpg",
-    "official website": "https://neuno.io",
+    "official_website": "https://neuno.io",
     "marketplace": null,
     "description": "neuno is a platform to buy, sell, and trade fashion NFTs. While the “F” in NFT has little to do with fashion, we are serving digital assets for all the collectors out there"
   },
@@ -643,7 +643,7 @@
     "contract_name": "MiamiNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/miami/miamilogo.png",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/miami/miamibanner.jpg",
-    "official website": "https://www.canesvault.com/",
+    "official_website": "https://www.canesvault.com/",
     "marketplace": "https://www.canesvault.com/marketplace",
     "description": "The official NFT marketplace for the Miami Hurricanes"
   },
@@ -823,7 +823,7 @@
     "contract_name": "TheFabricantS1ItemNFT",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thefabricantmysterybox/thefabricantlogo.jpg",
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thefabricantmysterybox/thefabricantbanner.jpg",
-    "official website": "https://www.thefabricant.com",
+    "official_website": "https://www.thefabricant.com",
     "marketplace": "https://www.thefabricant.com/drops",
     "description": "A digital fashion house leading the fashion industry towards a new sector of digital-only clothing. "
   },
@@ -864,10 +864,10 @@
     "description": null
   },
   {
-    "name": "Kicks",
+    "name": "ClosedSrc - NFTLX",
     "address": {
       "mainnet": "0xf3cc54f4d91c2f6c",
-      "testnet": "0xf3cc54f4d91c2f6c"
+      "testnet": "0xe861e151d3556d70"
     },
     "path": {
       "storage_path": "Kicks.CollectionStoragePath",
