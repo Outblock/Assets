@@ -90,7 +90,7 @@
          "mainnet":"0x142fa6570b62fd97",
          "testnet":null
       },
-      "contract_name":"",
+      "contract_name":"StarlyToken",
       "storage_path":{
          "balance":"/public/starlyTokenBalance",
          "vault":"/storage/starlyTokenVault",
