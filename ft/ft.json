@@ -68,22 +68,22 @@
       "website":"https://www.circle.com/en/"
    },
    {
-    "name":"My",
-    "address":{
-      "mainnet":"0x348fe2042c8a70d8",
-      "testnet":"0x40212f3e288efd03"
-    },
-    "contract_name":"MyToken",
-    "storage_path":{
-      "balance":"/public/mytokenBalance",
-      "vault":"/storage/mytokenVault",
-      "receiver":"/public/mytokenReceiver"
-    },
-    "decimal":8,
-    "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/my/logo.png",
-    "symbol":"my",
-    "website":"https://mynft.io/"
-  },
+      "name":"My",
+      "address":{
+         "mainnet":"0x348fe2042c8a70d8",
+         "testnet":"0x40212f3e288efd03"
+      },
+      "contract_name":"MyToken",
+      "storage_path":{
+         "balance":"/public/mytokenBalance",
+         "vault":"/storage/mytokenVault",
+         "receiver":"/public/mytokenReceiver"
+      },
+      "decimal":8,
+      "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/my/logo.png",
+      "symbol":"my",
+      "website":"https://mynft.io/"
+   },
    {
       "name":"Starly Token",
       "address":{
@@ -201,7 +201,7 @@
       "decimal":8,
       "icon":"https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceFTM/logo.png",
       "symbol":"ceFTM",
-      "website":null
+      "website":"https://celer.network"
    },
    {
       "name":"Matic Token (Celer)",
@@ -218,7 +218,7 @@
       "decimal":8,
       "icon":"https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceMATIC/logo.png",
       "symbol":"ceMATIC",
-      "website":null
+      "website":"https://celer.network"
    },
    {
       "name":"Tether USD (Celer)",
@@ -241,7 +241,7 @@
       "name":"Wrapped BTC (Celer)",
       "address":{
          "mainnet":"0x231cc0dbbcffc4b7",
-         "testnet":null
+         "testnet":"https://celer.network"
       },
       "contract_name":"ceWBTC",
       "storage_path":{
@@ -252,7 +252,7 @@
       "decimal":8,
       "icon":"https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceWBTC/logo.png",
       "symbol":"ceWBTC",
-      "website":null
+      "website":"https://celer.network"
    },
    {
       "name":"Wrapped Ether (Celer)",
@@ -269,7 +269,7 @@
       "decimal":8,
       "icon":"https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.ceWETH/logo.png",
       "symbol":"ceWETH",
-      "website":null
+      "website":"https://celer.network"
    },
    {
       "name":"Teleported Sportium Token",
