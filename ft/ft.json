@@ -88,7 +88,7 @@
       "name":"Starly Token",
       "address":{
          "mainnet":"0x142fa6570b62fd97",
-         "testnet":null
+         "testnet":"0xf63219072aaddd50"
       },
       "contract_name":"StarlyToken",
       "storage_path":{
