@@ -17,7 +17,7 @@
     },
     {
         "name": "FLOAT",
-        "url": "https://www.ecdao.org/",
+        "url": "https://floats.city/",
         "testnet_url": "https://testnet.floats.city/",
         "description": "A Flow-enabled proof of attendance platform built by Emerald DAO",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/float/logo.png",
@@ -31,5 +31,4 @@
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/increment/logo.jpeg",
         "category": "Domain"
     }
-
 ]
