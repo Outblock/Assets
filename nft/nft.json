@@ -245,7 +245,7 @@
       "testnet": "0x91a6217c3b70cae8"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfcbanner.png",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://www.thefootballclub.com",
     "description": "Blockchain Based Football Fantasy Manager",
     "path": {
@@ -680,11 +680,11 @@
   },
   {
     "contract_name": "MintStoreItem",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "address": {
       "mainnet": "0x20187093790b9aef",
       "testnet": "0x985d410b577fd4a1"
     },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://www.facebook.com/NFTMINTSTORE?_rdr",
     "path": {
       "public_collection_name": "MintStoreItem.MintStoreItemCollectionPublic",
@@ -703,7 +703,7 @@
       "public_path": "Collectible.CollectionPublicPath"
     },
     "name": "Collectible",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "address": {
       "mainnet": "0xf5b0eb433389ac3f",
       "testnet": "0x85080f371da20cc1"
@@ -898,7 +898,7 @@
     "contract_name": "Costacos_NFT",
     "address": { "mainnet": "0x329feb3ab062d289" },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/costacos/banner.jpg",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "http://costacoscollection.com/",
     "description": "From legendary sports poster artist John Costacos comes the next generation of iconic sports collectibles. ",
     "path": {
@@ -914,7 +914,7 @@
     "address": { "mainnet": "0x329feb3ab062d289" },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/canesvault/banner.jpg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/canesvault/logo.jpg",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://www.canesvault.com/",
     "description": "The official NFT marketplace for the Miami Hurricanes",
     "path": {
@@ -928,7 +928,7 @@
   {
     "contract_name": "AmericanAirlines_NFT",
     "address": { "mainnet": "0x329feb3ab062d289" },
-    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://viewfromthewing.com/",
     "path": {
       "public_collection_name": "AmericanAirlines_NFT.AmericanAirlines_NFT",
@@ -943,7 +943,7 @@
     "contract_name": "The_Next_Cartel_NFT",
     "address": { "mainnet": "0x329feb3ab062d289" },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thenextcartel/banner.jpg",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://thenextcartel.com/",
     "description": "We curate and collaborate with brands, empowering them to bridge into the blockchain universe, creating unique NFTs and new experiences for fashion collectors",
     "path": {
@@ -959,7 +959,7 @@
     "address": { "mainnet": "0x329feb3ab062d289" },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/atheletesunlimited/banner.jpg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/atheletesunlimited/logo.png",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://viv3.com/athletesunlimited",
     "description": "An all-new model for pro athletes and sports releasing NFTs on Flow",
     "path": {
@@ -974,7 +974,7 @@
     "contract_name": "Art_NFT",
     "address": { "mainnet": "0x329feb3ab062d289" },
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/art/logo.png",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://misa.art/",
     "description": "An online marketplace that brings emerging and established artists together and offers a range of traditional and digital art",
     "path": {
@@ -990,7 +990,7 @@
     "address": { "mainnet": "0x329feb3ab062d289" },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/dgd/banner.jpg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/dgd/logo.png",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://www.theplayerslounge.io/",
     "description": "A limited NFT collection of unique Digitally Generated Dogs",
     "path": {
@@ -1253,7 +1253,7 @@
       "testnet": "0x04625c28593d9408"
     },
     "banner": "https://github.com/Outblock/Assets/blob/main/nft/breakingt/banner.jpeg",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://breakingt.com/",
     "description": "BreakingT is officially licensed by professional athletes and teams in the MLB, NBA, WNBA, NFL, NHL, and MLS.",
     "path": {
@@ -1304,7 +1304,7 @@
     "contract_name": "NFTContract",
     "address": { "mainnet": "0x1e075b24abe6eca6" },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/nftcontract/banner.jpeg",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://nowwhere.io/",
     "description": "A two-sided blockchain-backed intelligent NFT marketplace",
     "path": {
