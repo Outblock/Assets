@@ -24,16 +24,18 @@
       "mainnet": "0x2d4c3caffbeab845",
       "testnet": "0x0afe396ebc8eee65"
     },
+    "banner": null,
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/float/logo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://floats.city/",
+    "description": "Claim a unique NFT to show that you attended an event.",
     "path": {
       "public_collection_name": "FLOAT.CollectionPublic",
       "storage_path": "FLOAT.FLOATCollectionStoragePath",
       "public_path": "FLOAT.FLOATCollectionPublicPath"
     },
-    "description": "Claim a unique NFT to show that you attended an event.",
     "name": "FLOAT",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/float/logo.png"
+    "marketplace": null
   },
   {
     "contract_name": "NyatheesOVO",
@@ -56,7 +58,7 @@
   },
   {
     "contract_name": "RaceDay_NFT",
-    "address": { "mainnet": "0x329feb3ab062d289" },
+    "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/raceday_nft/racedaybanner.jpeg",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/raceday_nft/racedaylogo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
@@ -115,6 +117,7 @@
       "testnet": "0xe94a6e229293f196"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/vouchers/vouchersbanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/vouchers/voucherslogo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://schmoes.io",
     "description": "A limited NFT collection on the Flow Blockchain. Each NFT is unique and grants you access to the Schmoes benefits.",
@@ -124,7 +127,7 @@
       "public_path": "Vouchers.CollectionPublicPath"
     },
     "name": "Vouchers",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/vouchers/voucherslogo.png"
+    "marketplace": null
   },
   {
     "contract_name": "Mynft",
@@ -152,6 +155,7 @@
       "testnet": "0xe2f1b000e0203c1d"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldbanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldlogo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://matrixworld.org/home",
     "description": "Matrix World is a distinctive virtual world that will support different blockchain infrastructures. Players can explore the world with different on-chain identities.",
@@ -161,7 +165,7 @@
       "public_path": "MatrixWorldFlowFestNFT.CollectionPublicPath"
     },
     "name": "MatrixWorld",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldlogo.png"
+    "marketplace": null
   },
   {
     "contract_name": "MusicBlock",
@@ -227,6 +231,7 @@
       "testnet": "0xb05b2abb42335e88"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainsbanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainlogo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://www.flowns.org/?utm_source=Flowverse&utm_medium=Website&utm_campaign=Dapp",
     "description": "Flow-based Domain Name Service where every domain is an NFT",
@@ -236,7 +241,7 @@
       "public_path": "Domains.CollectionPublicPath"
     },
     "name": "Domains",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainlogo.png"
+    "marketplace": null
   },
   {
     "contract_name": "TFCItems",
@@ -245,6 +250,7 @@
       "testnet": "0x91a6217c3b70cae8"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfcbanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfclogo.jpg",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://www.thefootballclub.com",
     "description": "Blockchain Based Football Fantasy Manager",
@@ -254,7 +260,7 @@
       "public_path": "/public/TFCItemsCollection"
     },
     "name": "TFC",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfclogo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "GooberXContract",
@@ -277,8 +283,9 @@
   },
   {
     "contract_name": "BnGNFT",
-    "address": { "mainnet": "0x7859c48816bfea3c" },
+    "address": { "mainnet": "0x7859c48816bfea3c", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/biscuitsngroovy/biscuitngroovybanner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/biscuitsngroovy/biscuitsngroovylogo.jpeg",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://www.bngroovy.com/",
     "description": "Biscuits n Groovy exists to create a more engaging and equitable digital music experience",
@@ -288,7 +295,7 @@
       "public_path": "BnGNFT.CollectionPublicPath"
     },
     "name": "BiscuitsNGroovy",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/biscuitsngroovy/biscuitsngroovylogo.jpeg"
+    "marketplace": null
   },
   {
     "contract_name": "GeniaceNFT",
@@ -297,6 +304,7 @@
       "testnet": "0x99eb28310626e56a"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/geniacenft/geniacebanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/geniacenft/geniacelogo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://www.geniace.com",
     "description": "Geniace is a curated NFT collectibles marketplace for culture’s icons on Flow Blockchain",
@@ -306,11 +314,11 @@
       "public_path": "GeniaceNFT.CollectionPublicPath"
     },
     "name": "Geniace",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/geniacenft/geniacelogo.png"
+    "marketplace": null
   },
   {
     "contract_name": "CNN_NFT",
-    "address": { "mainnet": "0x329feb3ab062d289" },
+    "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cnn/cnnbanner.png",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cnn/cnnlogo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
@@ -331,6 +339,7 @@
       "testnet": "0x6085ae87e78e1433"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/beam/beambanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/beam/beamlogo.jpg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://beamnft.art",
     "description": "BeamNFT is the first NFT marketplace on BEAM. Get quick and easy access to digital collectibles and explore, buy and sell NFTs from different collections",
@@ -340,11 +349,11 @@
       "public_path": "Beam.CollectionPublicPath"
     },
     "name": "Beam",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/beam/beamlogo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "BlockleteGames_NFT",
-    "address": { "mainnet": "0x329feb3ab062d289" },
+    "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/blockletegames/blokletegamesbanner.png",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/blockletegames/blockletegameslogo.jpg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
@@ -379,8 +388,9 @@
   },
   {
     "contract_name": "Crave",
-    "address": { "mainnet": "0x6d008a788fc27265" },
+    "address": { "mainnet": "0x6d008a788fc27265", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/crave/cravebanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/crave/cravelogo.jpg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://crave.niftory.com",
     "description": "The dining club - reinvented featuring collectibles from iconic food brands and personalities",
@@ -390,7 +400,7 @@
       "public_path": "Crave.CollectionPublicPath"
     },
     "name": "Crave",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/crave/cravelogo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "CricketMoments",
@@ -399,6 +409,7 @@
       "testnet": "0xb45e7992680a0f7f"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cricketmoments/crickmomentbanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cricketmoments/cricketmomentlogo.jpg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://www.fancraze.com",
     "description": "Collect and trade officially-licensed cricket NFTs from the ICC. Start building your roster of legends, current superstars, and emerging talents.",
@@ -408,12 +419,13 @@
       "public_path": "CricketMoments.CollectionPublicPath"
     },
     "name": "CricketMoments",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cricketmoments/cricketmomentlogo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "Everbloom",
-    "address": { "mainnet": "0xe703f7fee6400754" },
+    "address": { "mainnet": "0xe703f7fee6400754", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/everbloom/everbloombanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/everbloom/everbloomlogo.jpg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://everbloom.app/",
     "description": "A mobile first, one-stop shop to express, connect, collect, create, and monetize with NFTs, designed for social-media natives and creatives",
@@ -423,7 +435,7 @@
       "public_path": "Everbloom.CollectionPublicPath"
     },
     "name": "Everbloom",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/everbloom/everbloomlogo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "KOTD",
@@ -432,6 +444,7 @@
       "testnet": "0x6085ae87e78e1433"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kotd/kotdbanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kotd/kotdlogo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://kotd.niftory.com",
     "description": "King of the Dot Entertainment, also known as KOTD, is a North American rap battle league. Launching NFTs on Flow through Niftory.",
@@ -441,7 +454,7 @@
       "public_path": "KOTD.CollectionPublicPath"
     },
     "name": "KOTD",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kotd/kotdlogo.png"
+    "marketplace": null
   },
   {
     "contract_name": "KlktnNFT",
@@ -464,7 +477,7 @@
   },
   {
     "contract_name": "KlktnNFT2",
-    "address": { "mainnet": "0xabd6e80be7e9682c" },
+    "address": { "mainnet": "0xabd6e80be7e9682c", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/klktn/klktnbanner.jpg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/klktn/klktnlogo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
@@ -480,7 +493,7 @@
   },
   {
     "contract_name": "RareRooms_NFT",
-    "address": { "mainnet": "0x329feb3ab062d289" },
+    "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rarerooms/rareroomsbanner.png",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rarerooms/rareroomslogo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
@@ -520,6 +533,7 @@
       "testnet": "0xc2824327396d3a39"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/sportsicon/sporticonbanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/sportsicon/sporticonlogo.png",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://sportsicon.com/",
     "description": "Partners with elite athletes to release NFT videos, art and moments to their fans. May come to Flow in the future",
@@ -529,7 +543,7 @@
       "public_path": "SportsIconCollectible.CollectionPublicPath"
     },
     "name": "SportsIcon",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/sportsicon/sporticonlogo.png"
+    "marketplace": null
   },
   {
     "contract_name": "TuneGO",
@@ -538,6 +552,7 @@
       "testnet": "0x2b0150231c047a8c"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/tunego/tunegobanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/tunego/tunegologo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://www.tunegonft.com/",
     "description": "TuneGO owns and operates a patented robust end-to-end technology platform built to securely store content and creative assets, protect metadata and creative rights, distribute digital media to global platforms, and mint NFTs on the blockchain.",
@@ -547,7 +562,7 @@
       "public_path": "TuneGO.CollectionPublicPath"
     },
     "name": "TuneGO",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/tunego/tunegologo.png"
+    "marketplace": null
   },
   {
     "contract_name": "CryptoZooNFT",
@@ -556,6 +571,7 @@
       "testnet": "0xd60702f03bcafd46"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cryptozoo/cryptozoobanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cryptozoo/cryptozoologo.jpg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://cryptozoo.co",
     "description": "CryptoZoo is an autonomous ecosystem that allows ZooKeepers to buy, sell, and trade exotic animals and hybrids. ",
@@ -565,7 +581,7 @@
       "public_path": "CryptoZooNFT.CollectionPublicPath"
     },
     "name": "CryptoZoo",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/cryptozoo/cryptozoologo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "OneFootballCollectible",
@@ -574,6 +590,7 @@
       "testnet": "0x01984fb4ca279d9a"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/onefootball/onefootballbanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/onefootball/onefootballlogo.jpg",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://xmas.onefootball.com",
     "description": "A football media platform highlighting news, scores, stats & more, are releasing NFTs exclusive to OneFootballers",
@@ -583,7 +600,7 @@
       "public_path": "OneFootballCollectible.CollectionPublicPath"
     },
     "name": "OneFootball",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/onefootball/onefootballlogo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "TheFabricantMysteryBox_FF1",
@@ -611,6 +628,7 @@
       "testnet": "0x716db717f9240d8a"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/diesel/dieselbanner.jpg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/diesel/diesellogo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://neuno.io",
     "description": "neuno is a platform to buy, sell, and trade fashion NFTs. While the “F” in NFT has little to do with fashion, we are serving digital assets for all the collectors out there",
@@ -620,7 +638,7 @@
       "public_path": "/public/DieselCollection001"
     },
     "name": "Diesel",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/diesel/diesellogo.png"
+    "marketplace": null
   },
   {
     "contract_name": "MiamiNFT",
@@ -648,6 +666,7 @@
       "testnet": "0xa8b1239250f8d342"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/CaaPass/banner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/CaaPass/logo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://thing.fund",
     "description": "Makes crypto-art the new trend of the cyberspace",
@@ -657,7 +676,7 @@
       "public_path": "CaaPass.CollectionPublicPath"
     },
     "name": "Caa",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/CaaPass/logo.png"
+    "marketplace": null
   },
   {
     "contract_name": "Eternal",
@@ -684,30 +703,37 @@
       "mainnet": "0x20187093790b9aef",
       "testnet": "0x985d410b577fd4a1"
     },
+    "banner": null,
+    "logo": null,
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://www.facebook.com/NFTMINTSTORE?_rdr",
+    "description": "Visual Art",
     "path": {
       "public_collection_name": "MintStoreItem.MintStoreItemCollectionPublic",
       "storage_path": "MintStoreItem.CollectionStoragePath",
       "public_path": "MintStoreItem.CollectionPublicPath"
     },
-    "description": "Visual Art",
-    "name": "MintStore"
+    "name": "MintStore",
+    "marketplace": null
   },
   {
     "contract_name": "Collectible",
+    "address": {
+      "mainnet": "0xf5b0eb433389ac3f",
+      "testnet": "0x85080f371da20cc1"
+    },
+    "banner": null,
+    "logo": null,
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://www.xtingles.com/",
+    "description": null,
     "path": {
       "public_collection_name": "Collectible.CollectionPublicPath",
       "storage_path": "Collectible.CollectionStoragePath",
       "public_path": "Collectible.CollectionPublicPath"
     },
     "name": "Collectible",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
-    "address": {
-      "mainnet": "0xf5b0eb433389ac3f",
-      "testnet": "0x85080f371da20cc1"
-    }
+    "marketplace": null
   },
   {
     "contract_name": "HaikuNFT",
@@ -715,31 +741,37 @@
       "mainnet": "0xf61e40c19db2a9e2",
       "testnet": "0x824f612f78d34250"
     },
+    "banner": null,
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/haikunft/logo.jpeg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://bitku.art/",
+    "description": "Bitku is a project to create generative haiku completely on the Flow blockchain. ",
     "path": {
       "public_collection_name": "HaikuNFT.HaikuCollectionPublic",
       "storage_path": "/storage/BitkuCollection",
       "public_path": "/public/BitkuCollection"
     },
-    "description": "Bitku is a project to create generative haiku completely on the Flow blockchain. ",
     "name": "Haiku",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/haikunft/logo.jpeg"
+    "marketplace": null
   },
   {
     "contract_name": "FlowChinaBadge",
+    "address": {
+      "mainnet": "0x99fed1e8da4c3431",
+      "testnet": "0xb83e682ece5c8a50"
+    },
+    "banner": null,
+    "logo": null,
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://twitter.com/FlowFansChina",
+    "description": null,
     "path": {
       "public_collection_name": "FlowChinaBadge.FlowChinaBadgeCollectionPublic",
       "storage_path": "/storage/FlowChinaBadgeCollection",
       "public_path": "/public/FlowChinaBadgeCollection"
     },
     "name": "FlowChinaBadge",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
-    "address": {
-      "mainnet": "0x99fed1e8da4c3431",
-      "testnet": "0xb83e682ece5c8a50"
-    }
+    "marketplace": null
   },
   {
     "contract_name": "AllDay",
@@ -781,17 +813,22 @@
   },
   {
     "contract_name": "ItemNFT",
+    "address": {
+      "mainnet": "0xfc91de5e6566cc7c",
+      "testnet": "0x716db717f9240d8a"
+    },
+    "banner": null,
+    "logo": null,
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "official_website": null,
+    "description": null,
     "path": {
       "public_collection_name": "ItemNFT.ItemCollectionPublic",
       "storage_path": "ItemNFT.CollectionStoragePath",
       "public_path": "ItemNFT.CollectionPublicPath"
     },
     "name": "Item",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
-    "address": {
-      "mainnet": "0xfc91de5e6566cc7c",
-      "testnet": "0x716db717f9240d8a"
-    }
+    "marketplace": null
   },
   {
     "contract_name": "TheFabricantS1ItemNFT",
@@ -814,31 +851,38 @@
   },
   {
     "contract_name": "Andbox_NFT",
-    "address": { "mainnet": "0x329feb3ab062d289" },
+    "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
+    "banner": null,
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/andbox/logo.jpeg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://shop.nyxl.com/password",
+    "description": " Esports organization and owner of The New York Excelsior and Subliners. ",
     "path": {
       "public_collection_name": "Andbox_NFT.Andbox_NFTCollectionPublic",
       "storage_path": "Andbox_NFT.CollectionStoragePath",
       "public_path": "Andbox_NFT.CollectionPublicPath"
     },
-    "description": " Esports organization and owner of The New York Excelsior and Subliners. ",
     "name": "Andbox",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/andbox/logo.jpeg"
+    "marketplace": null
   },
   {
     "contract_name": "ZeedzINO",
+    "address": {
+      "mainnet": "0x62b3063fbe672fc8",
+      "testnet": "0x2dda9145001182e0"
+    },
+    "banner": null,
+    "logo": null,
+    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
+    "official_website": null,
+    "description": null,
     "path": {
       "public_collection_name": "ZeedzINO.ZeedzCollectionPublic",
       "storage_path": "/storage/ZeedzINOCollection",
       "public_path": "/public/ZeedzINOCollection"
     },
     "name": "ZeedzINO",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
-    "address": {
-      "mainnet": "0x62b3063fbe672fc8",
-      "testnet": "0x2dda9145001182e0"
-    }
+    "marketplace": null
   },
   {
     "contract_name": "Kicks",
@@ -847,6 +891,7 @@
       "testnet": "0xe861e151d3556d70"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kicks/banner.jpg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kicks/logo.jpg",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://getkicks.co/",
     "description": "Kicks is a sneaker NFT studio.",
@@ -856,7 +901,7 @@
       "public_path": "Kicks.CollectionPublicPath"
     },
     "name": "ClosedSrc - NFTLX",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/kicks/logo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "BarterYardPackNFT",
@@ -865,6 +910,7 @@
       "testnet": "0x4300fc3a11778a9a"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/barteryardpack/banner.jpg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/barteryardpack/logo.jpg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://www.barteryard.club/",
     "description": "NFT toolbox open organization co-owned by the werewolves",
@@ -874,7 +920,7 @@
       "public_path": "BarterYardPackNFT.CollectionPublicPath"
     },
     "name": "BarterYard",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/barteryardpack/logo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "DayNFT",
@@ -883,6 +929,7 @@
       "testnet": "0x0b7f00d13cd033bd"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/daynft/banner.jpg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/daynft/logo.jpg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://day-nft.io/",
     "description": "Fun NFTs with provable rarity (only one per day gets minted), customizable by users and with real rewards as 50% of all proceeds goes back to the holders.",
@@ -892,12 +939,13 @@
       "public_path": "DayNFT.CollectionPublicPath"
     },
     "name": "Day",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/daynft/logo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "Costacos_NFT",
-    "address": { "mainnet": "0x329feb3ab062d289" },
+    "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/costacos/banner.jpg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/costacos/logo.jpg",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "http://costacoscollection.com/",
     "description": "From legendary sports poster artist John Costacos comes the next generation of iconic sports collectibles. ",
@@ -907,11 +955,11 @@
       "public_path": "Costacos_NFT.CollectionPublicPath"
     },
     "name": "Costacos",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/costacos/logo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "Canes_Vault_NFT",
-    "address": { "mainnet": "0x329feb3ab062d289" },
+    "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/canesvault/banner.jpg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/canesvault/logo.jpg",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
@@ -927,22 +975,25 @@
   },
   {
     "contract_name": "AmericanAirlines_NFT",
-    "address": { "mainnet": "0x329feb3ab062d289" },
+    "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
+    "banner": null,
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/americanairline/logo.jpeg",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://viewfromthewing.com/",
+    "description": "Gift American Airlines Sent To Its Super Secret ‘Concierge Key’ Members",
     "path": {
       "public_collection_name": "AmericanAirlines_NFT.AmericanAirlines_NFT",
       "storage_path": "AmericanAirlines_NFT.CollectionStoragePath",
       "public_path": "AmericanAirlines_NFT.CollectionPublicPath"
     },
-    "description": "Gift American Airlines Sent To Its Super Secret ‘Concierge Key’ Members",
     "name": "AmericanAirlines",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/americanairline/logo.jpeg"
+    "marketplace": null
   },
   {
     "contract_name": "The_Next_Cartel_NFT",
-    "address": { "mainnet": "0x329feb3ab062d289" },
+    "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thenextcartel/banner.jpg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thenextcartel/logo.jpg",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://thenextcartel.com/",
     "description": "We curate and collaborate with brands, empowering them to bridge into the blockchain universe, creating unique NFTs and new experiences for fashion collectors",
@@ -952,11 +1003,11 @@
       "public_path": "The_Next_Cartel_NFT.CollectionPublicPath"
     },
     "name": "The Next Cartel",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thenextcartel/logo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "Atheletes_Unlimited_NFT",
-    "address": { "mainnet": "0x329feb3ab062d289" },
+    "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/atheletesunlimited/banner.jpg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/atheletesunlimited/logo.png",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
@@ -972,7 +1023,8 @@
   },
   {
     "contract_name": "Art_NFT",
-    "address": { "mainnet": "0x329feb3ab062d289" },
+    "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
+    "banner": null,
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/art/logo.png",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://misa.art/",
@@ -987,7 +1039,7 @@
   },
   {
     "contract_name": "DGD_NFT",
-    "address": { "mainnet": "0x329feb3ab062d289" },
+    "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/dgd/banner.jpg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/dgd/logo.png",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
@@ -1026,6 +1078,7 @@
       "mainnet": "0x8c9bbcdcd7514081",
       "testnet": "0x5fc35f03a6f33561"
     },
+    "banner": null,
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/gogoro/logo.jpg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://www.gogoro.com/",
@@ -1040,18 +1093,22 @@
   },
   {
     "contract_name": "YahooCollectible",
+    "address": {
+      "mainnet": "0x758252ab932a3416",
+      "testnet": "0x5d50ce3fd080edce"
+    },
+    "banner": null,
+    "logo": null,
+    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://tw.yahoo.com/",
+    "description": null,
     "path": {
       "public_collection_name": "YahooCollectible.CollectionPublic",
       "storage_path": "YahooCollectible.CollectionStoragePath",
       "public_path": "YahooCollectible.CollectionPublicPath"
     },
     "name": "Yahoo",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
-    "address": {
-      "mainnet": "0x758252ab932a3416",
-      "testnet": "0x5d50ce3fd080edce"
-    }
+    "marketplace": null
   },
   {
     "contract_name": "SomePlaceCollectible",
@@ -1079,6 +1136,7 @@
       "testnet": "0xd6b5d6d271a2b544"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/artifact/banner.jpg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/artifact/logo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://artifact.scmp.com/",
     "description": "ARTIFACTs by SCMP are collectible NFTs from the South China Morning Post's 118 years of archives. ",
@@ -1088,7 +1146,7 @@
       "public_path": "ARTIFACTPack.collectionPublicPath"
     },
     "name": "ARTFACTpack",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/artifact/logo.png"
+    "marketplace": null
   },
   {
     "contract_name": "ARTIFACT",
@@ -1097,6 +1155,7 @@
       "testnet": "0xd6b5d6d271a2b544"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/artifact/banner.jpg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/artifact/logo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://artifact.scmp.com/",
     "description": "ARTIFACTs by SCMP are collectible NFTs from the South China Morning Post's 118 years of archives. ",
@@ -1106,7 +1165,7 @@
       "public_path": "ARTIFACT.collectionPublicPath"
     },
     "name": " ARTIFACT",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/artifact/logo.png"
+    "marketplace": null
   },
   {
     "contract_name": "NftReality",
@@ -1134,6 +1193,7 @@
       "testnet": "0x95702b3642af3d0c"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldbanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldlogo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://matrixworld.org",
     "description": "A next-generation programmable 3D multichain metaverse",
@@ -1143,7 +1203,7 @@
       "public_path": "MatrixWorldAssetsNFT.collectionPublicPath"
     },
     "name": "MatrixWorldAssets",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/matrixworldflowfestnft/matrixworldlogo.png"
+    "marketplace": null
   },
   {
     "contract_name": "RacingTime",
@@ -1152,6 +1212,7 @@
       "testnet": "0xe0e251b47ff622ba"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/racingtime/banner.jpg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/racingtime/logo.jpg",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://www.racingtime.io/",
     "description": "Next-generation RAC gaming experience",
@@ -1161,7 +1222,7 @@
       "public_path": "RacingTime.CollectionPublicPath"
     },
     "name": "RacingTime",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/racingtime/logo.jpg"
+    "marketplace": null
   },
   {
     "contract_name": "Momentables",
@@ -1170,6 +1231,7 @@
       "testnet": "0x9f2eb43b6df02730"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/momentables/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/momentables/logo.jpeg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://nextdecentrum.com",
     "description": "Momentable empowers creators to launch their own branded NFT-based products, collections, marketplaces, experiences, and communities.",
@@ -1179,11 +1241,11 @@
       "public_path": "Momentables.CollectionPublicPath"
     },
     "name": "Momentables",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/momentables/logo.jpeg"
+    "marketplace": null
   },
   {
     "contract_name": "GoatedGoats",
-    "address": { "mainnet": "0x2068315349bdfce5" },
+    "address": { "mainnet": "0x2068315349bdfce5", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/goatedgoats/banner.jpeg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/goatedgoats/logo.jpeg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
@@ -1199,7 +1261,7 @@
   },
   {
     "contract_name": "GoatedGoatsTrait",
-    "address": { "mainnet": "0x2068315349bdfce5" },
+    "address": { "mainnet": "0x2068315349bdfce5", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/goatedgoats/banner.jpeg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/goatedgoats/logo.jpeg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": false },
@@ -1215,18 +1277,22 @@
   },
   {
     "contract_name": "DropzToken",
+    "address": {
+      "mainnet": "0x2ba17360b76f0143",
+      "testnet": "0xc74cca921807df36"
+    },
+    "banner": null,
+    "logo": null,
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://dropznft.xyz",
+    "description": null,
     "path": {
       "public_collection_name": "DropzToken.DropzTokenCollectionPublic",
       "storage_path": "DropzToken.CollectionStoragePath",
       "public_path": "DropzToken.CollectionPublicPath"
     },
     "name": "DropzToken",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
-    "address": {
-      "mainnet": "0x2ba17360b76f0143",
-      "testnet": "0xc74cca921807df36"
-    }
+    "marketplace": null
   },
   {
     "contract_name": "Necryptolis",
@@ -1235,6 +1301,7 @@
       "testnet": "0x720bbc077f5b0bda"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/necryptolis/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/necryptolis/logo.jpeg",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://www.necryptolis.com",
     "description": "The internet's own graveyard.",
@@ -1244,7 +1311,7 @@
       "public_path": "Necryptolis.CollectionPublicPath"
     },
     "name": "Necryptolis",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/necryptolis/logo.jpeg"
+    "marketplace": null
   },
   {
     "contract_name": "BreakingT_NFT",
@@ -1253,6 +1320,7 @@
       "testnet": "0x04625c28593d9408"
     },
     "banner": "https://github.com/Outblock/Assets/blob/main/nft/breakingt/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/breakingt/logo.jpeg",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://breakingt.com/",
     "description": "BreakingT is officially licensed by professional athletes and teams in the MLB, NBA, WNBA, NFL, NHL, and MLS.",
@@ -1262,7 +1330,7 @@
       "public_path": "BreakingT_NFT.CollectionPublicPath"
     },
     "name": "BreakingT",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/breakingt/logo.jpeg"
+    "marketplace": null
   },
   {
     "contract_name": "Owners",
@@ -1274,6 +1342,7 @@
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/owners/logo.jpeg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://nft-owners.jp",
+    "description": null,
     "path": {
       "public_collection_name": "Owners.OwnersCollectionPublic",
       "storage_path": "/storage/OwnersCollection0x41cad19decccdf25",
@@ -1289,6 +1358,7 @@
       "testnet": "0x161bcffdf67a19bc"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/metaverse/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/metaverse/logo.png",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://ozonemetaverse.io",
     "description": "The only internet-scale metaverse platform. Powered by Flow Blockchain and the O3 engine.",
@@ -1298,12 +1368,13 @@
       "public_path": "Metaverse.CollectionPublicPath"
     },
     "name": "Metaverse",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/metaverse/logo.png"
+    "marketplace": null
   },
   {
     "contract_name": "NFTContract",
-    "address": { "mainnet": "0x1e075b24abe6eca6" },
+    "address": { "mainnet": "0x1e075b24abe6eca6", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/nftcontract/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/nftcontract/logo.jpeg",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://nowwhere.io/",
     "description": "A two-sided blockchain-backed intelligent NFT marketplace",
@@ -1313,21 +1384,23 @@
       "public_path": "NFTContract.CollectionPublicPath"
     },
     "name": "NowWhere",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/nftcontract/logo.jpeg"
+    "marketplace": null
   },
   {
     "contract_name": "SwaychainNFT",
-    "address": { "mainnet": "0xa4e9020ad21eb30b" },
+    "address": { "mainnet": "0xa4e9020ad21eb30b", "testnet": null },
+    "banner": null,
+    "logo": "https://github.com/Outblock/Assets/blob/main/nft/swaychain/logo.png",
     "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://swaychain.com/",
+    "description": "Designing and building custom NFT marketplaces",
     "path": {
       "public_collection_name": "ShawychainNFT.SwaychainNFTCollectionPublic",
       "storage_path": "SwaychainNFT.CollectionStoragePath",
       "public_path": "SwaychainNFT.CollectionPublicPath"
     },
-    "description": "Designing and building custom NFT marketplaces",
     "name": "Swaychain",
-    "logo": "https://github.com/Outblock/Assets/blob/main/nft/swaychain/logo.png"
+    "marketplace": null
   },
   {
     "contract_name": "TheFabricantS2ItemNFT",
@@ -1350,18 +1423,22 @@
   },
   {
     "contract_name": "VnMiss",
+    "address": {
+      "mainnet": "0x7c11edb826692404",
+      "testnet": "0x4fb7700ee1a19c44"
+    },
+    "banner": null,
+    "logo": null,
+    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://hoahauhoanvuvietnam.avatarart.io",
+    "description": null,
     "path": {
       "public_collection_name": "VnMiss.VnMissCollectionPublic",
       "storage_path": "VnMiss.CollectionStoragePath",
       "public_path": "VnMiss.CollectionPublicPath"
     },
     "name": "VnMiss",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
-    "address": {
-      "mainnet": "0x7c11edb826692404",
-      "testnet": "0x4fb7700ee1a19c44"
-    }
+    "marketplace": null
   },
   {
     "contract_name": "AADigital",
@@ -1370,6 +1447,7 @@
       "testnet": "0x03a4ea61342fcb6c"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/aadigital/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/aadigital/logo.jpeg",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://avatarart.io",
     "description": "Marketplace for minting and trading curated physical artworks on Flow.",
@@ -1379,7 +1457,7 @@
       "public_path": "AADigital.CollectionPublicPath"
     },
     "name": "AvatarArt",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/aadigital/logo.jpeg"
+    "marketplace": null
   },
   {
     "contract_name": "DooverseItems",
@@ -1387,6 +1465,7 @@
       "mainnet": "0x66ad29c7d7465437",
       "testnet": "0x5ab407dfb3bf35e8"
     },
+    "banner": null,
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/dooverseitems/logo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://dooverse.io/",
