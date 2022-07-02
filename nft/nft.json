@@ -1477,5 +1477,176 @@
     },
     "name": "DooverseItems",
     "marketplace": "https://dooverse.io/store/market"
+  },
+  {
+    "contract_name": "TrartContractNFT",
+    "address": {
+      "mainnet": "0x6f01a4b0046c1f87",
+      "testnet": "0x4e024b8545e52d07"
+    },
+    "banner":null ,
+    "logo": null,
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "official_website": null,
+    "description": null,
+    "path": {
+      "public_collection_name": "TrartContractNFT.ICardCollectionPublic",
+      "storage_path": "/storage/TrartContractNFTCollection",
+      "public_path": "/public/TrartContractNFTCollection"
+    },
+    "name": "TrartContractNFT",
+    "marketplace": null
+  },
+  {
+    "contract_name": "SturdyItems",
+    "address": {
+      "mainnet": "0x427ceada271aa0b1",
+      "testnet": "0xfafb022e4e45634b"
+    },
+    "banner":"https://raw.githubusercontent.com/Outblock/Assets/main/nft/SturdyItems/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/SturdyItems/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "official_website": "https://sturdy.exchange/",
+    "description": "Sturdy Exchange is a platform that provides a curated NFT experience for collectors. We work directly with creators to bring exclusive collections to their audience — through a familiar and easy-to-navigate platform — making it accessible for everyone to collect NFTs.",
+    "path": {
+      "public_collection_name": "SturdyItems.SturdyItemsCollectionPublic",
+      "storage_path": "SturdyItems.CollectionStoragePath",
+      "public_path": "SturdyItems.CollectionPublicPath"
+    },
+    "name": "SturdyItems",
+    "marketplace": "https://sturdy.exchange/marketplace"
+  },
+  {
+    "contract_name": "TicalUniverse",
+    "address": {
+      "mainnet": "0xfef48806337aabf1",
+      "testnet": null
+    },
+    "banner":"https://raw.githubusercontent.com/Outblock/Assets/main/nft/TicalUniverse/banner.jpeg" ,
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/TicalUniverse/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "official_website": "https://www.ticaluniverse.com/",
+    "description": "Method Man's comic universe of exclusive NFTs",
+    "path": {
+      "public_collection_name": "TicalUniverse.TicalUniverseCollectionPublic",
+      "storage_path": "TicalUniverse.CollectionStoragePath",
+      "public_path": "TicalUniverse.CollectionPublicPath"
+    },
+    "name": "TicalUniverse",
+    "marketplace": "https://viv3.com/4616b77864643994540beea924e6232d45d5ecf1"
+  },
+  {
+    "contract_name": "PartyMansionDrinksContract",
+    "address": {
+      "mainnet": "0x34f2bf4a80bb0f69",
+      "testnet": null
+    },
+    "banner":"https://raw.githubusercontent.com/Outblock/Assets/main/nft/PartyMansionDrinksContract/banner.jpeg" ,
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/PartyMansionDrinksContract/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "official_website": "https://partymansion.io",
+    "description": "Welcome to Party Mansion, inside you will find the Party is always rocking! This community centric NFT project is a generative art collection of Party Goobz on the Flow Blockchain!",
+    "path": {
+      "public_collection_name": "PartyMansionDrinksContract.DrinkCollectionPublic",
+      "storage_path": "PartyMansionDrinksContract.CollectionStoragePath",
+      "public_path": "PartyMansionDrinksContract.CollectionPublicPath"
+    },
+    "name": "PartyMansionDrinksContract",
+    "marketplace": "https://partymansion.io/marketplace"
+  },
+  {
+    "contract_name": "CryptoPiggo ",
+    "address": {
+      "mainnet": "0xd3df824bf81910a4",
+      "testnet": null
+    },
+    "banner":"https://raw.githubusercontent.com/Outblock/Assets/main/nft/CryptoPiggo/banner.jpeg" ,
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/CryptoPiggo/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "official_website": "https://rareworx.com/piggo/details/",
+    "description": "CryptoPiggos is a quirky and fun collection of 10,000 unique crypto-collectible NFTs.",
+    "path": {
+      "public_collection_name": "CryptoPiggo.CryptoPiggoCollectionPublic",
+      "storage_path": "CryptoPiggo.CollectionStoragePath",
+      "public_path": "CryptoPiggo.CollectionPublicPath"
+    },
+    "name": "CryptoPiggo ",
+    "marketplace": "https://www.rareworx.com/piggos"
+  },
+  {
+    "contract_name": "Evolution",
+    "address": {
+      "mainnet": "0xf4264ac8f3256818",
+      "testnet": null
+    },
+    "banner":null ,
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Evolution/logo.png",
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "official_website": "https://www.evolution-collect.com/",
+    "description": "Limited edition NFT series from Ben Mauro that was created over the course of 10 years",
+    "path": {
+      "public_collection_name": "Evolution.EvolutionCollectionPublic",
+      "storage_path": "/storage/f4264ac8f3256818_Evolution_Collection",
+      "public_path": "/public/f4264ac8f3256818_Evolution_Collection"
+    },
+    "name": "Evolution",
+    "marketplace": "https://viv3.com/highlights/ben-mauro-evolution"
+  },
+  {
+    "contract_name": "Moments",
+    "address": {
+      "mainnet": "0xd4ad4740ee426334",
+      "testnet": null
+    },
+    "banner":"https://raw.githubusercontent.com/Outblock/Assets/main/nft/Moments/banner.jpeg" ,
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Moments/logo.png",
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "official_website": "https://www.jambb.com/",
+    "description": "A digital collectibles startup on a mission to serve collectors, fans, and entertainers by unlocking the value of novel content",
+    "path": {
+      "public_collection_name": "Moments.CollectionPublic",
+      "storage_path": "Moments.CollectionStoragePath",
+      "public_path": "Moments.CollectionPublicPath"
+    },
+    "name": "Jambb Moments",
+    "marketplace": null
+  },
+  {
+    "contract_name": "MotoGPCard",
+    "address": {
+      "mainnet": "0xa49cc0ee46c54bfb",
+      "testnet": null
+    },
+    "banner":"https://raw.githubusercontent.com/Outblock/Assets/main/nft/MotoGPCard/banner.jpeg" ,
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/MotoGPCard/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "official_website": "https://motogp-ignition.com/",
+    "description": "MotoGP™ Ignition leverages NFTs to empower players. Take a team manager role & go head-to-head with others in this management game title!",
+    "path": {
+      "public_collection_name": "MotoGPCard.ICardCollectionPublic",
+      "storage_path": "/storage/motogpCardCollection",
+      "public_path": "/public/motogpCardCollection"
+    },
+    "name": "MotoGPCard",
+    "marketplace": "https://motogp-ignition.com/market/landing"
+  },
+  {
+    "contract_name": "UFC_NFT",
+    "address": {
+      "mainnet": "0x329feb3ab062d289",
+      "testnet": null
+    },
+    "banner":"https://raw.githubusercontent.com/Outblock/Assets/main/nft/UFC_NFT/banner.jpeg" ,
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/UFC_NFT/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "official_website": "https://www.ufcstrike.com",
+    "description": "Buy, sell, trade, collect officially licensed UFC NFTs",
+    "path": {
+      "public_collection_name": "UFC_NFT.UFC_NFTCollectionPublic",
+      "storage_path": "UFC_NFT.CollectionStoragePath",
+      "public_path": "UFC_NFT.CollectionPublicPath"
+    },
+    "name": "UFC strike",
+    "marketplace": "https://ufcstrike.com/p2pmarketplace"
   }
 ]
