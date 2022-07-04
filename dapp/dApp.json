@@ -24,19 +24,19 @@
         "category": "Domain"
     },
     {
-        "name": "Find",
-        "url": "https://find.xyz/",
-        "testnet_url": "https://test.find.xyz/",
-        "description": "A place to find people and things on the Flow Blockchain",
-        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/find/logo.png",
-        "category": "Domain"
-    },
-    {
         "name": "Matrix Market",
         "url": "https://matrixmarket.xyz/",
         "testnet_url": null,
         "description": "The first all-in-one marketplace for creators, collectors, and traders on Flow",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/matrixmarket/logo.png",
         "category": "Marketplace"
+    },
+    {
+        "name": "Find",
+        "url": "https://find.xyz/",
+        "testnet_url": "https://test.find.xyz/",
+        "description": "A place to find people and things on the Flow Blockchain",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/find/logo.png",
+        "category": "Domain"
     },
 ]
