@@ -1,5 +1,21 @@
 [
     {
+        "name": "FLOAT",
+        "url": "https://floats.city/",
+        "testnet_url": "https://testnet.floats.city/",
+        "description": "A Flow-enabled proof of attendance platform built by Emerald DAO",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/float/logo.png",
+        "category": "POAP"
+    },
+    {
+        "name": "Increment",
+        "url": "https://swap.increment.fi/swap",
+        "testnet_url": "https://demo.increment.fi/swap",
+        "description": "Decentralized money market and one-stop DeFi suites to boost yield & liquidity opportunities on the Flow blockchain",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/increment/logo.jpeg",
+        "category": "Dex"
+    },
+    {
         "name": "Flowns",
         "url": "https://flowns.org",
         "testnet_url": "https://testnet.flowns.org",
@@ -16,19 +32,11 @@
         "category": "Domain"
     },
     {
-        "name": "FLOAT",
-        "url": "https://floats.city/",
-        "testnet_url": "https://testnet.floats.city/",
-        "description": "A Flow-enabled proof of attendance platform built by Emerald DAO",
-        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/float/logo.png",
-        "category": "Domain"
+        "name": "Matrix Market",
+        "url": "https://matrixmarket.xyz/",
+        "testnet_url": "null",
+        "description": "The first all-in-one marketplace for creators, collectors, and traders on Flow",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/matrixmarket/logo.png",
+        "category": "Marketplace"
     },
-    {
-        "name": "Increment",
-        "url": "https://swap.increment.fi/swap",
-        "testnet_url": "https://demo.increment.fi/swap",
-        "description": "Decentralized money market and one-stop DeFi suites to boost yield & liquidity opportunities on the Flow blockchain",
-        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/increment/logo.jpeg",
-        "category": "Domain"
-    }
 ]
