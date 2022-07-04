@@ -34,7 +34,7 @@
     {
         "name": "Matrix Market",
         "url": "https://matrixmarket.xyz/",
-        "testnet_url": "null",
+        "testnet_url": null,
         "description": "The first all-in-one marketplace for creators, collectors, and traders on Flow",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/matrixmarket/logo.png",
         "category": "Marketplace"
