@@ -251,7 +251,7 @@
     },
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfcbanner.png",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/tfcitems/tfclogo.jpg",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://www.thefootballclub.com",
     "description": "Blockchain Based Football Fantasy Manager",
     "path": {
@@ -534,7 +534,7 @@
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/sportsicon/sporticonbanner.png",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/sportsicon/sporticonlogo.png",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://sportsicon.com/",
     "description": "Partners with elite athletes to release NFT videos, art and moments to their fans. May come to Flow in the future",
     "path": {
@@ -724,7 +724,7 @@
     },
     "banner": null,
     "logo": null,
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://www.xtingles.com/",
     "description": null,
     "path": {
@@ -946,7 +946,7 @@
     "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/costacos/banner.jpg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/costacos/logo.jpg",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "http://costacoscollection.com/",
     "description": "From legendary sports poster artist John Costacos comes the next generation of iconic sports collectibles. ",
     "path": {
@@ -962,7 +962,7 @@
     "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/canesvault/banner.jpg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/canesvault/logo.jpg",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://www.canesvault.com/",
     "description": "The official NFT marketplace for the Miami Hurricanes",
     "path": {
@@ -978,7 +978,7 @@
     "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": null,
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/americanairline/logo.jpeg",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://viewfromthewing.com/",
     "description": "Gift American Airlines Sent To Its Super Secret ‘Concierge Key’ Members",
     "path": {
@@ -994,7 +994,7 @@
     "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thenextcartel/banner.jpg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/thenextcartel/logo.jpg",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://thenextcartel.com/",
     "description": "We curate and collaborate with brands, empowering them to bridge into the blockchain universe, creating unique NFTs and new experiences for fashion collectors",
     "path": {
@@ -1010,7 +1010,7 @@
     "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/atheletesunlimited/banner.jpg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/atheletesunlimited/logo.png",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://viv3.com/athletesunlimited",
     "description": "An all-new model for pro athletes and sports releasing NFTs on Flow",
     "path": {
@@ -1026,7 +1026,7 @@
     "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": null,
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/art/logo.png",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://misa.art/",
     "description": "An online marketplace that brings emerging and established artists together and offers a range of traditional and digital art",
     "path": {
@@ -1042,7 +1042,7 @@
     "address": { "mainnet": "0x329feb3ab062d289", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/dgd/banner.jpg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/dgd/logo.png",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://www.theplayerslounge.io/",
     "description": "A limited NFT collection of unique Digitally Generated Dogs",
     "path": {
@@ -1302,7 +1302,7 @@
     },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/necryptolis/banner.jpeg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/necryptolis/logo.jpeg",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": "https://www.necryptolis.com",
     "description": "The internet's own graveyard.",
     "path": {
@@ -1321,7 +1321,7 @@
     },
     "banner": "https://github.com/Outblock/Assets/blob/main/nft/breakingt/banner.jpeg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/breakingt/logo.jpeg",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://breakingt.com/",
     "description": "BreakingT is officially licensed by professional athletes and teams in the MLB, NBA, WNBA, NFL, NHL, and MLS.",
     "path": {
@@ -1375,7 +1375,7 @@
     "address": { "mainnet": "0x1e075b24abe6eca6", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/nftcontract/banner.jpeg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/nftcontract/logo.jpeg",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://nowwhere.io/",
     "description": "A two-sided blockchain-backed intelligent NFT marketplace",
     "path": {
@@ -1553,7 +1553,7 @@
     "address": { "mainnet": "0xd3df824bf81910a4", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/CryptoPiggo/banner.jpeg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/CryptoPiggo/logo.jpeg",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
     "official_website": "https://rareworx.com/piggo/details/",
     "description": "CryptoPiggos is a quirky and fun collection of 10,000 unique crypto-collectible NFTs.",
     "path": {
