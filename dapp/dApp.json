@@ -54,5 +54,13 @@
         "description": "P2P NFT Loans and Rentals on the Flow Blockchain.",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flowty/logo.jpeg",
         "category": "Util"
+    },
+    {
+        "name": "Hype Day",
+        "url": "https://hype.day/public-projects",
+        "testnet_url": null,
+        "description": "Get high-quality registrations for your web3 project's mints, giveaways, and raffles. All for free.",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/hypeDay/logo.jpeg",
+        "category": "Util"
     }
 ]
