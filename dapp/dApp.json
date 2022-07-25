@@ -32,6 +32,14 @@
         "category": "Marketplace"
     },
     {
+        "name": "Flowscan",
+        "url": "https://flowscan.org/",
+        "testnet_url": "https://testnet.flowscan.org/",
+        "description": "Search the Flow blockchain for transactions, accounts, and other activities taking place on Flow.",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flowscan/logo.png",
+        "category": "Util"
+    },
+    {
         "name": "Find",
         "url": "https://find.xyz/",
         "testnet_url": "https://test.find.xyz/",
@@ -46,6 +54,14 @@
         "description": "Mynft is a public creators’ platform to provide creators and their followers with a brand-new way of growth and capitalization.",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/myNFT/logo.png",
         "category": "Marketplace"
+    },
+    {
+        "name": "SoulMade",
+        "url": "https://www.soulmade.art/",
+        "testnet_url": null,
+        "description": "A new way to make your own NFT art.",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/soulMade/logo.png",
+        "category": "NFT"
     },
     {
         "name": "Flowty",
