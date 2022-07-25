@@ -1553,7 +1553,7 @@
     "address": { "mainnet": "0xd3df824bf81910a4", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/CryptoPiggo/banner.jpeg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/CryptoPiggo/logo.jpeg",
-    "secure_cadence_compatible": { "mainnet": false, "testnet": false },
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
     "official_website": "https://rareworx.com/piggo/details/",
     "description": "CryptoPiggos is a quirky and fun collection of 10,000 unique crypto-collectible NFTs.",
     "path": {
