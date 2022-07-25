@@ -38,5 +38,21 @@
         "description": "A place to find people and things on the Flow Blockchain",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/find/logo.png",
         "category": "Domain"
+    },
+    {
+        "name": "MyNFT",
+        "url": "https://mynft.io/",
+        "testnet_url": null,
+        "description": "Mynft is a public creators’ platform to provide creators and their followers with a brand-new way of growth and capitalization.",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/myNFT/logo.png",
+        "category": "Marketplace"
+    },
+    {
+        "name": "Flowty",
+        "url": "https://flowty.io/",
+        "testnet_url": null,
+        "description": "P2P NFT Loans and Rentals on the Flow Blockchain.",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flowty/logo.jpeg",
+        "category": "Util"
     }
 ]
