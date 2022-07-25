@@ -1549,7 +1549,7 @@
     "marketplace": "https://partymansion.io/marketplace"
   },
   {
-    "contract_name": "CryptoPiggo ",
+    "contract_name": "CryptoPiggo",
     "address": { "mainnet": "0xd3df824bf81910a4", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/CryptoPiggo/banner.jpeg",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/CryptoPiggo/logo.jpeg",
@@ -1561,7 +1561,7 @@
       "storage_path": "CryptoPiggo.CollectionStoragePath",
       "public_path": "CryptoPiggo.CollectionPublicPath"
     },
-    "name": "CryptoPiggo ",
+    "name": "CryptoPiggo",
     "marketplace": "https://www.rareworx.com/piggos"
   },
   {
