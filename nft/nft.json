@@ -38,6 +38,28 @@
     "marketplace": null
   },
   {
+    "contract_name": "MonoCatMysteryBox",
+    "address": {
+        "mainnet": "0xa01dd6e82b7352be",
+        "testnet": "0x8529aaf64c168952"
+    },
+    "banner": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/banner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/logo.png",
+    "secure_cadence_compatible": {
+        "mainnet": true,
+        "testnet": true
+    },
+    "official_website": "https://mono.fun",
+    "description": "N(W)A(H)N(A)I(T)!!? A cat birth in Monoverse? Just come and grab your fellow.",
+    "path": {
+        "public_collection_name": "MonoCatMysteryBox.MonoCatMysteryBoxCollectionPublic",
+        "storage_path": "/storage/MonoCatMysteryBoxCollection",
+        "public_path": "/public/MonoCatMysteryBoxCollection"
+    },
+    "name": "MonoCatMysteryBox",
+    "marketplace": "https://matrixmarket.xyz/zh/collection/mainnet_flow-A.8529aaf64c168952.MonoCatMysteryBox"
+  },
+  {
     "contract_name": "NyatheesOVO",
     "address": {
       "mainnet": "0x75e0b6de94eb05d0",
