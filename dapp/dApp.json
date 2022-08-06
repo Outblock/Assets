@@ -78,5 +78,13 @@
         "description": "Get high-quality registrations for your web3 project's mints, giveaways, and raffles. All for free.",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/hypeDay/logo.png",
         "category": "Util"
+    },
+    {
+        "name": "Mono Cat",
+        "url": "https://mono.fun",
+        "testnet_url": null,
+        "description": "N(W)A(H)N(A)I(T)!!? A cat birth in Monoverse? Just come and grab your fellow.",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/logo.png",
+        "category": "Game"
     }
 ]
