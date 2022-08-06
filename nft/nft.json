@@ -38,7 +38,26 @@
     "marketplace": null
   },
   {
-    "contract_name": "MonoCatMysteryBox",
+    "contract_name": "Domains",
+    "address": {
+      "mainnet": "0x233eb012d34b0070",
+      "testnet": "0xb05b2abb42335e88"
+    },
+    "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainsbanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainlogo.png",
+    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
+    "official_website": "https://www.flowns.org/?utm_source=Flowverse&utm_medium=Website&utm_campaign=Dapp",
+    "description": "Flow-based Domain Name Service where every domain is an NFT",
+    "path": {
+      "public_collection_name": "Domains.CollectionPublic",
+      "storage_path": "Domains.CollectionStoragePath",
+      "public_path": "Domains.CollectionPublicPath"
+    },
+    "name": "Flowns",
+    "marketplace": null
+  },
+  {
+    "contract_name": "Mono Cat Mystery Box",
     "address": {
         "mainnet": "0xa01dd6e82b7352be",
         "testnet": "0x8529aaf64c168952"
@@ -245,25 +264,6 @@
     },
     "name": "Fantastec",
     "marketplace": "https://www.swap-fantastec.com/shop"
-  },
-  {
-    "contract_name": "Domains",
-    "address": {
-      "mainnet": "0x233eb012d34b0070",
-      "testnet": "0xb05b2abb42335e88"
-    },
-    "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainsbanner.png",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/domains/domainlogo.png",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
-    "official_website": "https://www.flowns.org/?utm_source=Flowverse&utm_medium=Website&utm_campaign=Dapp",
-    "description": "Flow-based Domain Name Service where every domain is an NFT",
-    "path": {
-      "public_collection_name": "Domains.CollectionPublic",
-      "storage_path": "Domains.CollectionStoragePath",
-      "public_path": "Domains.CollectionPublicPath"
-    },
-    "name": "Domains",
-    "marketplace": null
   },
   {
     "contract_name": "TFCItems",
