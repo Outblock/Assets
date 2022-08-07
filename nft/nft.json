@@ -100,28 +100,6 @@
     "name": "Flovatar Flobit",
     "marketplace": "https://flovatar.com/marketplace"
   },
-    {
-    "contract_name": "MonoCat",
-    "address": {
-      "mainnet": "0xa01dd6e82b7352be",
-      "testnet": "0x8529aaf64c168952"
-    },
-    "banner": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/banner.png",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/logo.png",
-    "secure_cadence_compatible": {
-      "mainnet": true,
-      "testnet": true
-    },
-    "official_website": "https://mono.fun",
-    "description": "Each NFT represent a MonoCats from the Meow Planets comes with unique design and utility.",
-    "path": {
-      "public_collection_name": "MonoCat.MonoCatCollectionPublic",
-      "storage_path": "/storage/MonoCatCollection",
-      "public_path": "/public/MonoCatCollection"
-    },
-    "name": "Mono Cats",
-    "marketplace": "https://matrixmarket.xyz/zh/collection/mainnet_flow-A.8529aaf64c168952.MonoCat"
-  },
   {
     "contract_name": "MonoCat",
     "address": {
