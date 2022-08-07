@@ -57,13 +57,57 @@
     "marketplace": null
   },
   {
-    "contract_name": "Mono Cat Mystery Box",
+    "contract_name": "Flovatar",
+    "address": {
+      "mainnet": "0x921ea449dffec68a",
+      "testnet": "0x9392a4a7c3f49a0b"
+    },
+    "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/flovatar/banner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/flovatar/logo.png",
+    "secure_cadence_compatible": {
+      "mainnet": true,
+      "testnet": true
+    },
+    "official_website": "https://flovatar.com/",
+    "description": "Flovatar is a next generation PFP crypto project where people can become creator and choose any combination they like.",
+    "path": {
+      "public_collection_name": "Flovatar.CollectionPublic",
+      "storage_path": "Flovatar.CollectionStoragePath",
+      "public_path": "Flovatar.CollectionPublicPath"
+    },
+    "name": "Flovatar",
+    "marketplace": "https://flovatar.com/marketplace"
+  },
+  {
+    "contract_name": "FlovatarComponent",
+    "address": {
+      "mainnet": "0x921ea449dffec68a",
+      "testnet": "0x9392a4a7c3f49a0b"
+    },
+    "banner": "https://raw.githubusercontent.com/Outblock/assets/main/nft/flovatar/banner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/nft/flovatar/logo.png",
+    "secure_cadence_compatible": {
+      "mainnet": true,
+      "testnet": true
+    },
+    "official_website": "https://flovatar.com/",
+    "description": "Flovatar is a next generation PFP crypto project where people can become creator and choose any combination they like.",
+    "path": {
+      "public_collection_name": "FlovatarComponent.CollectionPublic",
+      "storage_path": "FlovatarComponent.CollectionStoragePath",
+      "public_path": "FlovatarComponent.CollectionPublicPath"
+    },
+    "name": "Flovatar Flobit",
+    "marketplace": "https://flovatar.com/marketplace"
+  },
+  {
+    "contract_name": "MonoCatMysteryBox",
     "address": {
         "mainnet": "0xa01dd6e82b7352be",
         "testnet": "0x8529aaf64c168952"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/banner.png",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/logo.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/logo-box.png",
     "secure_cadence_compatible": {
         "mainnet": true,
         "testnet": true
@@ -75,8 +119,30 @@
         "storage_path": "/storage/MonoCatMysteryBoxCollection",
         "public_path": "/public/MonoCatMysteryBoxCollection"
     },
-    "name": "MonoCatMysteryBox",
+    "name": "Mono Cat Mystery Box",
     "marketplace": "https://matrixmarket.xyz/zh/collection/mainnet_flow-A.8529aaf64c168952.MonoCatMysteryBox"
+  },
+  {
+    "contract_name": "MonoCat",
+    "address": {
+      "mainnet": "0xa01dd6e82b7352be",
+      "testnet": "0x8529aaf64c168952"
+    },
+    "banner": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/banner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/logo.png",
+    "secure_cadence_compatible": {
+      "mainnet": true,
+      "testnet": true
+    },
+    "official_website": "https://mono.fun",
+    "description": "Each NFT represent a MonoCats from the Meow Planets comes with unique design and utility.",
+    "path": {
+      "public_collection_name": "MonoCat.MonoCatCollectionPublic",
+      "storage_path": "/storage/MonoCatCollection",
+      "public_path": "/public/MonoCatCollection"
+    },
+    "name": "Mono Cats",
+    "marketplace": "https://matrixmarket.xyz/zh/collection/mainnet_flow-A.8529aaf64c168952.MonoCat"
   },
   {
     "contract_name": "NyatheesOVO",
