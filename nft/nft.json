@@ -103,8 +103,8 @@
   {
     "contract_name": "MonoCatMysteryBox",
     "address": {
-        "mainnet": "0xa01dd6e82b7352be",
-        "testnet": "0x8529aaf64c168952"
+        "mainnet": "0x8529aaf64c168952",
+        "testnet": "0xa01dd6e82b7352be"
     },
     "banner": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/banner.png",
     "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/logo-box.png",
