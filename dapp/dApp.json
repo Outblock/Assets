@@ -5,7 +5,7 @@
         "testnet_url": "https://testnet.floats.city/",
         "description": "A Flow-enabled proof of attendance platform built by Emerald DAO",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/float/logo.png",
-        "category": "POAP"
+        "category": "NFT"
     },
     {
         "name": "Increment",
@@ -13,7 +13,7 @@
         "testnet_url": "https://demo.increment.fi/swap",
         "description": "Decentralized money market and one-stop DeFi suites to boost yield & liquidity opportunities on the Flow blockchain",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/increment/logo.jpeg",
-        "category": "Dex"
+        "category": "Defi"
     },
     {
         "name": "Flowns",
@@ -86,5 +86,13 @@
         "description": "N(W)A(H)N(A)I(T)!!? A cat birth in Monoverse? Just come and grab your fellow.",
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/logo.png",
         "category": "Game"
+    },
+    {
+        "name": "Relation",
+        "url": "https://relationlabs.ai/",
+        "testnet_url": null,
+        "description": "Relation Labs is building a multi-chain decentralized Web3 social graph.",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/relationlabs/logo.png",
+        "category": "Social"
     }
 ]

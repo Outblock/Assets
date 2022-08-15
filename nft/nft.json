@@ -960,7 +960,7 @@
       "testnet": "0x2dda9145001182e0"
     },
     "banner": null,
-    "logo": null,
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/zeedz/logo.png",
     "secure_cadence_compatible": { "mainnet": true, "testnet": true },
     "official_website": null,
     "description": null,
