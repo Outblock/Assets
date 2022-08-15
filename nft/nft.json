@@ -1715,5 +1715,151 @@
     },
     "name": "UFC strike",
     "marketplace": "https://ufcstrike.com/p2pmarketplace"
+  },
+   {
+    "contract_name": "MaxarNFT",
+    "address": { "mainnet": "0xa4e9020ad21eb30b", "testnet": "0x5dfbd0d5aba6acf7" },
+    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/MaxarNFT/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/MaxarNFT/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
+    "official_website": "https://nft.maxar.com/",
+    "description": "Maxar combines Space Infrastructure and Earth Intelligence capabilities to bring innovative solutions to commercial and government missions",
+    "path": {
+      "public_collection_name": "MaxarNFT.MaxarNFTCollectionPublic",
+      "storage_path": "MaxarNFT.CollectionStoragePath",
+      "public_path": "MaxarNFT.CollectionPublicPath"
+    },
+    "name": "Maxar",
+    "marketplace": null
+  },
+  {
+    "contract_name": "Flovatar",
+    "address": { "mainnet": "0x921ea449dffec68a", "testnet": "0x9392a4a7c3f49a0b" },
+    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Flovatar/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Flovatar/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
+    "official_website": "https://www.flovatar.com",
+    "description": "An NFT world where users can create their own characters in any creative and fun way they like",
+    "path": {
+      "public_collection_name": "Flovatar.CollectionPublic",
+      "storage_path": "Flovatar.CollectionStoragePath",
+      "public_path": "Flovatar.CollectionPublicPath"
+    },
+    "name": "Flovatar",
+    "marketplace": "https://flovatar.com/marketplace"
+  },
+  {
+    "contract_name": "FlovatarComponent",
+    "address": { "mainnet": "0x921ea449dffec68a", "testnet": "0x9392a4a7c3f49a0b" },
+    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Flovatar/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Flovatar/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
+    "official_website": "https://www.flovatar.com",
+    "description": "An NFT world where users can create their own characters in any creative and fun way they like",
+    "path": {
+      "public_collection_name": "FlovatarComponent.CollectionPublic",
+      "storage_path": "FlovatarComponent.CollectionStoragePath",
+      "public_path": "FlovatarComponent.CollectionPublicPath"
+    },
+    "name": "Flovatar Flobit",
+    "marketplace": "https://flovatar.com/marketplace"
+  },
+
+  {
+    "contract_name": "ByteNextMedalNFT",
+    "address": { "mainnet": "0x3b16cb9f5c036412", "testnet": "0x734061e710725233" },
+    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/ByteNextMedalNFT/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/ByteNextMedalNFT/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
+    "official_website": "https://app.bytenext.io",
+    "description": "Unblock the true power of #Metaverse, #NFTs.",
+    "path": {
+      "public_collection_name": "ByteNextMedalNFT.CollectionPublicPath",
+      "storage_path": "ByteNextMedalNFT.CollectionStoragePath",
+      "public_path": "ByteNextMedalNFT.CollectionPublic"
+    },
+    "name": "ByteNext",
+    "marketplace": null
+  },
+  {
+    "contract_name": "RCRDSHPNFT",
+    "address": { "mainnet": "0x6c3ff40b90b928ab", "testnet": null },
+    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rcrdshp/rcrdshpbanner.png",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rcrdshp/rcrdshologo.jpg",
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "official_website": "https://app.rcrdshp.com/",
+    "description": "Community platform for securely trading music and related digital collectibles",
+    "path": {
+      "public_collection_name": "RCRDSHPNFT.RCRDSHPNFTCollectionPublic",
+      "storage_path": "RCRDSHPNFT.collectionStoragePath",
+      "public_path": "RCRDSHPNFT.collectionPublicPath"
+    },
+    "name": "RCRDSHP",
+    "marketplace": "https://app.rcrdshp.com/market"
+  },
+  {
+    "contract_name": "Seussibles",
+    "address": { "mainnet": "0x321d8fcde05f6e8c", "testnet": null },
+    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Seussibles/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Seussibles/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "official_website": "https://seussibles.com/",
+    "description": "Officially licensed Dr Seuss collectibles including popular places and characters such as Cat in the Hat, Grinch, Lorax and More",
+    "path": {
+      "public_collection_name": "",
+      "storage_path": "Seussibles.CollectionStoragePath",
+      "public_path": "Seussibles.PublicCollectionPath"
+    },
+    "name": "Seussibles ",
+    "marketplace": null
+  },
+  {
+    "contract_name": "MetaPanda",
+    "address": { "mainnet": "0xf2af175e411dfff8", "testnet": null },
+    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/MetaPanda/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/MetaPanda/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "official_website": "https://metapandaclub.com/",
+    "description": "Meta Panda Club's (MPC) vision is to extend Metta World Peace's vision of building the world's largest decentralized basketball community.",
+    "path": {
+      "public_collection_name": "",
+      "storage_path": "MetaPanda.CollectionStoragePath",
+      "public_path": "MetaPanda.CollectionPublicPath"
+    },
+    "name": "MetaPanda",
+    "marketplace": "https://web3wear.com/main/metapandaclub"
+  },
+  {
+    "contract_name": "Flunks",
+    "address": { "mainnet": "0x807c3d470888cc48", "testnet": null },
+    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Flunks/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Flunks/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "official_website": "https://flunks.io/",
+    "description": "A unique collection of 9999 misfits, where being different makes you special",
+    "path": {
+      "public_collection_name": "Flunks.FlunksCollectionPublic",
+      "storage_path": "Flunks.CollectionStoragePath",
+      "public_path": "Flunks.CollectionPublicPath"
+    },
+    "name": "Flunks",
+    "marketplace": null
+  },
+  {
+    "contract_name": "LibraryPass",
+    "address": { "mainnet": "0x52cbea4e6f616b8e", "testnet": null },
+    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/LibraryPass/banner.jpeg",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/LibraryPass/logo.jpeg",
+    "secure_cadence_compatible": { "mainnet": true, "testnet": false },
+    "official_website": "https://publishednft.io/",
+    "description": "Published NFT is a #web3 @flow_blockchain NFT eBook publishing platform, where authors can publish eBooks, Comics, Magazines etc.",
+    "path": {
+      "public_collection_name": "LibraryPass.CollectionPublic",
+      "storage_path": "LibraryPass.CollectionPath",
+      "public_path": "LibraryPass.CollectionPublicPath"
+    },
+    "name": "LibraryPass",
+    "marketplace": "https://publishednft.io/marketplace"
   }
+  
 ]
