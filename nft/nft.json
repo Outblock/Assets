@@ -1797,39 +1797,6 @@
     "marketplace": null
   },
   {
-    "contract_name": "Flovatar",
-    "address": { "mainnet": "0x921ea449dffec68a", "testnet": "0x9392a4a7c3f49a0b" },
-    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Flovatar/banner.jpeg",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Flovatar/logo.jpeg",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
-    "official_website": "https://www.flovatar.com",
-    "description": "An NFT world where users can create their own characters in any creative and fun way they like",
-    "path": {
-      "public_collection_name": "Flovatar.CollectionPublic",
-      "storage_path": "Flovatar.CollectionStoragePath",
-      "public_path": "Flovatar.CollectionPublicPath"
-    },
-    "name": "Flovatar",
-    "marketplace": "https://flovatar.com/marketplace"
-  },
-  {
-    "contract_name": "FlovatarComponent",
-    "address": { "mainnet": "0x921ea449dffec68a", "testnet": "0x9392a4a7c3f49a0b" },
-    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Flovatar/banner.jpeg",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/Flovatar/logo.jpeg",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
-    "official_website": "https://www.flovatar.com",
-    "description": "An NFT world where users can create their own characters in any creative and fun way they like",
-    "path": {
-      "public_collection_name": "FlovatarComponent.CollectionPublic",
-      "storage_path": "FlovatarComponent.CollectionStoragePath",
-      "public_path": "FlovatarComponent.CollectionPublicPath"
-    },
-    "name": "Flovatar Flobit",
-    "marketplace": "https://flovatar.com/marketplace"
-  },
-
-  {
     "contract_name": "ByteNextMedalNFT",
     "address": { "mainnet": "0x3b16cb9f5c036412", "testnet": "0x734061e710725233" },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/ByteNextMedalNFT/banner.jpeg",
