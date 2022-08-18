@@ -520,25 +520,6 @@
     "marketplace": "https://www.blockletegames.com/playtoearn"
   },
   {
-    "contract_name": "ChainmonstersRewards",
-    "address": {
-      "mainnet": "0x93615d25d14fa337",
-      "testnet": "0x75783e3c937304a8"
-    },
-    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/chainmonstersrewards/chainmonsterbanner.png",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/chainmonstersrewards/chainmonsterlogo.png",
-    "secure_cadence_compatible": { "mainnet": true, "testnet": true },
-    "official_website": "https://chainmonsters.com/",
-    "description": "Cross-platform massively multiplayer RPG where you catch, battle, trade and compete with digital monsters",
-    "path": {
-      "public_collection_name": "ChainmonstersRewards.ChainmonstersRewardCollectionPublic",
-      "storage_path": "/storage/ChainmonstersRewardCollection",
-      "public_path": "/public/ChainmonstersRewardCollection"
-    },
-    "name": "Chainmonsters",
-    "marketplace": "https://chainmonsters.com/marketplace"
-  },
-  {
     "contract_name": "Crave",
     "address": { "mainnet": "0x6d008a788fc27265", "testnet": null },
     "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/crave/cravebanner.png",
