@@ -2198,5 +2198,72 @@
     },
     "name": "LibraryPass",
     "marketplace": "https://publishednft.io/marketplace"
+  },
+  {
+    "contract_name": "SoulMadeMain",
+    "address": {
+        "mainnet": "0x9a57dfe5c8ce609c",
+        "testnet": null
+    },
+    "banner": "https://i.imgur.com/yBw3ktk.png",
+    "logo": "https://i.imgur.com/XgqDY3s.jpg",
+    "secure_cadence_compatible": {
+        "mainnet": true,
+        "testnet": false
+    },
+    "official_website": "https://www.soulmade.art",
+    "description": "SoulMade: A platform specificially built for composable NFTs",
+    "path": {
+        "public_collection_name": "SoulMadeMain.CollectionPublicPath",
+        "storage_path": "SoulMadeMain.CollectionStoragePath",
+        "public_path": "SoulMadeMain.CollectionPrivatePath"
+    },
+    "name": "SoulMadeMain",
+    "marketplace": "https://www.soulmade.art/marketplace"
+  },
+  {
+    "contract_name": "SoulMadeComponent",
+    "address": {
+        "mainnet": "0x9a57dfe5c8ce609c",
+        "testnet": null
+    },
+    "banner": "https://i.imgur.com/yBw3ktk.png",
+    "logo": "https://i.imgur.com/XgqDY3s.jpg",
+    "secure_cadence_compatible": {
+        "mainnet": true,
+        "testnet": false
+    },
+    "official_website": "https://www.soulmade.art",
+    "description": "SoulMade: A platform specificially built for composable NFTs",
+    "path": {
+        "public_collection_name": "SoulMadeComponent.CollectionPublicPath",
+        "storage_path": "SoulMadeComponent.CollectionStoragePath",
+        "public_path": "SoulMadeComponent.CollectionPrivatePath"
+    },
+    "name": "SoulMadeComponent",
+    "marketplace": "https://www.soulmade.art/marketplace"
+
+  },
+  {
+    "contract_name": "SoulMadePack",
+    "address": {
+        "mainnet": "0x9a57dfe5c8ce609c",
+        "testnet": null
+    },
+    "banner": "https://i.imgur.com/yBw3ktk.png",
+    "logo": "https://i.imgur.com/XgqDY3s.jpg",
+    "secure_cadence_compatible": {
+        "mainnet": true,
+        "testnet": false
+    },
+    "official_website": "https://www.soulmade.art",
+    "description": "SoulMade: A platform specificially built for composable NFTs",
+    "path": {
+        "public_collection_name": "SoulMadePack.CollectionPublicPath",
+        "storage_path": "SoulMadePack.CollectionStoragePath",
+        "public_path": "SoulMadePack.CollectionPrivatePath"
+    },
+    "name": "SoulMadePack",
+    "marketplace": "https://www.soulmade.art/marketplace"
   }
 ]
