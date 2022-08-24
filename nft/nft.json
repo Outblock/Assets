@@ -192,7 +192,7 @@
     "path": {
         "public_collection_name": "SoulMadeMain.CollectionPublicPath",
         "storage_path": "SoulMadeMain.CollectionStoragePath",
-        "public_path": "SoulMadeMain.CollectionPrivatePath"
+        "public_path": "SoulMadeMain.CollectionPublicPath"
     },
     "name": "SoulMadeMain",
     "marketplace": "https://www.soulmade.art/marketplace"
@@ -214,7 +214,7 @@
     "path": {
         "public_collection_name": "SoulMadeComponent.CollectionPublicPath",
         "storage_path": "SoulMadeComponent.CollectionStoragePath",
-        "public_path": "SoulMadeComponent.CollectionPrivatePath"
+        "public_path": "SoulMadeComponent.CollectionPublicPath"
     },
     "name": "SoulMadeComponent",
     "marketplace": "https://www.soulmade.art/marketplace"
@@ -237,7 +237,7 @@
     "path": {
         "public_collection_name": "SoulMadePack.CollectionPublicPath",
         "storage_path": "SoulMadePack.CollectionStoragePath",
-        "public_path": "SoulMadePack.CollectionPrivatePath"
+        "public_path": "SoulMadePack.CollectionPublicPath"
     },
     "name": "SoulMadePack",
     "marketplace": "https://www.soulmade.art/marketplace"
@@ -851,7 +851,7 @@
     "official_website": "https://app.rcrdshp.com",
     "description": "Community platform for securely trading music and related digital collectibles",
     "path": {
-      "public_collection_name": "NonFungibleToken.CollectionPublic",
+      "public_collection_name": "RCRDSHPNFT.RCRDSHPNFTCollectionPublic",
       "storage_path": "RCRDSHPNFT.collectionStoragePath",
       "public_path": "RCRDSHPNFT.collectionPublicPath"
     },
