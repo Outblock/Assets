@@ -153,28 +153,6 @@
     "name": "Mono Cat Mystery Box",
     "marketplace": "https://matrixmarket.xyz/zh/collection/mainnet_flow-A.8529aaf64c168952.MonoCatMysteryBox"
   },
-  {
-    "contract_name": "RCRDSHPNFT",
-    "address": {
-      "mainnet": "0x6c3ff40b90b928ab",
-      "testnet": null
-    },
-    "banner": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rcrdshp/rcrdshpbanner.png",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/nft/rcrdshp/rcrdshologo.jpg",
-    "secure_cadence_compatible": {
-      "mainnet": true,
-      "testnet": false
-    },
-    "official_website": "https://app.rcrdshp.com/",
-    "description": "Community platform for securely trading music and related digital collectibles",
-    "path": {
-      "public_collection_name": "RCRDSHPNFT.RCRDSHPNFTCollectionPublic",
-      "storage_path": "RCRDSHPNFT.collectionStoragePath",
-      "public_path": "RCRDSHPNFT.collectionPublicPath"
-    },
-    "name": "RCRDSHP",
-    "marketplace": "https://app.rcrdshp.com/market"
-  },
     {
     "contract_name": "SoulMadeMain",
     "address": {
