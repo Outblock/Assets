@@ -88,6 +88,14 @@
         "category": "Game"
     },
     {
+        "name": "DAY-NFT",
+        "url": "https://day-nft.io",
+        "testnet_url": null,
+        "description": "DAY-NFT minting app.",
+        "logo": "https://day-nft.io/thumbnail.png",
+        "category": "NFT"
+    },
+    {
         "name": "Relation",
         "url": "https://relationlabs.ai/",
         "testnet_url": null,
