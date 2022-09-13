@@ -5,7 +5,7 @@
         "testnet_url": "https://testnet.floats.city/",
         "description": "A Flow-enabled proof of attendance platform built by Emerald DAO",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/float/logo.png",
-        "category": "NFT"
+        "category": "Collectible"
     },
     {
         "name": "Increment",
@@ -14,6 +14,14 @@
         "description": "Decentralized money market and one-stop DeFi suites to boost yield & liquidity opportunities on the Flow blockchain",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/increment/logo.jpeg",
         "category": "Defi"
+    },
+     {
+        "name": "Flow Port",
+        "url": "https://port.onflow.org/",
+        "testnet_url": "https://port.testnet.onflow.org/",
+        "description": "Welcome to Flow Port, your portal to the decentralized world of Flow.",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flowns/logo.png",
+        "category": "Tool"
     },
     {
         "name": "Flowns",
@@ -37,7 +45,7 @@
         "testnet_url": "https://testnet.flowscan.org/",
         "description": "Search the Flow blockchain for transactions, accounts, and other activities taking place on Flow.",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flowscan/logo.png",
-        "category": "Util"
+        "category": "Tool"
     },
     {
         "name": "Find",
@@ -61,7 +69,7 @@
         "testnet_url": null,
         "description": "A new way to make your own NFT art.",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/soulmade/logo.png",
-        "category": "NFT"
+        "category": "Collectible"
     },
     {
         "name": "Flowty",
@@ -69,7 +77,7 @@
         "testnet_url": null,
         "description": "P2P NFT Loans and Rentals on the Flow Blockchain.",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flowty/logo.jpeg",
-        "category": "Util"
+        "category": "Tool"
     },
     {
         "name": "Hype Day",
@@ -77,7 +85,7 @@
         "testnet_url": null,
         "description": "Get high-quality registrations for your web3 project's mints, giveaways, and raffles. All for free.",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/hypeDay/logo.png",
-        "category": "Util"
+        "category": "Tool"
     },
     {
         "name": "MonoCats",
@@ -93,7 +101,7 @@
         "testnet_url": null,
         "description": "DAY-NFT minting app.",
         "logo": "https://day-nft.io/thumbnail.png",
-        "category": "NFT"
+        "category": "Collectible"
     },
     {
         "name": "Relation",
