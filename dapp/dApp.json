@@ -20,7 +20,7 @@
         "url": "https://port.onflow.org/",
         "testnet_url": "https://port.testnet.onflow.org/",
         "description": "Welcome to Flow Port, your portal to the decentralized world of Flow.",
-        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flowns/logo.png",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/flow/logo.png",
         "category": "Tool"
     },
     {
