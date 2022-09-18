@@ -96,7 +96,7 @@
          "vault":"/storage/thulTokenVault",
          "receiver":"/public/thulTokenReceiver"
       },
-      "decimals":8,
+      "decimal":8,
       "symbol":"THUL",
       "logoURI":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/thul/logo.png",
       "website":"https://dimensionxnft.com/"
