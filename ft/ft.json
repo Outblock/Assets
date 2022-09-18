@@ -275,7 +275,7 @@
       "name":"Wrapped BTC (Celer)",
       "address":{
          "mainnet":"0x231cc0dbbcffc4b7",
-         "testnet":"https://celer.network"
+         "testnet": null
       },
       "contract_name":"ceWBTC",
       "storage_path":{
