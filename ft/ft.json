@@ -90,15 +90,15 @@
          "mainnet":"0xe3ad6030cbaff1c2",
          "testnet":null
       },
-      "contractName":"ThulToken",
+      "contract_name":"ThulToken",
       "storage_path":{
          "balance":"/public/thulTokenBalance",
          "vault":"/storage/thulTokenVault",
          "receiver":"/public/thulTokenReceiver"
       },
       "decimal":8,
-      "symbol":"THUL",
-      "logoURI":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/thul/logo.png",
+      "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/thul/logo.png",
+      "symbol":"thul",
       "website":"https://dimensionxnft.com/"
    },
    {
