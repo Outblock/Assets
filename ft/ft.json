@@ -85,6 +85,23 @@
       "website":"https://mynft.io/"
    },
    {
+      "name":"Crypthulhu Token",
+      "address":{
+         "mainnet":"0xe3ad6030cbaff1c2",
+         "testnet":null
+      },
+      "contractName":"ThulToken",
+      "storage_path":{
+         "balance":"/public/thulTokenBalance",
+         "vault":"/storage/thulTokenVault",
+         "receiver":"/public/thulTokenReceiver"
+      },
+      "decimals":8,
+      "symbol":"THUL",
+      "logoURI":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/thul/logo.png",
+      "website":"https://dimensionxnft.com/"
+   },
+   {
       "name":"Starly Token",
       "address":{
          "mainnet":"0x142fa6570b62fd97",
@@ -117,6 +134,23 @@
       "icon":"https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.231cc0dbbcffc4b7.RLY/logo.png",
       "symbol":"RLY",
       "website":null
+   },
+   {
+      "name":"REVV",
+      "address":{
+         "mainnet":"0xd01e482eb680ec9f",
+         "testnet":null
+      },
+      "contract_name":"REVV",
+      "storage_path":{
+         "balance":"/public/revvBalance",
+         "vault":"/storage/revvVault",
+         "receiver":"/public/revvReceiver"
+      },
+      "decimal":8,
+      "icon":"https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d01e482eb680ec9f.REVV/logo.png",
+      "symbol":"REVV",
+      "website":"https://revvmotorsport.com/"
    },
    {
       "name":"Avalanche (Celer)",
@@ -304,22 +338,5 @@
       "icon":"https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cfdd90d4a00f7b5b.TeleportedTetherToken/logo.png",
       "symbol":"tUSDT",
       "website":"https://blocto.app/"
-   },
-   {
-      "name":"REVV",
-      "address":{
-         "mainnet":"0xd01e482eb680ec9f",
-         "testnet":null
-      },
-      "contract_name":"REVV",
-      "storage_path":{
-         "balance":"/public/revvBalance",
-         "vault":"/storage/revvVault",
-         "receiver":"/public/revvReceiver"
-      },
-      "decimal":8,
-      "icon":"https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d01e482eb680ec9f.REVV/logo.png",
-      "symbol":"REVV",
-      "website":"https://revvmotorsport.com/"
    }
 ]
