@@ -9,7 +9,7 @@
     },
     {
         "name": "Increment",
-        "url": "https://swap.increment.fi/swap",
+        "url": "https://app.increment.fi/swap",
         "testnet_url": "https://demo.increment.fi/swap",
         "description": "Decentralized money market and one-stop DeFi suites to boost yield & liquidity opportunities on the Flow blockchain",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/increment/logo.jpeg",
