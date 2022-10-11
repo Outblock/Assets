@@ -34,6 +34,23 @@
       "website":"https://docs.onflow.org/fusd/"
    },
    {
+      "name":"Liquid Staking Flow",
+      "address":{
+         "mainnet":"0xd6f80565193ad727",
+         "testnet":"0xe45c64ecfe31e465"
+      },
+      "contract_name":"stFlowToken",
+      "storage_path":{
+         "balance":"/public/stFlowTokenBalance",
+         "vault":"/storage/stFlowTokenVault",
+         "receiver":"/public/stFlowTokenReceiver"
+      },
+      "decimal":8,
+      "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/stFlow/logo.png",
+      "symbol":"stFlow",
+      "website":"https://app.increment.fi/staking"
+   },
+   {
       "name":"Blocto Token",
       "address":{
          "mainnet":"0x0f9df91c9121c460",
