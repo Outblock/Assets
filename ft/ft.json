@@ -136,6 +136,23 @@
       "website":"https://starly.io/"
    },
    {
+      "name":"FRG",
+      "address" : {
+         "mainnet": null,
+         "testnet": "0xe967ebae0cc4b1ed"
+      },
+      "contract_name": "FlowRiderGem",
+      "storage_path": {
+         "balance" : "/public/flowRiderGemBalance",
+         "vault" : "/storage/flowRiderGemVault",
+         "receiver" : "/public/flowRiderGemReceiver"
+      },
+      "decimal":8,
+      "symbol": "FRG",
+      "icon" : "https://flow-rider.vercel.app/images/flow_rider_icon.png",
+      "website": null
+   },
+   {
       "name":"Rally",
       "address":{
          "mainnet":"0x231cc0dbbcffc4b7",
