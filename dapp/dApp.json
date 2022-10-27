@@ -15,13 +15,21 @@
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/increment/logo.jpeg",
         "category": "Defi"
     },
-     {
+    {
         "name": "Flow Port",
         "url": "https://port.onflow.org/",
         "testnet_url": "https://port.testnet.onflow.org/",
         "description": "Welcome to Flow Port, your portal to the decentralized world of Flow.",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/flow/logo.png",
         "category": "Tool"
+    },
+    {
+        "name": "Flovatar",
+        "url": "https://flovatar.com",
+        "testnet_url": null,
+        "description": "Flovatar is a next generation NFT creativity platform where people can become creator and make their characters with any combination they like.",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flovatar/logo.png",
+        "category": "Collectible"
     },
     {
         "name": "Flowns",
