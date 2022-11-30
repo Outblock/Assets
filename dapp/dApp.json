@@ -118,5 +118,37 @@
         "description": "Relation Labs is building a multi-chain decentralized Web3 social graph.",
         "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/relationlabs/logo.png",
         "category": "Social"
+    },
+    {
+        "name": "Flowview",
+        "url": "https://www.flowview.app/",
+        "testnet_url": "https://testnet.flowview.app/",
+        "description": "Tool to help users see items in their Flow account",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/flowview/logo.png",
+        "category": "Tool"
+    },
+    {
+        "name": "Bayou",
+        "url": "https://www.bayou33.app/",
+        "testnet_url": null,
+        "description": "Batch transfer tool #onFlow",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/bayou/logo.png",
+        "category": "Tool"
+    },
+    {
+        "name": "Drizzle",
+        "url": "https://www.drizzle33.app/",
+        "testnet_url": null,
+        "description": "A way to easily airdrop and raffle away NFTs and tokens on the Flow blockchain",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/drizzle/logo.png",
+        "category": "Tool"
+    },
+    {
+        "name": "Link",
+        "url": "https://link.ecdao.org/",
+        "testnet_url": null,
+        "description": "Helps users on Flow make sure their NFT Collections and fungible tokens are set up properly",
+        "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/link/logo.png",
+        "category": "Tool"
     }
 ]
