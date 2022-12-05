@@ -85,7 +85,7 @@
       "website":"https://www.circle.com/en/"
    },
    {
-      "name":"My",
+      "name":"My Token",
       "address":{
          "mainnet":"0x348fe2042c8a70d8",
          "testnet":"0x40212f3e288efd03"
@@ -136,6 +136,23 @@
       "website":"https://starly.io/"
    },
    {
+      "name":"Flovatar Stake Token",
+      "address" : {
+         "mainnet": "0xfdccdb752dbfdfb2",
+         "testnet": null
+      },
+      "contract_name": "StarVault",
+      "storage_path": {
+         "balance" : "/public/starVaultBalance",
+         "vault" : "/storage/starVaultVault",
+         "receiver" : "/public/starVaultReceiver"
+      },
+      "decimal":8,
+      "symbol": "stFLOVATAR",
+      "icon" : "https://gcore.jsdelivr.net/gh/IncrementFi/token-list@main/assets/stFLOVATAR.png",
+      "website": "https://flovatar.com/"
+   },
+   {
       "name":"FRG",
       "address" : {
          "mainnet": null,
@@ -150,7 +167,58 @@
       "decimal":8,
       "symbol": "FRG",
       "icon" : "https://flow-rider.vercel.app/images/flow_rider_icon.png",
-      "website": null
+      "website": "https://flow-rider.vercel.app/"
+   },
+   {
+      "name":"SDM Token",
+      "address" : {
+         "mainnet": "0xc8c340cebd11f690",
+         "testnet": null
+      },
+      "contract_name": "SdmToken",
+      "storage_path": {
+         "balance" : "/public/sdmTokenBalance",
+         "vault" : "/storage/sdmTokenVault",
+         "receiver" : "/public/sdmTokenReceiver"
+      },
+      "decimal":8,
+      "symbol": "SDM",
+      "icon" : "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.c8c340cebd11f690.SdmToken/logo.png",
+      "website": "https://flow.darkcountry.io/"
+   },
+   {
+      "name":"Teleported Tether Token",
+      "address" : {
+         "mainnet": "0xcfdd90d4a00f7b5b",
+         "testnet": null
+      },
+      "contract_name": "TeleportedTetherToken",
+      "storage_path": {
+         "balance" : "/public/teleportedTetherTokenBalance",
+         "vault" : "/storage/teleportedTetherTokenVault",
+         "receiver" : "/public/teleportedTetherTokenReceiver"
+      },
+      "decimal":8,
+      "symbol": "tUSDT",
+      "icon" : "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cfdd90d4a00f7b5b.TeleportedTetherToken/logo.png",
+      "website": "https://blocto.app/"
+   },
+   {
+      "name":"Teleported Tether Token",
+      "address" : {
+         "mainnet": "0xd756450f386fb4ac",
+         "testnet": null
+      },
+      "contract_name": "OzoneToken",
+      "storage_path": {
+         "balance" : "/public/ozonetokenBalance",
+         "vault" : "/storage/ozonetokenVault",
+         "receiver" : "/public/ozonetokenReceiver"
+      },
+      "decimal":8,
+      "symbol": "Ozone",
+      "icon" : "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.d756450f386fb4ac.OzoneToken/logo.png",
+      "website": "https://ozoneuniverse.com/"
    },
    {
       "name":"Rally",
