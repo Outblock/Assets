@@ -13,7 +13,7 @@
       },
       "decimal":8,
       "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/flow/logo.png",
-      "symbol":"flow",
+      "symbol":"FLOW",
       "website":"https://www.onflow.org"
    },
    {
@@ -30,7 +30,7 @@
       },
       "decimal":8,
       "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/fusd/logo.png",
-      "symbol":"fusd",
+      "symbol":"FUSD",
       "website":"https://docs.onflow.org/fusd/"
    },
    {
@@ -64,7 +64,7 @@
       },
       "decimal":8,
       "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/blt/logo.png",
-      "symbol":"blt",
+      "symbol":"BLT",
       "website":"https://blocto.portto.io/en/"
    },
    {
@@ -81,7 +81,7 @@
       },
       "decimal":8,
       "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/usdc/logo.png",
-      "symbol":"usdc",
+      "symbol":"USDC",
       "website":"https://www.circle.com/en/"
    },
    {
@@ -98,7 +98,7 @@
       },
       "decimal":8,
       "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/my/logo.png",
-      "symbol":"my",
+      "symbol":"MY",
       "website":"https://mynft.io/"
    },
    {
@@ -115,7 +115,7 @@
       },
       "decimal":8,
       "icon":"https://raw.githubusercontent.com/Outblock/Assets/main/ft/thul/logo.png",
-      "symbol":"thul",
+      "symbol":"THUL",
       "website":"https://dimensionxnft.com/"
    },
    {
@@ -153,7 +153,7 @@
       "website": "https://flovatar.com/"
    },
    {
-      "name":"FRG",
+      "name":"Flow Rider Gem",
       "address" : {
          "mainnet": null,
          "testnet": "0xe967ebae0cc4b1ed"
@@ -204,7 +204,7 @@
       "website": "https://blocto.app/"
    },
    {
-      "name":"Teleported Tether Token",
+      "name":"Ozone",
       "address" : {
          "mainnet": "0xd756450f386fb4ac",
          "testnet": null
@@ -423,22 +423,5 @@
       "icon":"https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.475755d2c9dccc3a.TeleportedSportiumToken/logo.png",
       "symbol":"SPRT",
       "website":null
-   },
-   {
-      "name":"Teleported Tether Token",
-      "address":{
-         "mainnet":"0xcfdd90d4a00f7b5b",
-         "testnet":null
-      },
-      "contract_name":"TeleportedTetherToken",
-      "storage_path":{
-         "balance":"/public/teleportedTetherTokenBalance",
-         "vault":"/storage/teleportedTetherTokenVault",
-         "receiver":"/public/teleportedTetherTokenReceiver"
-      },
-      "decimal":8,
-      "icon":"https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.cfdd90d4a00f7b5b.TeleportedTetherToken/logo.png",
-      "symbol":"tUSDT",
-      "website":"https://blocto.app/"
    }
 ]
