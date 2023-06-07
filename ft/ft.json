@@ -185,9 +185,43 @@
     },
     "decimal": 8,
     "symbol": "LOPPY",
-    "icon": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.53f389d96fb4ce5e.SloppyStakes/logo.png",
+    "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/loppy/logo.png",
     "website": null
   },
+  {
+   "name": "Ballerz FC",
+   "address": {
+     "mainnet": "0x4ea047c3e73ca460",
+     "testnet": null
+   },
+   "contract_name": "BallerzFC",
+   "storage_path": {
+     "balance": "/public/BallerzFCMetadata",
+     "vault": "/storage/BallerzFCVault",
+     "receiver": "/public/BallerzFCReceiver"
+   },
+   "decimal": 8,
+   "symbol": "BFC",
+   "icon": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
+   "website": "https://twitter.com/Ballerz__FC"
+ },
+  {
+   "name": "brasil",
+   "address": {
+     "mainnet": "0x7bf07d719dcb8480",
+     "testnet": null
+   },
+   "contract_name": "brasil",
+   "storage_path": {
+     "balance": "/public/brasilMetadata",
+     "vault": "/storage/brasilVault",
+     "receiver": "/public/brasilReceiver"
+   },
+   "decimal": 8,
+   "symbol": "BR",
+   "icon": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
+   "website": "https://toucans.ecdao.org/p/brasil"
+ },
   {
     "name": "SDM Token",
     "address": {
