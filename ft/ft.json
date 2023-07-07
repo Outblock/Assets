@@ -186,7 +186,7 @@
     "decimal": 8,
     "symbol": "LOPPY",
     "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/loppy/logo.png",
-    "website": null
+    "website": "https://toucans.ecdao.org/p/SloppyStakes"
   },
   {
    "name": "Ballerz FC",
@@ -203,7 +203,7 @@
    "decimal": 8,
    "symbol": "BFC",
    "icon": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
-   "website": "https://twitter.com/Ballerz__FC"
+   "website": "https://toucans.ecdao.org/p/BallerzFC"
  },
   {
    "name": "brasil",
