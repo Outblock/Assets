@@ -476,5 +476,22 @@
     "icon": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.475755d2c9dccc3a.TeleportedSportiumToken/logo.png",
     "symbol": "SPRT",
     "website": null
+  },
+  {
+    "name": "Dust",
+    "address": {
+      "mainnet": "0x921ea449dffec68a",
+      "testnet": "0x9392a4a7c3f49a0b"
+    },
+    "contract_name": "FlovatarDustToken",
+    "storage_path": {
+      "balance": "/public/FlovatarDustTokenBalance",
+      "vault": "/storage/FlovatarDustTokenVault",
+      "receiver": "/public/FlovatarDustTokenReceiver"
+    },
+    "decimal": 8,
+    "icon": "http://images.flovatar.com/logo-round.png",
+    "symbol": "DUST",
+    "website": "https://flovatar.com"
   }
 ]
