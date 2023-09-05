@@ -490,7 +490,7 @@
       "receiver": "/public/FlovatarDustTokenReceiver"
     },
     "decimal": 8,
-    "icon": "http://images.flovatar.com/logo-round.png",
+    "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/dust/logo.png",
     "symbol": "DUST",
     "website": "https://flovatar.com"
   }
