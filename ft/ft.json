@@ -189,39 +189,39 @@
     "website": "https://toucans.ecdao.org/p/SloppyStakes"
   },
   {
-   "name": "Ballerz FC",
-   "address": {
-     "mainnet": "0x4ea047c3e73ca460",
-     "testnet": null
-   },
-   "contract_name": "BallerzFC",
-   "storage_path": {
-     "balance": "/public/BallerzFCMetadata",
-     "vault": "/storage/BallerzFCVault",
-     "receiver": "/public/BallerzFCReceiver"
-   },
-   "decimal": 8,
-   "symbol": "BFC",
-   "icon": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
-   "website": "https://toucans.ecdao.org/p/BallerzFC"
- },
+    "name": "Ballerz FC",
+    "address": {
+      "mainnet": "0x4ea047c3e73ca460",
+      "testnet": null
+    },
+    "contract_name": "BallerzFC",
+    "storage_path": {
+      "balance": "/public/BallerzFCMetadata",
+      "vault": "/storage/BallerzFCVault",
+      "receiver": "/public/BallerzFCReceiver"
+    },
+    "decimal": 8,
+    "symbol": "BFC",
+    "icon": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.4ea047c3e73ca460.BallerzFC/logo.png",
+    "website": "https://toucans.ecdao.org/p/BallerzFC"
+  },
   {
-   "name": "brasil",
-   "address": {
-     "mainnet": "0x7bf07d719dcb8480",
-     "testnet": null
-   },
-   "contract_name": "brasil",
-   "storage_path": {
-     "balance": "/public/brasilMetadata",
-     "vault": "/storage/brasilVault",
-     "receiver": "/public/brasilReceiver"
-   },
-   "decimal": 8,
-   "symbol": "BR",
-   "icon": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
-   "website": "https://toucans.ecdao.org/p/brasil"
- },
+    "name": "brasil",
+    "address": {
+      "mainnet": "0x7bf07d719dcb8480",
+      "testnet": null
+    },
+    "contract_name": "brasil",
+    "storage_path": {
+      "balance": "/public/brasilMetadata",
+      "vault": "/storage/brasilVault",
+      "receiver": "/public/brasilReceiver"
+    },
+    "decimal": 8,
+    "symbol": "BR",
+    "icon": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.7bf07d719dcb8480.brasil/logo.png",
+    "website": "https://toucans.ecdao.org/p/brasil"
+  },
   {
     "name": "SDM Token",
     "address": {
@@ -493,5 +493,22 @@
     "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/dust/logo.png",
     "symbol": "DUST",
     "website": "https://flovatar.com"
+  },
+  {
+    "name": "Freely",
+    "address": {
+      "mainnet": "0x71e661cc981985c4",
+      "testnet": null
+    },
+    "contract_name": "Freely",
+    "storage_path": {
+      "balance": "/public/FreelyMetadata",
+      "vault": "/storage/FreelyVault",
+      "receiver": "/public/FreelyReceiver"
+    },
+    "decimal": 8,
+    "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/frly/logo.png",
+    "symbol": "FRLY",
+    "website": "https://freely.com/"
   }
 ]
