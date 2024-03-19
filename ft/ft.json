@@ -18,22 +18,39 @@
     "website": "https://www.onflow.org"
   },
   {
-    "name": "Flow USD",
+    "name": "USD Coin",
     "address": {
-      "mainnet": "0x3c5959b568896393",
-      "testnet": "0xe223d8a629e49c68",
-      "sandboxnet": "0x6c52cbc80f034d1b"
+      "mainnet": "0xb19436aae4d94622",
+      "testnet": "0xa983fecbed621163"
     },
-    "contract_name": "FUSD",
+    "contract_name": "FiatToken",
     "storage_path": {
-      "balance": "/public/fusdBalance",
-      "vault": "/storage/fusdVault",
-      "receiver": "/public/fusdReceiver"
+      "balance": "/public/USDCVaultBalance",
+      "vault": "/storage/USDCVault",
+      "receiver": "/public/USDCVaultReceiver"
     },
     "decimal": 8,
-    "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/fusd/logo.png",
-    "symbol": "fusd",
-    "website": "https://docs.onflow.org/fusd/"
+    "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/usdc/logo.png",
+    "symbol": "usdc",
+    "website": "https://www.circle.com/en/"
+  },
+  {
+    "name": "Locked Flow Token",
+    "address": {
+      "mainnet": "0x1654653399040a61",
+      "testnet": "0x7e60df042a9c0868",
+      "sandboxnet": "0x0661ab7d6696a460"
+    },
+    "contract_name": "LockedTokens",
+    "storage_path": {
+      "balance": "/public/flowTokenBalance",
+      "vault": "/storage/flowTokenVault",
+      "receiver": "/public/flowTokenReceiver"
+    },
+    "decimal": 8,
+    "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/flow/logo.png",
+    "symbol": "flow",
+    "website": "https://www.onflow.org"
   },
   {
     "name": "Liquid Staking Flow",
@@ -53,6 +70,23 @@
     "website": "https://app.increment.fi/staking"
   },
   {
+    "name": "Flovatar Stake Token",
+    "address": {
+      "mainnet": "0xfdccdb752dbfdfb2",
+      "testnet": null
+    },
+    "contract_name": "StarVault",
+    "storage_path": {
+      "balance": "/public/starVaultBalance",
+      "vault": "/storage/starVaultVault",
+      "receiver": "/public/starVaultReceiver"
+    },
+    "decimal": 8,
+    "symbol": "stFLOVATAR",
+    "icon": "https://gcore.jsdelivr.net/gh/IncrementFi/token-list@main/assets/stFLOVATAR.png",
+    "website": "https://flovatar.com/"
+  },
+  {
     "name": "Blocto Token",
     "address": {
       "mainnet": "0x0f9df91c9121c460",
@@ -68,23 +102,6 @@
     "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/blt/logo.png",
     "symbol": "blt",
     "website": "https://blocto.portto.io/en/"
-  },
-  {
-    "name": "USD Coin",
-    "address": {
-      "mainnet": "0xb19436aae4d94622",
-      "testnet": "0xa983fecbed621163"
-    },
-    "contract_name": "FiatToken",
-    "storage_path": {
-      "balance": "/public/USDCVaultBalance",
-      "vault": "/storage/USDCVault",
-      "receiver": "/public/USDCVaultReceiver"
-    },
-    "decimal": 8,
-    "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/usdc/logo.png",
-    "symbol": "usdc",
-    "website": "https://www.circle.com/en/"
   },
   {
     "name": "My Token",
@@ -136,23 +153,6 @@
     "icon": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.142fa6570b62fd97.StarlyToken/logo.png",
     "symbol": "STARLY",
     "website": "https://starly.io/"
-  },
-  {
-    "name": "Flovatar Stake Token",
-    "address": {
-      "mainnet": "0xfdccdb752dbfdfb2",
-      "testnet": null
-    },
-    "contract_name": "StarVault",
-    "storage_path": {
-      "balance": "/public/starVaultBalance",
-      "vault": "/storage/starVaultVault",
-      "receiver": "/public/starVaultReceiver"
-    },
-    "decimal": 8,
-    "symbol": "stFLOVATAR",
-    "icon": "https://gcore.jsdelivr.net/gh/IncrementFi/token-list@main/assets/stFLOVATAR.png",
-    "website": "https://flovatar.com/"
   },
   {
     "name": "Green Bitcoin",
@@ -510,5 +510,23 @@
     "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/frly/logo.png",
     "symbol": "FRLY",
     "website": "https://freely.com/"
-  }
+  },
+  {
+    "name": "Flow USD",
+    "address": {
+      "mainnet": "0x3c5959b568896393",
+      "testnet": "0xe223d8a629e49c68",
+      "sandboxnet": "0x6c52cbc80f034d1b"
+    },
+    "contract_name": "FUSD",
+    "storage_path": {
+      "balance": "/public/fusdBalance",
+      "vault": "/storage/fusdVault",
+      "receiver": "/public/fusdReceiver"
+    },
+    "decimal": 8,
+    "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/fusd/logo.png",
+    "symbol": "fusd",
+    "website": "https://docs.onflow.org/fusd/"
+  },
 ]
