@@ -1,11 +1,11 @@
 [
     {
-        "name": "Lilico",
+        "name": "Outblock",
         "type": "Verification",
         "id": "3c6519ba8be35e338df7273a895ad3abaeb0c232eb908ee7b05462018c112fe1",
-        "website": "https://lilico.app/",
-        "description": "The non-custoidal wallet on flow blockchain.",
-        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/lilico/icon.png"
+        "website": "https://outblock.io/",
+        "description": "Let's get crypto outblock!",
+        "icon": "https://avatars.githubusercontent.com/u/94294508"
     },
     {
         "name": "Accomplice",
@@ -22,14 +22,6 @@
         "website": null,
         "description": null,
         "icon": null
-    },
-    {
-        "name": "Artemis",
-        "type": "Verification",
-        "id": "a67ca1afd47c58358c656dffa2e5585d80b01371866e5634b68dcbab090b9b6f",
-        "website": "https://app.artemisprotocol.one/",
-        "description": "Artemis is a multi-product DeFi protocol with launchpad capabilities built on Harmony. ",
-        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/artemis/icon.jpeg"
     },
     {
         "name": "Bison Trails",
@@ -56,36 +48,12 @@
         "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/blockchainatberkeley/icon.png"
     },
     {
-        "name": "Blockchain Coalition/Block Venture",
-        "type": "Verification",
-        "id": "16036263d71f64d65f84542e9f7678e578482a107b61e45b88759ebea2c7451d",
-        "website": "https://www.blockventure.com/",
-        "description": "The BlockVenture Coalition is a research driven alliance of university blockchain groups and funds.",
-        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/blockchaincoalition/icon.jpeg"
-    },
-    {
         "name": "Blockdaemon",
         "type": "Consensus",
         "id": "cd7eed9952dbf8822062db7a351d959ef1166cd6d1856c0ad26c1c67d68e4fdb",
         "website": "https://try.blockdaemon.com/stakingrewardslp/",
         "description": "With Blockdaemon, you can stake tokens safely and securely, on 20+ protocols.",
         "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/blockdaemon/icon.jpeg"
-    },
-    {
-        "name": "Blockparty",
-        "type": "Verification",
-        "id": "17b6c278b933bad8ec7420ff72f14689df70b18fc287549b65709448787b0aea",
-        "website": "https://magiceden.io/marketplace/blockparty",
-        "description": "Cityscape real estate collection made up of 2,800 party blocks. Buy, trade collect, and stake your blocks to earn $BLOCK",
-        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/blockparty/icon.jpeg"
-    },
-    {
-        "name": "Calaxy",
-        "type": "Verification",
-        "id": "8790cc2cabdb172e5a96c24c150865031e1818f6f84fbd68894efd0d0d12dc96",
-        "website": "https://www.calaxy.com/",
-        "description": "Calaxy is the open social marketplace designed & built by Creators for Creators.",
-        "icon": "https://raw.githubusercontent.com/Outblock/Assets/4286f8f6165abfbe49b961ce82a37173294b0641/staking/calaxy/icon.svg"
     },
     {
         "name": "Blocto",
@@ -144,36 +112,12 @@
         "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/flipside/icon.jpeg"
     },
     {
-        "name": "Forbole",
-        "type": "Consensus",
-        "id": "237a7a04ecf88b7c21001589ecc277190a6f7cd6e56a296a203552ade6db0927",
-        "website": "https://www.forbole.com/",
-        "description": "We provide enterprise grade staking services for over 20 blockchain networks and crypto asset management tools for more than 10 cryptocurrencies; we actively participate in communities and governance; we also build a sovereign blockchain for social network applications to encourage mass adoption of cryptos and blockchain technologies.",
-        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/forbole/icon.jpeg"
-    },
-    {
-        "name": "Foundry",
-        "type": "Consensus",
-        "id": "56e97c4cd4079caeb97d2a8f8950437107813436d5964f22a1f459eb8cf73a71",
-        "website": "https://foundrystaking.com/",
-        "description": "Foundry Staking is offered by Foundry, which was created to meet the institutional demand for better capital access, efficiency, and transparency in the digital currency mining and staking industry.",
-        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/foundry/icon.jpeg"
-    },
-    {
         "name": "Huobi",
         "type": "Verification",
         "id": "6944b7968594f277c4c051d83ced4bab6ed87ed992d831f31ffb6a7b5926e298",
         "website": "https://www.huobi.com/en-us/",
         "description": "Huobi is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Secret Network.",
         "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/huobi/icon.jpeg"
-    },
-    {
-        "name": "Metapurse",
-        "type": "Collection",
-        "id": "da27c0fc2a4fe12c04bd70058252c5a26cfe41485bf6ea6aba1c724b7a07542d",
-        "website": "https://metapurse.fund/",
-        "description": "The Metapurse is a crypto-based fund financed by Metakovan and operated jointly with Twobadour. It has been created to actively engage with causes that resonate strongly with us and promote cultural cross-pollination.",
-        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/metapurse/icon.png"
     },
     {
         "name": "NFT42",
@@ -184,36 +128,12 @@
         "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/nft42/icon.jpeg"
     },
     {
-        "name": "P2P",
-        "type": "Verification",
-        "id": "78ef2e461a32df2278ae78baf7cf1a54fec3601fe4723a5833c49e1935dc4b7d",
-        "website": "https://p2p.org/",
-        "description": "P2P Validator helps investors compound their cryptocurrency investments through secure staking. We offer high-uptime, secure staking with advanced monitoring & support.",
-        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/p2p/icon.jpeg"
-    },
-    {
         "name": "Quantstamp",
         "type": "Verification",
         "id": "cecdc27e710c1d78fed522e0dbf32fd88d383d5c0ffc735acc657c25f4989b56",
         "website": "https://quantstamp.com/",
         "description": "Quantstamp’s mission is to secure the decentralized internet, and has protected over $200B in digital asset risk from hackers.",
         "icon": "https://raw.githubusercontent.com/Outblock/Assets/4286f8f6165abfbe49b961ce82a37173294b0641/staking/quantstamp/icon.svg"
-    },
-    {
-        "name": "Republic Labs",
-        "type": "Verification",
-        "id": "94609410b05584616f628f98a26acec339f7e1ce43132f0d8d268540317023d8",
-        "website": "https://www.republiccapital.co/",
-        "description": "Republic Capital is a growth-stage investment advisory focused on web3, fintech and deep tech.",
-        "icon": "https://raw.githubusercontent.com/Outblock/Assets/4286f8f6165abfbe49b961ce82a37173294b0641/staking/republiclabs/icon.svg"
-    },
-    {
-        "name": "RIT",
-        "type": "Verification",
-        "id": "1a671144c4e8def6ce53aa861e185ab22f559f8ba0e0ea6017b714f3b5be0d74",
-        "website": null,
-        "description": null,
-        "icon": null
     },
     {
         "name": "Samsung",
@@ -248,14 +168,6 @@
         "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/sparq/icon.jpeg"
     },
     {
-        "name": "Stake Fish",
-        "type": "Consensus",
-        "id": "b09bfbaf2d9e6f6541855dc65b8e0247bd97a0cceb607b9cf89ed368bc16308d",
-        "website": "https://stake.fish/en/",
-        "description": "We are the leading staking service provider for blockchain projects. Join our community to help secure networks and earn rewards. ",
-        "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/stakefish/icon.jpeg"
-    },
-    {
         "name": "Staked",
         "type": "Collection",
         "id": "129aab6407f6f66774ce77a03b8abd1ba67317eab1c70c5c6cdd7a433a7d64e8",
@@ -270,14 +182,6 @@
         "website": "https://www.t-systems.com/de/en",
         "description": "T-Systems is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Flow.",
         "icon": "https://raw.githubusercontent.com/Outblock/Assets/main/staking/tsystems/icon.png"
-    },
-    {
-        "name": "Uken",
-        "type": "Verification",
-        "id": "d5ff81187aae96977ef8fdf8c9ceaac12ccb02df75da0bc3e7d3240d5a288382",
-        "website": null,
-        "description": null,
-        "icon": null
     },
     {
         "name": "Usopp",
