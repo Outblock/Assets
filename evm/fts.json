@@ -1,0 +1,48 @@
+{
+    "previewnet": {
+        "name": "Flow previewnet EVM FT List",
+        "logoURI": "",
+        "keywords": [
+            "previewnet",
+            "FTs"
+        ],
+        "tags": {
+            "stablecoin": {
+                "name": "Stablecoin",
+                "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+            }
+        },
+        "timestamp": "",
+        "tokens": [
+            {
+                "chainId": 646,
+                "address": "0xF852E525547561EBCadca0F48B818fAa2C9e1E46",
+                "symbol": "BT",
+                "name": "Bridged Token",
+                "decimals": 18,
+                "logoURI": "",
+                "tags": []
+            },
+            {
+                "chainId": 646,
+                "address": "0xf8ee6257732100c5c1ba5df46bb6691360c6b36d",
+                "symbol": "BridgeExampleToken",
+                "name": "Bridged Example token",
+                "decimals": 18,
+                "logoURI": "",
+                "tags": []
+            },
+            {
+                "chainId": 646,
+                "address": "0xD89622d03DF97276569004d127943de4a72fCE8F",
+                "symbol": "MFT",
+                "name": "MyFT",
+                "decimals": 18,
+                "logoURI": "",
+                "tags": []
+            }
+        ]
+    },
+    "testnet": [],
+    "mainnet": []
+}
