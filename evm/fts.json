@@ -26,7 +26,7 @@
             {
                 "chainId": 646,
                 "address": "0xf8ee6257732100c5c1ba5df46bb6691360c6b36d",
-                "symbol": "BridgeExampleToken",
+                "symbol": "BET",
                 "name": "Bridged Example token",
                 "decimals": 18,
                 "logoURI": "",
