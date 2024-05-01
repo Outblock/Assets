@@ -48,12 +48,12 @@
         "category": "Marketplace"
     },
     {
-        "name": "Flowscan",
-        "url": "https://flowscan.org/",
-        "testnet_url": "https://testnet.flowscan.org/",
-        "description": "Search the Flow blockchain for transactions, accounts, and other activities taking place on Flow.",
-        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flowscan/logo.png",
-        "category": "Tool"
+        "name": "Flowverse",
+        "url": "https://www.flowverse.co/",
+        "testnet_url": null,
+        "description": "Flowverse provides a list of Flow Blockchain projects and upcoming NFT drops, as well as Flow Blockchain ecosystem news and opportunities.",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flowverse/logo.png",
+        "category": "Marketplace"
     },
     {
         "name": "Find",
