@@ -32,6 +32,22 @@
         "category": "Collectible"
     },
     {
+        "name": "Kitty Punch",
+        "url": "https://app.kittypunch.xyz/",
+        "testnet_url": null,
+        "description": "DeFi yield aggregator designed for consumer blockchains. Find KittyPunch on Blast, Flow, and more.",
+        "logo": "https://app.kittypunch.xyz/favicon/apple-touch-icon.png",
+        "category": "Defi"
+    },
+    {
+        "name": "Punch Swap",
+        "url": "https://swap.kittypunch.xyz/",
+        "testnet_url": null,
+        "description": "PunchSwap is your gateway to decentralized trading on consumer-friendly blockchains. Trade tokens easily and efficiently with low fees.",
+        "logo": "https://swap.kittypunch.xyz/images/PunchIcon.png",
+        "category": "Defi"
+    },
+    {
         "name": "Flowns",
         "url": "https://flowns.org",
         "testnet_url": "https://testnet.flowns.org",
