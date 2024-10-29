@@ -1,10 +1,10 @@
 [
     {
-        "name": "Increment",
-        "url": "https://app.increment.fi/swap",
-        "testnet_url": "https://demo.increment.fi/swap",
-        "description": "Decentralized money market and one-stop DeFi suites to boost yield & liquidity opportunities on the Flow blockchain",
-        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/increment/logo.jpeg",
+        "name": "FLOW Community Rewards",
+        "url": "https://rewards.flow.com/",
+        "testnet_url": null,
+        "description": "Lock in $FLOW for 3 months to get a Boost on your $FLOW",
+        "logo": "https://gateway.pinata.cloud/ipfs/QmXPXRZwZByuC5jFV8Lhk5E6HQCkBxYYMkrkJ4b1FYNmf6/",
         "category": "Defi"
     },
     {
@@ -14,6 +14,14 @@
         "description": "Welcome to Flow Port, your portal to the decentralized world of Flow.",
         "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/flow/logo.png",
         "category": "Tool"
+    },
+    {
+        "name": "Increment",
+        "url": "https://app.increment.fi/swap",
+        "testnet_url": "https://demo.increment.fi/swap",
+        "description": "Decentralized money market and one-stop DeFi suites to boost yield & liquidity opportunities on the Flow blockchain",
+        "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/increment/logo.jpeg",
+        "category": "Defi"
     },
     {
         "name": "Kitty Punch",
