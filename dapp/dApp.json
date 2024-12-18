@@ -96,6 +96,14 @@
     "category": "Collectible"
   },
   {
+    "name": "aiSports Daily Fantasy",
+    "url": "https://www.aisportspro.com/",
+    "testnet_url": null,
+    "description": "Play NBA Daily Fantasy, win $JUICE and collect aiSports NFTs",
+    "logo": "https://aisportspro.com/favicon.png",
+    "category": "Collectible"
+  },
+  {
     "name": "Flowns",
     "url": "https://flowns.org",
     "testnet_url": "https://testnet.flowns.org",
