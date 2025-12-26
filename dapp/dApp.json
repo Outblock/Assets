@@ -1,66 +1,18 @@
 [
   {
-    "name": "Pump.Flow",
-    "url": "https://www.pumpflow.meme/",
+    "name": "Peak Money",
+    "url": "https://peak.money/",
     "testnet_url": null,
-    "description": "A meme token launchpad on Flow, lets users create tokens without writing code",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/pumpflow/logo.jpg",
+    "description": "The future of finance, built by Dapper Labs. Invest smart. Achieve more.",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/peakmoney/logo.png",
     "category": "Defi"
   },
   {
-    "name": "FLOW Community Rewards",
-    "url": "https://rewards.flow.com/",
+    "name": "Flow Swap",
+    "url": "https://swap.flow.com/",
     "testnet_url": null,
-    "description": "Lock in $FLOW for 3 months to get a Boost on your $FLOW",
-    "logo": "https://gateway.pinata.cloud/ipfs/QmXPXRZwZByuC5jFV8Lhk5E6HQCkBxYYMkrkJ4b1FYNmf6/",
-    "category": "Defi"
-  },
-  {
-    "name": "Flow Port",
-    "url": "https://port.onflow.org/",
-    "testnet_url": "https://port.testnet.onflow.org/",
-    "description": "Welcome to Flow Port, your portal to the decentralized world of Flow.",
+    "description": "Swap on Flow Aggregator",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/flow/logo.png",
-    "category": "Tool"
-  },
-  {
-    "name": "Increment",
-    "url": "https://app.increment.fi/swap",
-    "testnet_url": "https://demo.increment.fi/swap",
-    "description": "Decentralized money market and one-stop DeFi suites to boost yield & liquidity opportunities on the Flow blockchain",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/increment/logo.jpeg",
-    "category": "Defi"
-  },
-  {
-    "name": "Mintify",
-    "url": "https://flow.mintify.xyz/",
-    "testnet_url": null,
-    "description": "The most advanced trading platform for digital assets. Join 180000+ users trading on Mintify.",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/mintify/logo.png",
-    "category": "Collectible"
-  },
-  {
-    "name": "Kitty Punch",
-    "url": "https://app.kittypunch.xyz/",
-    "testnet_url": null,
-    "description": "DeFi yield aggregator designed for consumer blockchains. Find KittyPunch on Blast, Flow, and more.",
-    "logo": "https://app.kittypunch.xyz/favicon/apple-touch-icon.png",
-    "category": "Defi"
-  },
-  {
-    "name": "Punch Swap",
-    "url": "https://swap.kittypunch.xyz/",
-    "testnet_url": null,
-    "description": "PunchSwap is your gateway to decentralized trading on consumer-friendly blockchains. Trade tokens easily and efficiently with low fees.",
-    "logo": "https://swap.kittypunch.xyz/images/PunchIcon.png",
-    "category": "Defi"
-  },
-  {
-    "name": "Trado Swap",
-    "url": "https://spot.trado.one/trade/swap",
-    "testnet_url": null,
-    "description": "Liquidity Redefined - A multi-chain DeFi protocol providing One-Stop Liquidity as a Service (LaaS).",
-    "logo": "https://cdn.prod.website-files.com/60f008ba9757da0940af288e/66d7acb788c226956c0517db_trado.JPG",
     "category": "Defi"
   },
   {
@@ -72,52 +24,84 @@
     "category": "Defi"
   },
   {
+    "name": "Beezie Claw",
+    "url": "https://beezie.io/claw",
+    "testnet_url": "https://staging.beezie.io/claw",
+    "description": "A digital twist on the classic arcade game, offering collectors the chance to win high-value items.",
+    "logo": "https://beezie.io/img/beezie.png",
+    "category": "Collectibles"
+  },
+  {
+    "name": "CryptoKitties | Account Hub",
+    "url": "https://account.cryptokitties.co/",
+    "testnet_url": null,
+    "description": "ZEN is the core resource of the game. Earned passively, as well as by petting and rubbing the Big Egg.",
+    "logo": "https://zenegg.assets.cryptokitties.dapperlabs.com/generalAssetsFE/egg_drop/ckLogo.png",
+    "category": "Collectibles"
+  },
+  {
+    "name": "CryptoKitties | Meowcoins",
+    "url": "https://meowcoins.cryptokitties.co",
+    "testnet_url": null,
+    "description": "A fresh take on token economies, Meowcoins from CryptoKitties are playful, community-forward, and built on a universe of digital cats.",
+    "logo": "https://zenegg.assets.cryptokitties.dapperlabs.com/meowcoins/gwendolion.png",
+    "category": "Defi"
+  },
+  {
+    "name": "Disney Pinnacle",
+    "url": "https://apps.apple.com/us/app/disney-pinnacle-by-dapper-labs/id6461573098",
+    "testnet_url": null,
+    "description": "Hunt for, collect, trade and curate exclusive officially licensed rare digital pins featuring beloved characters from Disney, Pixar and STAR WARS.",
+    "logo": "https://support.disneypinnacle.com/hc/theming_assets/01HZKMV6JGAF481VT9PYKFANKA.png",
+    "category": "Collectibles"
+  },
+  {
     "name": "Find",
     "url": "https://find.xyz/",
     "testnet_url": "https://test.find.xyz/",
-    "description": "A place to find people and things on the Flow Blockchain",
+    "description": "A place to find people and things on the Flow Blockchain.",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/find/logo.png",
     "category": "Domain"
   },
   {
-    "name": "Flovatar",
-    "url": "https://flovatar.com",
+    "name": "FixesWorld",
+    "url": "https://fixes.world/",
     "testnet_url": null,
-    "description": "Flovatar is a next generation NFT creativity platform where people can become creator and make their characters with any combination they like.",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flovatar/logo.png",
-    "category": "Collectible"
+    "description": "Fixes World provides multiple fungible token issuance, trading, staking, and governance services.",
+    "logo": "https://fixes.world/apple-touch-icon.png",
+    "category": "Defi"
   },
   {
     "name": "FLOAT",
     "url": "https://floats.city/",
     "testnet_url": "https://testnet.floats.city/",
-    "description": "A Flow-enabled proof of attendance platform built by Emerald DAO",
+    "description": "A proof of attendance platform built by Emerald DAO.",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/float/logo.png",
-    "category": "Collectible"
+    "category": "Collectibles"
   },
   {
-    "name": "aiSports Daily Fantasy",
-    "url": "https://www.aisportspro.com/",
+    "name": "FLOW Community Rewards",
+    "url": "https://rewards.flow.com/",
     "testnet_url": null,
-    "description": "Play NBA Daily Fantasy, win $JUICE and collect aiSports NFTs",
-    "logo": "https://aisportspro.com/favicon.png",
-    "category": "Collectible"
+    "description": "Earn prizes like MacBooks, NFTs, Nikes, and much more.",
+    "logo": "https://gateway.pinata.cloud/ipfs/QmXPXRZwZByuC5jFV8Lhk5E6HQCkBxYYMkrkJ4b1FYNmf6/",
+    "category": "Defi"
   },
   {
-    "name": "Flowns",
-    "url": "https://flowns.org",
-    "testnet_url": "https://testnet.flowns.org",
-    "description": "Flow-based Domain Name Service where every domain is an NFT",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flowns/logo.png",
-    "category": "Domain"
-  },
-  {
-    "name": "Matrix Market",
-    "url": "https://matrixmarket.xyz/",
+    "name": "Flow Bridge",
+    "url": "https://bridge.flow.com/",
     "testnet_url": null,
-    "description": "The first all-in-one marketplace for creators, collectors, and traders on Flow",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/matrixmarket/logo.png",
-    "category": "Marketplace"
+    "description": "Bridge assets to Flow.",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/flow/logo.png",
+    "category": "Tool"
+  },
+  {
+    "name": "Flow Port",
+    "url": "https://port.onflow.org/",
+    "testnet_url": "https://port.testnet.onflow.org/",
+    "description": "Welcome to Flow Port, a tool to manage your Flow account.",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/ft/flow/logo.png",
+    "category": "Tool"
   },
   {
     "name": "Flowverse",
@@ -128,20 +112,12 @@
     "category": "Marketplace"
   },
   {
-    "name": "MyNFT",
-    "url": "https://mynft.io/",
-    "testnet_url": null,
-    "description": "Mynft is a public creators’ platform to provide creators and their followers with a brand-new way of growth and capitalization.",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/myNFT/logo.png",
-    "category": "Marketplace"
-  },
-  {
-    "name": "SoulMade",
-    "url": "https://www.soulmade.art/",
-    "testnet_url": null,
-    "description": "A new way to make your own NFT art.",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/soulmade/logo.png",
-    "category": "Collectible"
+    "name": "Flowview",
+    "url": "https://www.flowview.app/",
+    "testnet_url": "https://testnet.flowview.app/",
+    "description": "A tool to help users see items in their Flow account.",
+    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/flowview/logo.png",
+    "category": "Tool"
   },
   {
     "name": "Flowty",
@@ -149,70 +125,102 @@
     "testnet_url": null,
     "description": "P2P NFT Loans and Rentals on the Flow Blockchain.",
     "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flowty/logo.jpeg",
-    "category": "Tool"
+    "category": "Collectibles"
   },
   {
-    "name": "Hype Day",
-    "url": "https://hype.day/public-projects",
+    "name": "Flovatar",
+    "url": "https://flovatar.com",
     "testnet_url": null,
-    "description": "Get high-quality registrations for your web3 project's mints, giveaways, and raffles. All for free.",
-    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/hypeDay/logo.png",
-    "category": "Tool"
+    "description": "Flovatar is a next-generation NFT creativity platform where you can become a creator and make your character with any combination you like.",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flovatar/logo.png",
+    "category": "Collectibles"
   },
   {
-    "name": "MonoCats",
-    "url": "https://mono.fun",
+    "name": "Flowns",
+    "url": "https://flowns.org",
+    "testnet_url": "https://testnet.flowns.org",
+    "description": "A Domain Name Service where every domain is an NFT.",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/flowns/logo.png",
+    "category": "Domain"
+  },
+  {
+    "name": "Increment",
+    "url": "https://app.increment.fi/swap",
+    "testnet_url": "https://demo.increment.fi/swap",
+    "description": "Decentralized money market and one-stop DeFi suites to boost yield & liquidity opportunities on the Flow blockchain.",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/increment/logo.jpeg",
+    "category": "Defi"
+  },
+  {
+    "name": "Kitty Punch",
+    "url": "https://app.kittypunch.xyz/",
     "testnet_url": null,
-    "description": "N(W)A(H)N(A)I(T)!!? A cat birth in Monoverse? Just come and grab your fellow.",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/mono/logo.png",
-    "category": "Collectible"
+    "description": "DeFi yield aggregator designed for consumer blockchains. Find KittyPunch on Blast, Flow, and more.",
+    "logo": "https://app.kittypunch.xyz/favicon/apple-touch-icon.png",
+    "category": "Defi"
   },
   {
-    "name": "DAY-NFT",
-    "url": "https://day-nft.io",
+    "name": "Mintify",
+    "url": "https://flow.mintify.xyz/",
     "testnet_url": null,
-    "description": "DAY-NFT minting app.",
-    "logo": "https://day-nft.io/thumbnail.png",
-    "category": "Collectible"
+    "description": "The most advanced trading platform for digital assets. Join 180000+ users trading on Mintify.",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/mintify/logo.png",
+    "category": "Collectibles"
   },
   {
-    "name": "Relation",
-    "url": "https://relationlabs.ai/",
+    "name": "More Markets",
+    "url": "https://app.more.markets/",
     "testnet_url": null,
-    "description": "Relation Labs is building a multi-chain decentralized Web3 social graph.",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/relationlabs/logo.png",
-    "category": "Social"
+    "description": "MORE gives market makers, traders, and financial institutions access to more borrow capacity and more flexibility during market downturns.",
+    "logo": "https://app.more.markets/logo-header.png",
+    "category": "Defi"
   },
   {
-    "name": "Flowview",
-    "url": "https://www.flowview.app/",
-    "testnet_url": "https://testnet.flowview.app/",
-    "description": "Tool to help users see items in their Flow account",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/flowview/logo.png",
-    "category": "Tool"
-  },
-  {
-    "name": "Bayou",
-    "url": "https://www.bayou33.app/",
+    "name": "NBA Top Shot",
+    "url": "https://apps.apple.com/ca/app/nba-top-shot-limited-access/id1483890080",
     "testnet_url": null,
-    "description": "Batch transfer tool #onFlow",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/bayou/logo.png",
-    "category": "Tool"
+    "description": "Relive the Moments from your favorite players and teams. Collect iconic NBA highlights.",
+    "logo": "https://nbatopshot.com/static/favicon/favicon-512.png",
+    "category": "Collectibles"
   },
   {
-    "name": "Drizzle",
-    "url": "https://www.drizzle33.app/",
+    "name": "OpenSea",
+    "url": "https://opensea.io",
     "testnet_url": null,
-    "description": "A way to easily airdrop and raffle away NFTs and tokens on the Flow blockchain",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/drizzle/logo.png",
-    "category": "Tool"
+    "description": "The world's first and largest digital marketplace for crypto.",
+    "logo": "https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png",
+    "category": "Collectibles"
   },
   {
-    "name": "Link",
-    "url": "https://link.ecdao.org/",
+    "name": "Pump.Flow",
+    "url": "https://www.pumpflow.meme/",
     "testnet_url": null,
-    "description": "Helps users on Flow make sure their NFT Collections and fungible tokens are set up properly",
-    "logo": "https://raw.githubusercontent.com/Outblock/assets/main/dapp/link/logo.png",
-    "category": "Tool"
+    "description": "A meme token launchpad on Flow. Create tokens without writing code.",
+    "logo": "https://raw.githubusercontent.com/Outblock/Assets/main/dapp/pumpflow/logo.jpg",
+    "category": "Defi"
+  },
+  {
+    "name": "Punch Swap",
+    "url": "https://swap.kittypunch.xyz/",
+    "testnet_url": null,
+    "description": "PunchSwap is your gateway to decentralized trading on consumer-friendly blockchains. Trade tokens easily and efficiently with low fees.",
+    "logo": "https://swap.kittypunch.xyz/Punch1.png",
+    "category": "Defi"
+  },
+  {
+    "name": "Trado Swap",
+    "url": "https://spot.trado.one/trade/swap",
+    "testnet_url": null,
+    "description": "Liquidity Redefined - A multi-chain DeFi protocol providing One-Stop Liquidity as a Service (LaaS).",
+    "logo": "https://cdn.prod.website-files.com/60f008ba9757da0940af288e/66d7acb788c226956c0517db_trado.JPG",
+    "category": "Defi"
+  },
+  {
+    "name": "aiSports Daily Fantasy",
+    "url": "https://www.aisportspro.com/",
+    "testnet_url": null,
+    "description": "Play NBA Daily Fantasy, win $JUICE and collect aiSports NFTs.",
+    "logo": "https://aisportspro.com/favicon.png",
+    "category": "Collectibles"
   }
 ]
